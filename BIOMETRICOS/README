@@ -1,1 +1,180 @@
 Ejemplos de muestras utilizadas para la modelización de audio + biométricos
+
+1.- Variables de audio
+
+En el dataset RECOLA con el que estamos trabajando, se utiliza el set de parámetros de audio conocido como GeMAPS, por lo que todas las variables hacen referencia a los descriptores de bajo nivel (Low level descriptors=LLD) que se extraen directamente de los audios y sobre los que se aplica una ventana temporal de 4/6 segundos  con desplazamientos de 40 ms para la extracción de los estadísticos que aparecen como atributos (media, desviación, percentiles… ).
+Para entender los nombres de los atributos, primero debemos de tener en cuenta algunos detalles:
+Tipo de filtrado de los LLDs
+*sma3nz = Todos los LLDs que contienen estas letras detrás significa que tras extraerlos, se les filtró con un filtro de media usando 3 tramas, para suavizar las señales obtenidas de los descriptores. Este filtrado sólo tenía lugar entre partes de las señales en las que no había transiciones desde un valor distinto de 0 a 0.
+*sma3 = La diferencia con el anterior es que en este caso, el filtrado se produce en cualquier parte de la señal, incluyendo aquellas en las que hay transiciones a 0.
+Tipo de segmento
+*V = Segmentos con voz.
+*UV = Segmentos sin voz (silencios).
+- = Si no se especifica, se considera que se incluyen ambos, tanto segmentos con voz como sin voz.
+
+En segundo lugar, aparecen los nombres referentes a los estadísticos que se utilizan para extraer información de la ventana temporal de 2,8 segundos. Estos estadísticos se calculan sobre las regiones con voz (F0 distinto de 0) excepto para los que se aplican para el descriptor de loudness. Los posibles estadísticos que podemos encontrar son:
+
+*amean = Media aritmética.
+*stddevNorm = coeficiente de variación o desviación estándar relativa.
+*percentile 20,50,80 = percentiles del LLD en la ventana temporal.
+*pctlrange0-2 =Rango de percentiles 0-80.
+*meanFalling/RisingSlope = media de la pendiente de bajada/subida de la parte de señal contenida en la ventana.
+*stddevFalling/RisingSlope = desviación estándar de la pendiente de bajada/subida de la señal contenida en la ventana.
+Por último, tenemos los alias que hacen referencia a determinados descriptores obtenidos de los audios, que son:
+
+F0semitoneFrom27.5Hz= Hace referencia al pitch de la señal, que es la medida del logaritmo de la F0 usando una de escala de frecuencia de semitonos, empezando por la frecuencia 27.5Hz que se corresponde con el semitono 0.
+Loudness = Loudness o estimación de la intensidad de señal percibida usando como escala los niveles de percepción del espectro del sistema auditivo humano.
+spectralFlux= Flujo espectral o diferencia en el espectro de 2 tramas consecutivas.
+mfcc1-4= Coeficientes MFCC 1-4
+jitterLocal = Jitter o desviación entre períodos consecutivos de la F0.
+ShimmerLocaldB = Shimmer o diferencia entre picos de amplitud de 2 periodos de la F0 consecutivos. Medido en decibelios.
+HNRdBACF = Harmonics-to-noise ratio o relación entre las componentes de energía de los armónicos y las del ruido.
+logRelF0-H1-H2 = Ratio de energía del primer armónico de F0 (H1) con el segundo armónico de F0 (H2).
+logRelF0-H1-A3 = Ratio de energía del primer armónico de F0 (H1) con el mayor armónuco en el rango del tercer formante(A3)
+F1/F2/F3 frequency = Frecuencia central del primer/segundo/tercer formante
+F1/F2/F3 bandwidth = Ancho de banda del primer/segundo/tercer formance
+F1/F2/F3 amplitudeLogRelF0 = Energía relativa de los formantes 1/2/3 con respecto a la energía del pico espectral en F0.
+alphaRatio = Ratio de energía acumulada entre 50-1.000Hz y 1-5kHz.
+hammarbergIndex = Ratio entre el mayor pico de energía en la región de 0-2kHz y el mayor pico en la región de 2-5kHz.
+Slope0-500/Slope500-1500 = regresión lineal de la inclinación del logaritmo de la potencia del espectro en dichas bandas.
+LoudnessPeaksPerSec = número de picos en loudness por segundo.
+VoicedSegmentsPerSec = número de segmentos de voz por segundo. Aproximación del ‘syllable rate’ o tasa de sílaba.
+MeanVoiced/UnVoicedSegmentLength = Tamaño de fragmentos de voz/silencio.
+equivalentSoundLevel_dBp = Energía media RMS.
+Así pues, la lista completa de las variable de audio utilizadas en este estudio es la siguiente:
+@attribute F0semitoneFrom27.5Hz_sma3nz_amean
+@attribute F0semitoneFrom27.5Hz_sma3nz_stddevNorm numeric
+@attribute F0semitoneFrom27.5Hz_sma3nz_percentile20.0 numeric
+@attribute F0semitoneFrom27.5Hz_sma3nz_percentile50.0 numeric
+@attribute F0semitoneFrom27.5Hz_sma3nz_percentile80.0 numeric
+@attribute F0semitoneFrom27.5Hz_sma3nz_pctlrange0-2 numeric
+@attribute F0semitoneFrom27.5Hz_sma3nz_meanRisingSlope numeric
+@attribute F0semitoneFrom27.5Hz_sma3nz_stddevRisingSlope numeric
+@attribute F0semitoneFrom27.5Hz_sma3nz_meanFallingSlope numeric
+@attribute F0semitoneFrom27.5Hz_sma3nz_stddevFallingSlope numeric
+
+@attribute loudness_sma3_amean numeric
+@attribute loudness_sma3_stddevNorm numeric
+@attribute loudness_sma3_percentile20.0 numeric
+@attribute loudness_sma3_percentile50.0 numeric
+@attribute loudness_sma3_percentile80.0 numeric
+@attribute loudness_sma3_pctlrange0-2 numeric
+@attribute loudness_sma3_meanRisingSlope numeric
+@attribute loudness_sma3_stddevRisingSlope numeric
+@attribute loudness_sma3_meanFallingSlope numeric
+@attribute loudness_sma3_stddevFallingSlope numeric
+
+@attribute spectralFlux_sma3_amean numeric
+@attribute spectralFlux_sma3_stddevNorm numeric
+
+@attribute mfcc1_sma3_amean numeric
+@attribute mfcc1_sma3_stddevNorm numeric
+@attribute mfcc2_sma3_amean numeric
+@attribute mfcc2_sma3_stddevNorm numeric
+@attribute mfcc3_sma3_amean numeric
+@attribute mfcc3_sma3_stddevNorm numeric
+@attribute mfcc4_sma3_amean numeric
+@attribute mfcc4_sma3_stddevNorm numeric
+
+@attribute jitterLocal_sma3nz_amean numeric
+@attribute jitterLocal_sma3nz_stddevNorm numeric
+
+@attribute shimmerLocaldB_sma3nz_amean numeric
+@attribute shimmerLocaldB_sma3nz_stddevNorm numeric
+
+@attribute HNRdBACF_sma3nz_amean numeric
+@attribute HNRdBACF_sma3nz_stddevNorm numeric
+
+@attribute logRelF0-H1-H2_sma3nz_amean numeric
+@attribute logRelF0-H1-H2_sma3nz_stddevNorm numeric
+
+@attribute logRelF0-H1-A3_sma3nz_amean numeric
+@attribute logRelF0-H1-A3_sma3nz_stddevNorm numeric
+
+@attribute F1frequency_sma3nz_amean numeric
+@attribute F1frequency_sma3nz_stddevNorm numeric
+@attribute F1bandwidth_sma3nz_amean numeric
+@attribute F1bandwidth_sma3nz_stddevNorm numeric
+@attribute F1amplitudeLogRelF0_sma3nz_amean numeric
+@attribute F1amplitudeLogRelF0_sma3nz_stddevNorm numeric
+@attribute F2frequency_sma3nz_amean numeric
+@attribute F2frequency_sma3nz_stddevNorm numeric
+@attribute F2bandwidth_sma3nz_amean numeric
+@attribute F2bandwidth_sma3nz_stddevNorm numeric
+@attribute F2amplitudeLogRelF0_sma3nz_amean numeric
+@attribute F2amplitudeLogRelF0_sma3nz_stddevNorm numeric
+@attribute F3frequency_sma3nz_amean numeric
+@attribute F3frequency_sma3nz_stddevNorm numeric
+@attribute F3bandwidth_sma3nz_amean numeric
+@attribute F3bandwidth_sma3nz_stddevNorm numeric
+@attribute F3amplitudeLogRelF0_sma3nz_amean numeric
+@attribute F3amplitudeLogRelF0_sma3nz_stddevNorm numeric
+
+@attribute alphaRatioV_sma3nz_amean numeric
+@attribute alphaRatioV_sma3nz_stddevNorm numeric
+
+@attribute hammarbergIndexV_sma3nz_amean numeric
+@attribute hammarbergIndexV_sma3nz_stddevNorm numeric
+
+@attribute slopeV0-500_sma3nz_amean numeric
+@attribute slopeV0-500_sma3nz_stddevNorm numeric
+@attribute slopeV500-1500_sma3nz_amean numeric
+@attribute slopeV500-1500_sma3nz_stddevNorm numeric
+
+@attribute spectralFluxV_sma3nz_amean numeric
+@attribute spectralFluxV_sma3nz_stddevNorm numeric
+
+@attribute mfcc1V_sma3nz_amean numeric
+@attribute mfcc1V_sma3nz_stddevNorm numeric
+@attribute mfcc2V_sma3nz_amean numeric
+@attribute mfcc2V_sma3nz_stddevNorm numeric
+@attribute mfcc3V_sma3nz_amean numeric
+@attribute mfcc3V_sma3nz_stddevNorm numeric
+@attribute mfcc4V_sma3nz_amean numeric
+@attribute mfcc4V_sma3nz_stddevNorm numeric
+
+@attribute alphaRatioUV_sma3nz_amean numeric
+@attribute hammarbergIndexUV_sma3nz_amean numeric
+@attribute slopeUV0-500_sma3nz_amean numeric
+@attribute slopeUV500-1500_sma3nz_amean numeric
+
+@attribute spectralFluxUV_sma3nz_amean numeric
+
+@attribute loudnessPeaksPerSec numeric
+
+@attribute VoicedSegmentsPerSec numeric
+
+@attribute MeanVoicedSegmentLengthSec numeric
+@attribute StddevVoicedSegmentLengthSec numeric
+@attribute MeanUnvoicedSegmentLength numeric
+@attribute StddevUnvoicedSegmentLength numeric
+
+@attribute equivalentSoundLevel_dBp numeric
+
+2.- Biométricos
+
+En el caso de los biométricos, inicialmente se obtuvieron las señales de sensores capaz de extraer las señales de ECG y EDA. En este estudio sólo se utilizaron descriptores extraídos de la señal del electrocardiograma, en concreto, los descriptores referentes al pulso y su variabilidad (derivada de primer orden del pulso), que en los atributos tiene asociados el alias de HR y HRV. 
+La razón reside en que actualmente existen muchos weareables que incorporan la medición del pulso y no son dispositivos demasiado intrusivos, capaces de darnos información añadida sobre el estado emocional de la persona.
+
+Estas señales de HR y HRV se extraen después de realizar un filtrado paso banda sobre el ECG. Y a partir de estos 2 descriptores (una vez se han escalado entre 0 y 1), se extraen sus estadísticos que en este caso son los siguientes:
+
+*mean = Media aritmética.
+*stddev = Desviación estándar.
+*meanFalling/RisingSlope = media aritmética de la pendiente de bajada/subida de la parte de señal contenida en la ventana.
+PropRising = Porcentaje de valores en aumento o de subidas.
+La lista de biométricos utilizados es la siguiente:
+@attribute ECG_HR_mean numeric
+@attribute ECG_HR_stddev numeric
+
+@attribute ECG_HR_meanRisingSlope numeric
+@attribute ECG_HR_meanFallingSlope numeric
+
+@attribute ECG_HR_propRising numeric
+
+@attribute ECG_HRV_mean numeric
+@attribute ECG_HRV_stddev numeric
+
+@attribute ECG_HRV_meanRisingSlope numeric
+@attribute ECG_HRV_meanFallingSlope numeric
+
+@attribute ECG_HRV_propRising numeric
