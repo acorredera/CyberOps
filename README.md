@@ -1,2 +1,2 @@
 # CyberOps
-CyberOps: Cyber-Physical Datacenter Operations
+Repositorio de información utilizada para el proyecto "CyberOps: Cyber-Physical Datacenter Operations"
