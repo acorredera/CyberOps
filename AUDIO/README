@@ -13,3 +13,9 @@ Esta librería permite reproducir y grabar audio en una variedad de plataformas.
 
 Para el estudio y modelización del estado emocional perteneciente a un audio procedente de un ser humano, se ha utilizado la herramienta 
 OpenSmile para la extracción de características y modelos basados en redes neuronales para su entrenamiento y predicción.
+
+Además, se ha desarrollado un 3er modelo de audio con Alexa (Amazon Echo Dot), que se utilizará como asistente personal de CyberOps.
+
+3.- Amazon Echo Dot (ALEXA)
+
+Alexa, nombre que recibe este asistente, realizará una serie de preguntas a los operadores al abrir la aplicación homónima del proyecto.
