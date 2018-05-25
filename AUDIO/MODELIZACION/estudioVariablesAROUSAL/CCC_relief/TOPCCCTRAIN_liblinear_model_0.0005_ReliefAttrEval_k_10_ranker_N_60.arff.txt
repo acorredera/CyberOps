@@ -1,0 +1,95 @@
+Zero Weights processed. Default weights will be used
+
+Options: -C 0.0005 -S 12 -B 1 
+
+LibLINEAR wrapper
+
+Model bias=1.0 nr_class=2 nr_feature=61 solverType=L2R_L2LOSS_SVR_DUAL
+
+-        0    * spectralFlux_sma3_stddevNorm
++        0.02 * spectralFluxV_sma3nz_stddevNorm
++        0.03 * loudnessPeaksPerSec
+-        0.01 * F0semitoneFrom27.5Hz_sma3nz_stddevNorm
+-        0.01 * StddevUnvoicedSegmentLength
++        0.01 * loudness_sma3_stddevNorm
+-        0.01 * F0semitoneFrom27.5Hz_sma3nz_pctlrange0-2
+-        0.01 * slopeUV500-1500_sma3nz_amean
++        0.01 * loudness_sma3_stddevFallingSlope
+-        0.01 * mfcc2V_sma3nz_amean
++        0.02 * equivalentSoundLevel_dBp
+-        0.03 * slopeUV0-500_sma3nz_amean
++        0    * F2bandwidth_sma3nz_stddevNorm
++        0.01 * F1frequency_sma3nz_stddevNorm
+-        0    * slopeV500-1500_sma3nz_amean
++        0    * F2frequency_sma3nz_stddevNorm
+-        0.03 * slopeV0-500_sma3nz_amean
++        0    * F0semitoneFrom27.5Hz_sma3nz_stddevRisingSlope
++        0    * alphaRatioUV_sma3nz_amean
++        0.01 * mfcc3V_sma3nz_amean
++        0.01 * F3bandwidth_sma3nz_stddevNorm
++        0    * hammarbergIndexUV_sma3nz_amean
++        0.02 * jitterLocal_sma3nz_amean
++        0    * F3frequency_sma3nz_stddevNorm
+-        0.02 * mfcc2_sma3_amean
+-        0.03 * mfcc4V_sma3nz_amean
++        0.01 * F0semitoneFrom27.5Hz_sma3nz_percentile20.0
++        0    * VoicedSegmentsPerSec
+-        0.01 * hammarbergIndexV_sma3nz_stddevNorm
++        0.02 * HNRdBACF_sma3nz_amean
++        0.01 * shimmerLocaldB_sma3nz_amean
++        0.01 * shimmerLocaldB_sma3nz_stddevNorm
+-        0.01 * jitterLocal_sma3nz_stddevNorm
+-        0.01 * mfcc1V_sma3nz_stddevNorm
+-        0    * F3amplitudeLogRelF0_sma3nz_amean
++        0    * F2amplitudeLogRelF0_sma3nz_amean
++        0.01 * F3amplitudeLogRelF0_sma3nz_stddevNorm
++        0.01 * mfcc4_sma3_amean
+-        0.01 * alphaRatioV_sma3nz_amean
+-        0.02 * F2bandwidth_sma3nz_amean
+-        0    * MeanUnvoicedSegmentLength
++        0    * loudness_sma3_meanFallingSlope
++        0    * F2amplitudeLogRelF0_sma3nz_stddevNorm
+-        0.01 * F1amplitudeLogRelF0_sma3nz_amean
++        0.01 * F0semitoneFrom27.5Hz_sma3nz_percentile50.0
++        0.02 * mfcc1V_sma3nz_amean
++        0.01 * mfcc1_sma3_amean
++        0.01 * mfcc3_sma3_amean
++        0    * F1bandwidth_sma3nz_stddevNorm
++        0    * F0semitoneFrom27.5Hz_sma3nz_amean
++        0    * F0semitoneFrom27.5Hz_sma3nz_stddevFallingSlope
++        0    * F0semitoneFrom27.5Hz_sma3nz_meanRisingSlope
++        0    * spectralFluxV_sma3nz_amean
+-        0.02 * alphaRatioV_sma3nz_stddevNorm
+-        0.03 * F1frequency_sma3nz_amean
++        0.01 * hammarbergIndexV_sma3nz_amean
++        0    * logRelF0-H1-A3_sma3nz_amean
++        0    * loudness_sma3_stddevRisingSlope
+-        0    * F3bandwidth_sma3nz_amean
++        0.01 * loudness_sma3_meanRisingSlope
++        0.02 * 1.0
+
+
+
+Time taken to build model: 0.66 seconds
+Time taken to test model on training data: 1.02 seconds
+
+=== Error on training data ===
+
+Correlation coefficient                  0.8126
+Mean absolute error                      0.0849
+Root mean squared error                  0.1063
+Relative absolute error                 56.2222 %
+Root relative squared error             58.5311 %
+Total Number of Instances            67509     
+
+
+
+=== Cross-validation ===
+
+Correlation coefficient                  0.8119
+Mean absolute error                      0.0851
+Root mean squared error                  0.1065
+Relative absolute error                 56.32   %
+Root relative squared error             58.6327 %
+Total Number of Instances            67509     
+
