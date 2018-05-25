@@ -1,0 +1,15 @@
+Para la captación del sonido ambiente dentro del centro de datos se ha utilizado PyAudio, una librería de Python para el 
+análisis y procesamiento de audio. Esta librería permite reproducir y grabar audio en una variedad de plataformas. 
+PyAudio está inspirado en:
+
+•	pyPortAudio / fastaudio: enlaces de Python para la API de PortAudio v18.
+•	tkSnack: kit de herramientas de sonido multiplataforma para Tcl / Tk y Python.
+
+Así pues, tomando las recomendaciones del Ministerio de Trabajo y Asuntos Sociales de España, que determina los niveles 
+sonoros continuos equivalentes de ruido aéreo que no se recomiendan sobrepasar en locales, el nivel máximo de ruido que se 
+permitirá en el centro de datos será (al igual que la recomendación para espacios de oficinas) de entre los 40-50 dBA. 
+Se ha creado así, una aplicación basada en PyAudio, que estará latente hasta que se sobrepase el umbral establecido, según las 
+anteriores recomendaciones. En tal caso, se grabará durante 1 minuto el sonido ambiente del centro de datos, y se procederá a 
+su análisis. Esta variable de entorno (de tipo Booleano- 1 si hay ruido y 0 si no lo hay-) penalizará la puntuación final del 
+modelo en caso de superar el umbral establecido según el Ministerio Español.
+
