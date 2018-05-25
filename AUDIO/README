@@ -1,0 +1,15 @@
+Se han realizado dos modelos de audio distintos:
+
+1.- Sonido ambiente
+2.- Audio humano (prosodia emocional)
+
+Para el modelo realizado para el sonido ambiente, capaz de detectar y grabar sonidos que sobrepasan cierto nivel sonoro 
+(fijado según las recomendaciones del Ministerio de Trabajo y Asuntos Sociales) se ha utilizado la librería de Python para el análisis 
+y procesamiento de audio, PyAudio.
+
+Esta librería permite reproducir y grabar audio en una variedad de plataformas. PyAudio está inspirado en:
+•	pyPortAudio / fastaudio: enlaces de Python para la API de PortAudio v18.
+•	tkSnack: kit de herramientas de sonido multiplataforma para Tcl / Tk y Python.
+
+Para el estudio y modelización del estado emocional perteneciente a un audio procedente de un ser humano, se ha utilizado la herramienta 
+OpenSmile para la extracción de características y modelos basados en redes neuronales para su entrenamiento y predicción.
