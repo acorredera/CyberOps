@@ -1,0 +1,11 @@
+ESTUDIO VARIABLLES AUDIO PARA LA COMPONENTE DE AROUSAL: 
+
+Se utilizaron 2 métodos de selección de parámetros para estudiar si era posible reducir el número inicial de atributos ocn los que se entrenaría a los algoritmos, de esta manera se disminuye el riesgo de sufrir overfitting y se disminuye al complejidad del modelo a utiliar.
+Los algoritmos de extracción de características se pueden dividir en 2 grupos principales: 
+	-basados en Filtros: estos se basan en detectar las combinaciones de atributos que mejores resultados dan tras compararlos con estadísticos de los propios parámetros estudiados y su relación con la clase que se intenta predecir. Después de la comparación normalmente cada atributo obtiene una 'puntuación' o score, seleccionando los más altos como aquellos que formar´an parte del set final. 
+	-Basados en Wrapper: A diferencia de los anteriores, esta clase de métodos se basan en crear combinaciones de párámetros y entrenar un modelo con ellos, siendo la mejor combinación aquella que obtiene una mayor accuracy(para el caso de una clasificación). 
+
+	La diferencia entre ellos reside en la carga computacional y el desempeño final que los sets seleccionados tendrán al entrena un nuevo modelo. En general, los métodos basados en filtros son mucho más rápidos a la hora de seleccionar subsets de parámetros pero como consecuencia suelen presentar peores resultados posteriormente cuando se entrena un nuevo modelo con ellos en comparación con los resultados que se obtienen con los métodos basados en Wrapper. 
+
+	En nuestro caso, utilizamos la herramienta Weka para la selección de atributos, usando 2 de los algoritmos que ofrece por defeccto: ReliefFAttributeEval (basado en filtro) y WrapperSubsetEval(basado en Wrapper) y los resultados obtenidos muestran que el número óptimo de parámetros a utilizar debería rondar los 40-60 de los 88 que se tienen inicialmente, como revelan las pruebas realizadas entrenando SVMs con los diferentes sets obtenidos. 
+	
