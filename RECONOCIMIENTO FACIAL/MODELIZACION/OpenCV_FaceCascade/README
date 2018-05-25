@@ -1,0 +1,2 @@
+Distintos reconocedores faciales del módulo de procesamiento de imágenes de OpenCV.
+Estos modelos de detección facial son utilizados en orden hasta que uno detecta la cara correctamente en la foto.
