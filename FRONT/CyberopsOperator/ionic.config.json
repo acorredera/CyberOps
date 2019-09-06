@@ -1,0 +1,7 @@
+{
+  "name": "cyberopsoperator",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
