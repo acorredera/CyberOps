@@ -1,0 +1,149 @@
+ion-toolbar{
+    --ion-background-color:rgba(245, 245, 245, 0);   
+    --color:#fff; 
+    --background: url('../../assets/img/bkgMenu.jpg') no-repeat center center / cover; 
+  
+ }
+ion-content{
+    --background: url('../../assets/img/bkgAPP.jpg') no-repeat center center / cover; 
+   
+  }
+  
+h2,h3,h4,p,span{
+    color:#fff;
+}
+
+.iconHome{
+    background-image:url('../../assets/icon/iconHome.svg');
+    background-repeat: no-repeat;
+    width:30px;
+    height:30px;           
+    vertical-align: middle;
+    cursor:pointer;
+    margin-right:15px;
+}
+
+.iconEnergia{    
+    background-image:url('../../assets/icon/iconEnergiaColor.svg');
+    background-repeat: no-repeat;
+    width: 5em;
+    height: 5em; 
+    margin:20px;      
+    vertical-align: middle;        
+     
+}
+.lineaBlanca{
+    height:1px;
+    background:#fff;
+    display:block;
+    width:95%;
+    margin-right:50px;
+}
+
+.bkgEnergia{
+    background: url('../../assets/img/Energia.jpg') left center ;
+    background-repeat: no-repeat;    
+    background-size: cover;
+}
+.fondoGris{
+    background:#333333;
+    color:#fff;   
+    margin:15px;
+    margin-left:15px;
+    margin-bottom: -43px;
+}
+.fondoAzul{
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#003ecf+0,14e7d0+100 */
+background: rgb(0,62,207); /* Old browsers */
+background: -moz-linear-gradient(left, rgba(0,62,207,1) 0%, rgba(20,231,208,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, rgba(0,62,207,1) 0%,rgba(20,231,208,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, rgba(0,62,207,1) 0%,rgba(20,231,208,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#003ecf', endColorstr='#14e7d0',GradientType=1 ); /* IE6-9 */margin-top: 80px;
+}
+img{
+   
+    vertical-align: middle;
+}
+.marginNeg{
+    margin-left:-50px;
+}
+.marginNeg2{
+    margin-left:-50px;
+    margin-top:10px;
+}
+.fondoAzulOscuro{
+    background: rgba(0,0,0,0.5);
+    margin-bottom:20px;
+    padding:10px;
+    margin-left:50px;
+    margin-top: 30px;
+}
+.fondoAzulOscuro2{
+    background: rgba(0,0,0,0.5);
+    margin-bottom:20px;
+    padding:10px;
+    margin-left:50px;
+    margin-top: 30px;
+    margin-right:40px;
+}
+.iconEye{
+    background-image:url('../../assets/icon/iconEye.svg');
+    background-repeat: no-repeat;
+    width:50px;
+    height:50px;           
+    vertical-align: middle;
+}
+
+
+// MEDIA QUERIES
+
+@media (min-width: 567px) and (max-width: 991px){
+ ion-toolbar{
+    --ion-background-color:rgba(245, 245, 245, 0);   
+    --color:#fff; 
+    --background: url('../../assets/img/bkgMenu.jpg') no-repeat center center / cover; 
+  
+ }
+}
+@media (min-width: 992px) and (max-width: 1199px){
+    ion-header{
+        display:none;
+      }
+      .bkgEnergia{   
+        background-size: contain;
+        }
+        .fondoGris{       
+            margin:40px;
+            margin-left:80px;
+            
+        }
+        .iconEnergia{   
+           
+            width:120px;
+            height:120px;
+             
+            
+        }
+    
+}
+ 
+@media (min-width: 1200px) {
+ ion-header{
+   display:none;
+ }
+ .bkgEnergia{   
+    background-size: contain;
+    }
+    .fondoGris{       
+        margin:40px;
+        margin-left:80px;
+        
+    }
+    .iconEnergia{   
+       
+        width:120px;
+        height:120px;
+         
+        
+    }
+}
