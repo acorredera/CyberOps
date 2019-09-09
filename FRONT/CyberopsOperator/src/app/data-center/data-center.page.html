@@ -1,0 +1,394 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>   
+      <ion-icon class="iconMenu"></ion-icon>    
+    </ion-buttons>
+    
+    <ion-title slot="end">       
+      <ion-col text-right justify-content-end>
+        <img class="logomenu" src="../../assets/icon/logoCyberops.svg" alt="">
+      </ion-col>      
+     
+    </ion-title>  
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-grid>
+    <ion-row>
+      <ion-col>
+        <p text-right>Racks / Data Center / <a href="#">
+            <ion-icon class="iconHome"></ion-icon>
+          </a></p>
+      </ion-col>
+
+    </ion-row>
+    <ion-row>
+      <ion-col class="bkgDataCenter" size-xs="12" size-sm="12" size-md="12"  size-lg="12" size-xl="8">
+
+        <ion-row class="fondoGris">
+          <ion-col size-xs="12" size-sm="12" size-md="2" size-xl="2" size-lg="2">
+            <ion-icon class="iconDataCenter"></ion-icon>
+          </ion-col>
+          <ion-col>
+            <h1>Data Center</h1>
+            <span class="lineaBlanca"></span>
+            <h4> Seleccione un rack para ver las opciones de configuración</h4>
+          </ion-col>
+
+        </ion-row>
+
+      </ion-col>
+      <ion-col size-xs="12" size-sm="12" size-md="12"  size-lg="12" size-xl="4">
+        <ion-row class="bkgCyber">
+          <ion-col text-left size-xs="2" size-sm="2" size-md="2"  size-lg="2" size-xl="2">
+            <ion-icon class="iconCyber"></ion-icon>
+          </ion-col>
+          <ion-col>
+            <p class="cybersistem">CYBERSYSTEM</p>
+          </ion-col>
+          <ion-col text-right>
+            <p><span class="percent">80%</span></p>
+          </ion-col>
+          <ion-col text-left size-xs="3" size-sm="2" size-md="2"  size-lg="2" size-xl="2">
+            <ion-icon class="iconHeart"></ion-icon>
+          </ion-col>
+        </ion-row>
+
+        <ion-row class="bkgData">
+          <ion-col>
+            <h3>DATA CENTER</h3>
+            <p class="estado">Estado general</p>
+
+          </ion-col>
+          <ion-col text-right>
+            <p><span class="percent">92%</span></p>
+          </ion-col>
+          <ion-col text-left size-xs="3" size-sm="2" size-md="2"  size-lg="2" size-xl="2">
+            <ion-icon class="iconStatusOK"></ion-icon>
+          </ion-col>
+        </ion-row>
+      </ion-col>
+    </ion-row>
+
+    <ion-row class="fondoNegroFiltro">
+
+        <ion-col class="borderWhite" >
+            <h4 class="bkgCyber" text-center>SALA 1</h4>
+            
+            <ion-button *ngFor="let rack of racksSala1" [ngClass]="{'iconRackGreen': rack['color']=='green', 'iconRackRed': rack['color']=='red', 'iconRackOrange': rack['color']=='orange'}" (click)="goToDetalleServidor()">
+              <ion-col class="bkgNegro">
+                <ion-icon class="iconSettings"></ion-icon>
+                Rack {{rack["rack_id"]}}
+              </ion-col>
+            </ion-button>
+
+            <!--<ion-button class="iconRackOrange">
+              <ion-col class="bkgNegro">
+                <ion-icon class="iconSettings"></ion-icon>
+                Rack 2
+              </ion-col>
+            </ion-button>
+            <ion-button class="iconRackOrange">
+              <ion-col class="bkgNegro">
+                <ion-icon class="iconSettings"></ion-icon>
+                Rack 3
+              </ion-col>
+            </ion-button>
+            <ion-button class="iconRackRed">
+              <ion-col class="bkgNegro">
+                <ion-icon class="iconSettings"></ion-icon>
+                Rack 4
+              </ion-col>
+            </ion-button>
+            <ion-button class="iconRackGreen">
+              <ion-col class="bkgNegro">
+                <ion-icon class="iconSettings"></ion-icon>
+                Rack 5
+              </ion-col>
+            </ion-button>
+            <ion-button class="iconRackGreen">
+              <ion-col class="bkgNegro">
+                <ion-icon class="iconSettings"></ion-icon>
+                Rack 6
+              </ion-col>
+            </ion-button>
+            <ion-button class="iconRackGreen">
+              <ion-col class="bkgNegro">
+                <ion-icon class="iconSettings"></ion-icon>
+                Rack 7
+              </ion-col>
+            </ion-button>
+            <ion-button class="iconRackGreen">
+              <ion-col class="bkgNegro">
+                <ion-icon class="iconSettings"></ion-icon>
+                Rack 8
+              </ion-col>
+            </ion-button>
+            <ion-button class="iconRackGreen">
+              <ion-col class="bkgNegro">
+                <ion-icon class="iconSettings"></ion-icon>
+                Rack 9
+              </ion-col>
+            </ion-button>
+            <ion-button class="iconRackGreen">
+              <ion-col class="bkgNegro">
+                <ion-icon class="iconSettings"></ion-icon>
+                Rack 10
+              </ion-col>
+            </ion-button>
+            <ion-button class="iconRackGreen">
+              <ion-col class="bkgNegro">
+                <ion-icon class="iconSettings"></ion-icon>
+                Rack 11
+              </ion-col>
+            </ion-button>
+            <ion-button class="iconRackGreen">
+              <ion-col class="bkgNegro">
+                <ion-icon class="iconSettings"></ion-icon>
+                Rack 12
+              </ion-col>
+            </ion-button> -->
+          </ion-col>
+
+      <ion-col class="borderWhite" >
+        <h4 class="bkgCyber" text-center>SALA 2</h4>
+
+        <ion-button *ngFor="let rack of racksSala2" [ngClass]="{'iconRackGreen': rack['color']=='green', 'iconRackRed': rack['color']=='red', 'iconRackOrange': rack['color']=='orange'}" (click)="goToDetalleServidor()">
+          <ion-col class="bkgNegro">
+            <ion-icon class="iconSettings"></ion-icon>
+            Rack {{rack["rack_id"]}}
+          </ion-col>
+        </ion-button>
+        <!-- <ion-button class="iconRackGreen">
+          <ion-col class="bkgNegro">
+            <ion-icon class="iconSettings"></ion-icon>
+            Rack 1
+          </ion-col>
+        </ion-button> -->
+        <!-- <ion-button class="iconRackOrange">
+          <ion-col class="bkgNegro">
+            <ion-icon class="iconSettings"></ion-icon>
+            Rack 2
+          </ion-col>
+        </ion-button>
+        <ion-button class="iconRackOrange">
+          <ion-col class="bkgNegro">
+            <ion-icon class="iconSettings"></ion-icon>
+            Rack 3
+          </ion-col>
+        </ion-button>
+        <ion-button class="iconRackRed">
+          <ion-col class="bkgNegro">
+            <ion-icon class="iconSettings"></ion-icon>
+            Rack 4
+          </ion-col>
+        </ion-button>
+        <ion-button class="iconRackGreen">
+          <ion-col class="bkgNegro">
+            <ion-icon class="iconSettings"></ion-icon>
+            Rack 5
+          </ion-col>
+        </ion-button>
+        <ion-button class="iconRackGreen">
+          <ion-col class="bkgNegro">
+            <ion-icon class="iconSettings"></ion-icon>
+            Rack 6
+          </ion-col>
+        </ion-button>
+        <ion-button class="iconRackGreen">
+          <ion-col class="bkgNegro">
+            <ion-icon class="iconSettings"></ion-icon>
+            Rack 7
+          </ion-col>
+        </ion-button>
+        <ion-button class="iconRackGreen">
+          <ion-col class="bkgNegro">
+            <ion-icon class="iconSettings"></ion-icon>
+            Rack 8
+          </ion-col>
+        </ion-button>
+        <ion-button class="iconRackGreen">
+          <ion-col class="bkgNegro">
+            <ion-icon class="iconSettings"></ion-icon>
+            Rack 9
+          </ion-col>
+        </ion-button>
+        <ion-button class="iconRackGreen">
+          <ion-col class="bkgNegro">
+            <ion-icon class="iconSettings"></ion-icon>
+            Rack 10
+          </ion-col>
+        </ion-button>
+        <ion-button class="iconRackBlue">
+          <ion-col class="bkgNegro">
+            <ion-icon class="iconSettings"></ion-icon>
+            Rack 11
+          </ion-col>
+        </ion-button>
+       
+ -->
+
+
+
+
+      </ion-col>
+      <ion-col class="borderWhite" >
+        <h4 class="bkgCyber" text-center>SALA 3</h4>
+
+        <ion-button class="iconRackGreen" (click)="goToDetalleServidor()">
+            <ion-col class="bkgNegro">
+              <ion-icon class="iconSettings"></ion-icon>
+              Rack 1
+            </ion-col>
+          </ion-button>
+          <ion-button class="iconRackGreen">
+            <ion-col class="bkgNegro">
+              <ion-icon class="iconSettings"></ion-icon>
+              Rack 2
+            </ion-col>
+          </ion-button>
+          <ion-button class="iconRackGreen">
+            <ion-col class="bkgNegro">
+              <ion-icon class="iconSettings"></ion-icon>
+              Rack 3
+            </ion-col>
+          </ion-button>
+          <ion-button class="iconRackGreen">
+            <ion-col class="bkgNegro">
+              <ion-icon class="iconSettings"></ion-icon>
+              Rack 4
+            </ion-col>
+          </ion-button>
+          <ion-button class="iconRackOrange">
+            <ion-col class="bkgNegro">
+              <ion-icon class="iconSettings"></ion-icon>
+              Rack 5
+            </ion-col>
+          </ion-button>
+          <ion-button class="iconRackGreen">
+            <ion-col class="bkgNegro">
+              <ion-icon class="iconSettings"></ion-icon>
+              Rack 6
+            </ion-col>
+          </ion-button>
+          <ion-button class="iconRackOrange">
+            <ion-col class="bkgNegro">
+              <ion-icon class="iconSettings"></ion-icon>
+              Rack 7
+            </ion-col>
+          </ion-button>
+          <ion-button class="iconRackGreen">
+            <ion-col class="bkgNegro">
+              <ion-icon class="iconSettings"></ion-icon>
+              Rack 8
+            </ion-col>
+          </ion-button>
+          
+
+      </ion-col>
+      <ion-col class="borderWhite" >
+        <h4 class="bkgCyber" text-center>SALA 4</h4>
+
+        <ion-col>
+            <ion-button class="iconRackGreen">
+                <ion-col class="bkgNegro">
+                  <ion-icon class="iconSettings"></ion-icon>
+                  Rack 1
+                </ion-col>
+              </ion-button>
+              <ion-button class="iconRackGreen">
+                <ion-col class="bkgNegro">
+                  <ion-icon class="iconSettings"></ion-icon>
+                  Rack 2
+                </ion-col>
+              </ion-button>
+              <ion-button class="iconRackGreen">
+                <ion-col class="bkgNegro">
+                  <ion-icon class="iconSettings"></ion-icon>
+                  Rack 3
+                </ion-col>
+              </ion-button>
+              <ion-button class="iconRackGreen">
+                <ion-col class="bkgNegro">
+                  <ion-icon class="iconSettings"></ion-icon>
+                  Rack 4
+                </ion-col>
+              </ion-button>
+              <ion-button class="iconRackGreen">
+                <ion-col class="bkgNegro">
+                  <ion-icon class="iconSettings"></ion-icon>
+                  Rack 5
+                </ion-col>
+              </ion-button>
+              <ion-button class="iconRackGreen">
+                <ion-col class="bkgNegro">
+                  <ion-icon class="iconSettings"></ion-icon>
+                  Rack 6
+                </ion-col>
+              </ion-button>
+              <ion-button class="iconRackGreen">
+                <ion-col class="bkgNegro">
+                  <ion-icon class="iconSettings"></ion-icon>
+                  Rack 7
+                </ion-col>
+              </ion-button>
+              <ion-button class="iconRackGreen">
+                <ion-col class="bkgNegro">
+                  <ion-icon class="iconSettings"></ion-icon>
+                  Rack 8
+                </ion-col>
+              </ion-button>
+              <ion-button class="iconRackGreen">
+                <ion-col class="bkgNegro">
+                  <ion-icon class="iconSettings"></ion-icon>
+                  Rack 9
+                </ion-col>
+              </ion-button>
+              <ion-button class="iconRackGreen">
+                <ion-col class="bkgNegro">
+                  <ion-icon class="iconSettings"></ion-icon>
+                  Rack 10
+                </ion-col>
+              </ion-button>
+              <ion-button class="iconRackGreen">
+                <ion-col class="bkgNegro">
+                  <ion-icon class="iconSettings"></ion-icon>
+                  Rack 11
+                </ion-col>
+              </ion-button>
+          <ion-button class="iconRackGreen">
+            <ion-col class="bkgNegro">
+              <ion-icon class="iconSettings"></ion-icon>
+              Rack 12
+            </ion-col>
+          </ion-button>
+          <ion-button class="iconRackGreen">
+            <ion-col class="bkgNegro">
+              <ion-icon class="iconSettings"></ion-icon>
+              Rack 13
+            </ion-col>
+          </ion-button>
+          <ion-button class="iconRackGreen">
+            <ion-col class="bkgNegro">
+              <ion-icon class="iconSettings"></ion-icon>
+              Rack 14
+            </ion-col>
+          </ion-button>
+          <ion-button class="iconRackGreen">
+            <ion-col class="bkgNegro">
+              <ion-icon class="iconSettings"></ion-icon>
+              Rack 15
+            </ion-col>
+          </ion-button>
+          
+        </ion-col>
+
+
+
+      </ion-col>
+
+    </ion-row>
+  </ion-grid>
+</ion-content>
