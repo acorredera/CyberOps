@@ -1,0 +1,86 @@
+// http://ionicframework.com/docs/theming/
+@import '~@ionic/angular/css/core.css';
+@import '~@ionic/angular/css/normalize.css';
+@import '~@ionic/angular/css/structure.css';
+@import '~@ionic/angular/css/typography.css';
+@import '~@ionic/angular/css/display.css';
+@import '~@ionic/angular/css/padding.css';
+@import '~@ionic/angular/css/float-elements.css';
+@import '~@ionic/angular/css/text-alignment.css';
+@import '~@ionic/angular/css/text-transformation.css';
+@import '~@ionic/angular/css/flex-utils.css';
+
+
+.split-pane-md.split-pane-visible > .split-pane-side{
+    max-width:20%;
+}
+
+// CALENDARIO DATOS PERSONALES
+.sc-ion-picker-md-h {
+    --background: rgb(138,196,63); /* Old browsers */
+    --background: -moz-linear-gradient(left, rgba(138,196,63,1) 0%, rgba(0,104,55,1) 100%); /* FF3.6-15 */
+    --background: -webkit-linear-gradient(left, rgba(138,196,63,1) 0%,rgba(0,104,55,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    --background: linear-gradient(to right, rgba(138,196,63,1) 0%,rgba(0,104,55,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8ac43f', endColorstr='#006837',GradientType=1 ); /* IE6-9 */
+    
+    color: #fff;
+}
+.picker-opt.picker-opt-selected, .picker-prefix, .picker-suffix {
+    // color:#f4e242
+    color:#333;
+}
+
+.picker-button.sc-ion-picker-md, .picker-button.activated.sc-ion-picker-md{
+    color:#fff;
+    margin:4px;
+    text-align: center;
+}
+
+.picker-button:hover.sc-ion-picker-md, .picker-button:hover.activated.sc-ion-picker-md{
+    background:rgba(248, 238, 145, 0.5);
+    // color:#607525;
+    color:#333;
+    margin:4px;
+}
+// ICONOS MENU PRINCIPAL
+
+.iconMenu{
+    width:30px;
+    height:30px;
+    background-image: url('./assets/icon/iconMenu.svg'); 
+    display:inline-block; 
+    // margin-top: 5px; 
+    cursor:pointer;  
+    vertical-align: middle;
+}
+.logomenu{
+    width:120px;
+    height:auto;
+    text-align: right;
+    display:inline-block;
+}
+// .iconBack{
+
+// }
+
+// CHART SERVIDORES
+.time-axis-text {
+    // fill: #989898;
+    fill: #fff;
+    font-size: 0.9rem!important;
+    font-weight: 300!important;
+    }
+    
+// MEDIA QUERIES
+
+@media (min-width: 567px) and (max-width: 991px){
+ 
+}
+@media (min-width: 992px) and (max-width: 1199px){
+ 
+}
+ 
+@media (min-width: 1200px) {        
+           
+ 
+}
