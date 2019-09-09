@@ -1,0 +1,526 @@
+ion-toolbar{
+    --ion-background-color:rgba(245, 245, 245, 0);   
+    --color:#fff; 
+    --background: url('../../assets/img/bkgMenu.jpg') no-repeat center center / cover; 
+ }
+
+ion-content{
+    --background: url('../../assets/img/bkgAPP.jpg') no-repeat center center / cover; 
+   
+  }
+// TITULO PÁGINA
+
+
+.iconHome{
+    background-image:url('../../assets/icon/iconHome.svg');
+        background-repeat: no-repeat;
+        width:30px;
+        height:30px;           
+        vertical-align: middle;
+        cursor:pointer;
+        margin-right:15px;
+}
+.bkgPersonal{
+    background: url('../../assets/img/bkgPersonal.jpg') left center ;
+    background-repeat: no-repeat;
+    width:30%;
+    background-size: cover;
+    
+    
+}
+.fondoGris{
+    background:#333333;
+    color:#fff; 
+    margin:0px;
+    margin-left:0px;    
+}
+
+.fotoPersonal{
+    margin-left:-50px;
+}
+.iconPersonal{  
+    background-image:url('../../assets/icon/iconPersonalCOLOR.svg');
+    background-repeat: no-repeat;
+    width: 5em;
+    height: 5em;   
+    margin:20px;      
+    vertical-align: middle;        
+  } 
+
+
+
+.iconBack{
+    background-image:url('../../assets/icon/iconBack.svg');
+    background-repeat: no-repeat;
+    width:55px;
+    height:55px;
+    vertical-align: middle;
+    cursor:pointer; 
+   
+}   
+// COMUN A TODAS LAS VENTANAS
+.bkgCyber{
+    background:rgba(51,51,51,0.7);
+    border:1px solid #fff;   
+    // display:inline-block;
+    height:auto;  
+    margin-top:30px;  
+}
+
+h2{
+    margin-top:5px;
+    padding-left:10px;
+}
+h3{
+    color:#fff;
+    padding-left:10px;
+}
+p{
+    color:#fff;
+    margin-top:20px;
+    padding-left:10px;
+    
+}
+.estado{
+    margin-top:0px;
+}
+.cybersistem{
+    margin-top:30px;
+}
+.percent{
+    font-size:2em;
+    color:#fff;
+    margin-top:0px;
+}
+.iconCyber{
+    background-image:url('../../assets/icon/iconCyber.svg');
+    background-repeat: no-repeat;
+    width:60px;
+    height:60px;
+    vertical-align: middle;
+    margin-top:10px;   
+    background-size: cover;     
+}
+.iconHeart{
+    background-image:url('../../assets/icon/iconHeart.svg');
+    background-repeat: no-repeat;
+    width:55px;
+    height:55px;
+    vertical-align: middle;  
+    margin-right:15px;   
+    margin-top:10px;   
+}
+.iconStatusOrangeBig{
+    background-image:url('../../assets/icon/iconNormal.svg');
+    background-repeat: no-repeat;
+    width:55px;
+    height:55px;
+    vertical-align: middle;
+    margin-top:10px;  
+}
+.iconStatusGreenBig{
+    background-image:url('../../assets/icon/iconHappy.svg');
+    
+    background-repeat: no-repeat;
+    width:55px;
+    height:55px;
+    vertical-align: middle;
+    margin-top:10px;  
+}
+.iconStatusRedBig{
+    background-image:url('../../assets/icon/iconSad.svg');
+    background-repeat: no-repeat;
+    width:55px;
+    height:55px;
+    vertical-align: middle;
+    margin-top:10px;  
+}
+.bkgGris{
+    background:#302E2F;
+    border:1px solid #fff;
+    width: 100%;    
+    padding:20px;
+    margin:auto;
+    margin-top:30px;
+    // max-height: 1000px;
+    // overflow-y:scroll;
+    h3{
+        color:#fff;
+    }
+}
+
+.fotoMarta{
+    background-image:url('../../assets/img/fotoMarta.jpg');
+    background-repeat: no-repeat;
+    width:200px;
+    height:200px;
+    vertical-align: middle; 
+    background-size: cover;
+}
+.fotoIgnacio{
+    background-image:url('../../assets/img/fotoIgnacio.jpg');
+    background-repeat: no-repeat;
+    width:200px;
+    height:200px;
+    vertical-align: middle; 
+    background-size: cover;
+}
+.fotoCristina{
+    background-image:url('../../assets/img/fotoCristina.jpg');
+    background-repeat: no-repeat;
+    width:200px;
+    height:200px;
+    vertical-align: middle; 
+    background-size: cover;
+}
+
+.bkgIconoVerde{
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#659933+0,007e13+100 */
+    background: #659933; /* Old browsers */
+    background: -moz-linear-gradient(top, #659933 0%, #007e13 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #659933 0%,#007e13 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #659933 0%,#007e13 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#659933', endColorstr='#007e13',GradientType=0 );  
+}
+.bkgIconoOrange{
+   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f6921e+0,ec6724+100 */
+    background: rgb(246,146,30); /* Old browsers */
+    background: -moz-linear-gradient(-45deg, rgba(246,146,30,1) 0%, rgba(236,103,36,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg, rgba(246,146,30,1) 0%,rgba(236,103,36,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg, rgba(246,146,30,1) 0%,rgba(236,103,36,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f6921e', endColorstr='#ec6724',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */ 
+}
+.bkgIconoRed{
+   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#c0272d+0,ec3a24+100 */
+   background: rgb(192,39,45); /* Old browsers */
+   background: -moz-linear-gradient(-45deg, rgba(192,39,45,1) 0%, rgba(236,58,36,1) 100%); /* FF3.6-15 */
+   background: -webkit-linear-gradient(-45deg, rgba(192,39,45,1) 0%,rgba(236,58,36,1) 100%); /* Chrome10-25,Safari5.1-6 */
+   background: linear-gradient(135deg, rgba(192,39,45,1) 0%,rgba(236,58,36,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c0272d', endColorstr='#ec3a24',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+
+.bkgGreen{
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#659933+0,007e13+100 */
+background: #659933; /* Old browsers */
+background: -moz-linear-gradient(top, #659933 0%, #007e13 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #659933 0%,#007e13 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #659933 0%,#007e13 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#659933', endColorstr='#007e13',GradientType=0 ); /* IE6-9 */
+ display:block;
+ border:1px solid #fff;
+ h3{
+     margin-top:20px;
+ }
+ p{
+     font-size: 1.1em!important;
+ }
+ span{
+     color:#fff;
+ }
+ .datoPercent{
+    font-size: 1.3em!important;
+}
+
+}
+.iconGreen{
+    background-image:url('../../assets/icon/iconGreenBox.svg');
+    background-repeat: no-repeat;
+    width: 6em;
+    height: 8em;   
+    vertical-align: middle;
+    margin-top:10px;  
+}
+.span{
+    color:#fff;
+}
+.bkgOrange{
+   
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f6921e+0,ec6724+100 */
+background: rgb(246,146,30); /* Old browsers */
+background: -moz-linear-gradient(-45deg, rgba(246,146,30,1) 0%, rgba(236,103,36,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, rgba(246,146,30,1) 0%,rgba(236,103,36,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, rgba(246,146,30,1) 0%,rgba(236,103,36,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f6921e', endColorstr='#ec6724',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */display:block;
+     border:1px solid #fff;
+     h3{
+         margin-top:20px;
+     }
+     p{
+         font-size: 1.1em!important;
+     }
+     span{
+         color:#fff;
+     }
+     .datoPercent{
+        font-size: 1.3em!important;
+    }
+    
+    }
+
+    .iconOrange{
+        background-image:url('../../assets/icon/iconOrangeBox.svg');
+        background-repeat: no-repeat;
+        width: 155px;
+        height: 170px;
+        vertical-align: middle;
+        margin-top:10px;  
+    }
+    .bkgRed{
+        /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#c0272d+0,ec3a24+100 */
+        background: rgb(192,39,45); /* Old browsers */
+        background: -moz-linear-gradient(-45deg, rgba(192,39,45,1) 0%, rgba(236,58,36,1) 100%); /* FF3.6-15 */
+        background: -webkit-linear-gradient(-45deg, rgba(192,39,45,1) 0%,rgba(236,58,36,1) 100%); /* Chrome10-25,Safari5.1-6 */
+        background: linear-gradient(135deg, rgba(192,39,45,1) 0%,rgba(236,58,36,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c0272d', endColorstr='#ec3a24',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */display:block;
+         border:1px solid #fff;
+         h3{
+             margin-top:20px;
+         }
+         p{
+             font-size: 1.1em!important;
+         }
+         span{
+             color:#fff;
+         }
+         .datoPercent{
+            font-size: 1.3em!important;
+        }
+        
+        }
+    
+        .iconRed{
+            background-image:url('../../assets/icon/iconRedBox.svg');
+            background-repeat: no-repeat;
+            width: 155px;
+            height: 170px;
+            vertical-align: middle;
+            margin-top:10px;  
+        }
+
+.lineaBlanca{
+    height:1px;
+    background:#fff;
+    display:block;
+    width:100%;
+    margin-bottom:20px;
+    
+}
+ion-button{
+    --background:transparent;
+    --background-focused: transparent;
+    --background-hover: transparent;
+    --box-shadow:none;
+}
+.buttonCalendar{
+    background:rgba(51,51,51,0.5);
+    width:100%;
+    border:1px solid #fff;
+    margin-top: 30px;
+    margin-bottom:30px;
+    height:auto;
+    padding-top:10px;
+    padding-bottom:10px;
+    span{
+        margin-left:15px;
+    }
+}
+.buttonCalendar:hover{
+    background:rgba(51,51,51,0.8);
+}
+.iconCalendar{
+    background-image:url('../../assets/icon/iconCalendar.svg');
+    background-repeat: no-repeat;
+    width:30px;
+    height:30px;
+    vertical-align: middle;  
+    padding-bottom:10px; 
+}
+ion-datetime{
+    color:#fff;
+    
+}
+ion-datetime:hover{
+    background:rgba(255,255,255,0.3);
+}
+
+.borderWhite2{
+    border-bottom:1px solid #fff;  
+    width:80%;  
+  }
+.iconArrowDown{
+    background-image:url('../../assets/icon/iconArrowDown.svg');
+    background-repeat: no-repeat;
+    width:30px;
+    height:30px;
+    vertical-align: middle;  
+    padding-bottom:10px;
+}
+
+.iconSelect{
+    background-image:url('../../assets/icon/iconSelect.svg');
+    background-repeat: no-repeat;
+    width:30px;
+    height:30px;
+    vertical-align: middle;  
+    padding-bottom:10px;
+}
+
+.iconStar{
+    background-image:url('../../assets/icon/iconStar.svg');
+    background-repeat: no-repeat;
+    width:35px;
+    height:35px;
+    vertical-align: middle;   
+}
+.iconTask{
+    background-image:url('../../assets/icon/iconTask.svg');
+    background-repeat: no-repeat;
+    width: 35px;
+    height:35px;
+    vertical-align: middle;   
+}
+
+.iconIr{
+    background-image:url('../../assets/icon/arrowRight.svg');
+    background-repeat: no-repeat;
+    width:45px;
+    height:35px;
+    vertical-align: middle;   
+}
+
+.highcharts-container {
+    width: 100% !important;
+}
+
+  .graficaEmociones{    
+      border:1px solid #fff;
+      color:#fff;
+      margin-bottom:10px;
+      display: block;
+      .chart1{
+          width: 100%;
+          .highcharts-container {
+              width: 100% !important;
+          }
+      }
+  }
+  .graficaPulsaciones{    
+      border:1px solid #fff;
+      color:#fff;
+      margin-bottom:10px;
+      
+      .chart2{
+        width: 100%;
+        .highcharts-container {
+            width: 100% !important;
+        }
+    }
+  }
+
+  .graficaArousal{    
+    border:1px solid #fff;
+    color:#fff;
+    margin-bottom:10px;
+    .chart3{
+      width: 100%;
+      .highcharts-container {
+          width: 100% !important;
+      }
+  }
+}
+
+.nombre{
+    display:block;
+    margin-left:0px;
+}
+// MEDIA QUERIES
+
+@media (min-width: 567px) and (max-width: 991px){
+    ion-toolbar{
+       --ion-background-color:rgba(245, 245, 245, 0);   
+       --color:#fff; 
+       --background: url('../../assets/img/bkgMenu.jpg') no-repeat center center / cover; 
+     
+    }
+    .nombre{
+        display:block;
+        margin-left:40px;
+    }
+   }
+@media (min-width: 992px) and (max-width: 1199px){
+       ion-header{
+           display:none;
+         }
+         .bkgPersonal{   
+           background-size: contain;
+           }
+           .fondoGris{       
+            margin:30px;
+            margin-left:60px;
+            margin-right: 80px;
+               
+           }
+           .iconPersonal{ 
+               width:120px;
+               height:120px; 
+             }
+             .nombre{
+                display:block;
+                margin-left:40px;
+            }
+            // .bkgIconoVerde {
+            //   margin-right: 60px;
+            // }
+            .bkgIconoVerde,.bkgIconoOrange,.bkgIconoRed {
+                margin-right: 60px;
+              }
+       
+   }
+    
+ @media (min-width: 1200px) {
+    ion-header{
+      display:none;
+    }
+    .bkgPersonal{   
+       background-size: contain;
+       }
+       .fondoGris{       
+        margin: 5px;        
+        margin-left: 20px;
+        margin-right:20px;
+           
+       }
+       .iconPersonal{ 
+           width:120px;
+           height:120px;     
+       }
+
+    
+    h2{
+        margin-top:50px;
+        padding-left:10px;
+    }
+    .iconGreen{       
+        width: 8em;
+        height: 9em;        
+    }
+    .nombre{
+        display:block;
+        margin-left:20px;
+        // text-align: right;
+    }
+    .bkgIconoVerde,.bkgIconoOrange,.bkgIconoRed {
+        margin-right: 10px;
+      }
+      .iconHeart{        
+        width: 3em;
+        height: 3em;       
+        margin-top: 17px;
+    }
+    .iconStatusGreenBig,.iconStatusOrangeBig,.iconStatusRedBig{
+        width: 3em;
+        height: 3em;       
+        margin-top: 17px;
+    }
+   }
