@@ -1,0 +1,178 @@
+ion-toolbar{
+    --ion-background-color:rgba(245, 245, 245, 0);   
+    --color:#fff; 
+    --background: url('../../assets/img/bkgMenu.jpg') no-repeat center center / cover; 
+  
+ }
+ion-content{
+    --background: url('../../assets/img/bkgAPP.jpg') no-repeat center center / cover; 
+   
+  }
+  
+h2,h3,h4,p,span{
+    color:#fff;
+}
+
+.iconHome{
+    background-image:url('../../assets/icon/iconHome.svg');
+    background-repeat: no-repeat;
+    width:30px;
+    height:30px;           
+    vertical-align: middle;
+    cursor:pointer;
+    margin-right:15px;
+}
+
+.iconFiltrar{    
+    background-image:url('../../assets/icon/iconFilterCOLOR.svg');
+    background-repeat: no-repeat;
+    width: 5em;
+    height: 5em;  
+    margin:20px;      
+    vertical-align: middle;        
+     
+}
+.lineaBlanca{
+    height:1px;
+    background:#fff;
+    display:block;
+    width:95%;
+    margin-right:50px;
+}
+
+.bkgFiltrar{
+    background: url('../../assets/img/filtrar.jpg') left center ;
+    background-repeat: no-repeat;    
+    background-size: cover;
+}
+.fondoGris{
+    background:#333333;
+    color:#fff;   
+    margin:15px;
+    margin-left:15px;
+    margin-bottom: -43px;
+}
+.fondoAzulFiltro{
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#290055+0,009556+0,1463d0+100 */
+background: rgb(41,0,85); /* Old browsers */
+background: -moz-linear-gradient(left, rgba(41,0,85,1) 0%, rgba(0,149,86,1) 0%, rgba(20,99,208,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, rgba(41,0,85,1) 0%,rgba(0,149,86,1) 0%,rgba(20,99,208,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, rgba(41,0,85,1) 0%,rgba(0,149,86,1) 0%,rgba(20,99,208,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#290055', endColorstr='#1463d0',GradientType=1 ); /* IE6-9 */margin-top: 80px;
+}
+
+.iconBox{
+    background-image:url('../../assets/icon/iconBox.svg');
+    background-repeat: no-repeat;
+    width:30px;
+    height:30px;           
+    vertical-align: middle;
+    cursor:pointer;
+}
+.iconBoxChecked{
+    background-image:url('../../assets/icon/iconBoxSelected_1.svg');
+    background-repeat: no-repeat;
+    width:30px;
+    height:30px;           
+    vertical-align: middle;
+    cursor:pointer;
+}
+
+.iconClose{
+    background-image:url('../../assets/icon/iconClose.svg');
+    background-repeat: no-repeat;
+    width:30px;
+    height:30px;           
+    vertical-align: middle;
+    cursor:pointer;
+}
+
+ion-item{
+    --background:transparent;
+    --inner-border-width:0 0 0 0 ;
+    margin-left:40px;
+}
+ion-label{
+    margin:20px;
+    margin-left:40px;
+    --color:#fff;
+}
+
+.botonBlue{
+    background: rgba(0,0,0,0.5);
+    width:14rem;      
+    --background:none;
+    --box-shadow:none;     
+    display:inline-block; 
+    cursor:pointer;    
+    position:relative;
+    --background-focused: #009556;
+    --background-hover: #009556;
+}
+
+.botonBlue:hover{
+    background: #009556;
+    --background-focused: #009556;
+    --background-hover: #009556;
+    width:14rem;     
+    --background:none;
+    --box-shadow:none;      
+    display:inline-block; 
+    cursor:pointer;    
+    border:1px solid #fff;
+   
+    
+  }
+
+  // MEDIA QUERIES
+
+@media (min-width: 567px) and (max-width: 991px){
+    ion-toolbar{
+       --ion-background-color:rgba(245, 245, 245, 0);   
+       --color:#fff; 
+       --background: url('../../assets/img/bkgMenu.jpg') no-repeat center center / cover; 
+     
+    }
+   }
+   @media (min-width: 992px) and (max-width: 1199px){
+       ion-header{
+           display:none;
+         }
+         .bkgFiltrar{   
+            background-size: contain;
+            }
+            .fondoGris{       
+                margin:40px;
+                margin-left:80px;
+                
+            }
+            .iconFiltrar{   
+               
+                width:120px;
+                height:120px;
+                 
+                
+            } 
+       
+   }
+    
+   @media (min-width: 1200px) {
+    ion-header{
+      display:none;
+    }
+    .bkgFiltrar{   
+        background-size: contain;
+        }
+        .fondoGris{       
+            margin:40px;
+            margin-left:80px;
+            
+        }
+        .iconFiltrar{   
+           
+            width:120px;
+            height:120px;
+             
+            
+        }
+   }
