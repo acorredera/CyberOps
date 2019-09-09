@@ -1,0 +1,331 @@
+<ion-header>
+    <ion-toolbar>
+      <ion-buttons slot="start">
+        <ion-menu-button></ion-menu-button>   
+        <ion-icon class="iconMenu"></ion-icon>    
+      </ion-buttons>
+      
+      <ion-title slot="end">       
+        <ion-col text-right justify-content-end>
+          <img class="logomenu" src="../../assets/icon/logoCyberops.svg" alt="">
+        </ion-col>      
+       
+      </ion-title>  
+    </ion-toolbar>
+  </ion-header>
+
+<ion-content>
+  <ion-grid>
+    <ion-row>
+      <ion-col>
+          <p text-right>Personal / <a href="#"><ion-icon class="iconHome"></ion-icon></a></p>
+      </ion-col>
+      
+    </ion-row>
+    <ion-row>
+      <ion-col class="bkgPersonal" size-xs="12" size-sm="12" size-md="12"  size-lg="12" size-xl="8">
+
+        <ion-row class="fondoGris">
+          <ion-col>
+            <ion-icon class="iconPersonal"></ion-icon>
+          </ion-col>
+          <ion-col>
+            <h2>Personal</h2>
+            <p>Vista general y productividad</p>
+          </ion-col>
+          <!-- <ion-col size="2">
+            <ion-icon class="iconBack"></ion-icon>
+          </ion-col> -->
+        </ion-row>
+
+      </ion-col>
+
+      <ion-col  size-xs="12" size-sm="12" size-md="12"  size-lg="12" size-xl="4">     
+            <ion-row class="bkgCyber"  >
+                <ion-col text-left  size-xs="2" size-sm="2" size-md="2"  size-lg="2" size-xl="2">
+                  <ion-icon class="iconCyber"></ion-icon>
+                </ion-col>
+                <ion-col >
+                  <p class="cybersistem">CYBERSYSTEM</p>
+                </ion-col>
+                <ion-col text-right>
+                  <p><span class="percent">80%</span></p>
+                </ion-col>
+                <ion-col text-left  size-xs="3" size-sm="2" size-md="2"  size-lg="2" size-xl="2">
+                  <ion-icon class="iconHeart"></ion-icon>
+                </ion-col>
+              </ion-row>
+        
+            <ion-row class="bkgCyber" >
+                <ion-col>
+                  <h3>PERSONAL</h3>
+                  <p class="estado">Estado general</p>
+      
+                </ion-col>
+                <ion-col text-right>
+                  <p><span class="percent">{{mediaPersonal}}%</span></p>
+                </ion-col>
+                <ion-col  size-xs="3" size-sm="2" size-md="2"  size-lg="2" size-xl="2">
+                  <ion-icon [ngClass]="{'iconStatusGreenBig': colorMediaPersonal=='green', 'iconStatusRedBig': colorMediaPersonal=='red', 'iconStatusOrangeBig': colorMediaPersonal=='orange'}"></ion-icon>
+                </ion-col>
+              </ion-row>  
+      </ion-col>
+
+    </ion-row>
+
+    <ion-row class="bkgListado">
+
+      <ion-row class="tituloListado">
+        <ion-col size-xs="2" size-sm="2" size-md="2"  size-lg="2" size-xl="2">
+          <ion-icon class="iconPersonalWhite"></ion-icon>
+        </ion-col>
+        <ion-col text-left>
+          <h3>LISTADO DE PERSONAL</h3>
+        </ion-col>
+        <ion-col text-right size-xs="12">
+          <p>05/12/2018</p>
+        </ion-col>
+      </ion-row>
+
+
+      <ion-row class="todosPersonal">
+        <ion-col class="borderRight" size-xs="12" size-sm="12" size-md="6"  size-lg="6" size-xl="3">
+          <h4>DIRECCIÓN</h4>
+          <ion-row class="personal">
+            <ion-col > 
+              <ion-icon class="fotoMaribel"></ion-icon>
+            </ion-col>
+            <ion-col text-left >            
+                  <p >Maribel R.</p>
+                  <span >Estado: 94%</span>    
+                 
+            </ion-col>            
+            <ion-col text-right>
+              <ion-icon class="iconStatusGreen"></ion-icon>
+            </ion-col>
+          </ion-row>
+          <ion-row class="personal">
+            <ion-col>
+              <ion-icon class="fotoAlberto"></ion-icon>
+            </ion-col>
+            <ion-col>
+              <p>Alberto L.</p>
+              <span>Estado: 3%</span>
+            </ion-col>
+            <ion-col text-right>
+              <ion-icon class="iconStatusRed"></ion-icon>
+            </ion-col>
+          </ion-row>
+          <ion-row class="personal">
+            <ion-col>
+              <ion-icon class="fotoCarla"></ion-icon>
+            </ion-col>
+            <ion-col>
+              <p>Carla G.</p>
+              <span>Estado: 60%</span>
+            </ion-col>
+            <ion-col text-right>
+              <ion-icon class="iconStatusOrange"></ion-icon>
+            </ion-col>
+          </ion-row>
+          <h4>RRHH</h4>
+          <ion-row class="personal"  (click)="goToDatosPersonales('Ignacio')">
+            <ion-col>
+              <ion-icon class="fotoIgnacio"></ion-icon>
+            </ion-col>
+            <ion-col>
+              <p>Ignacio.</p>
+              <span>Estado: {{estadoB}}%</span>
+            </ion-col>
+            <ion-col text-right>
+              <ion-icon [ngClass]="{'iconStatusGreen': colorB=='green', 'iconStatusRed': colorB=='red', 'iconStatusOrange': colorB=='yellow'}"></ion-icon>
+            </ion-col>
+          </ion-row>
+        </ion-col>
+        <ion-col class="borderRight" size-xs="12" size-sm="12" size-md="6"  size-lg="6" size-xl="3">
+          <h4>FINANCIERO</h4>
+          <ion-row class="personal">
+            <ion-col>
+              <ion-icon class="fotoNoa"></ion-icon>
+            </ion-col>
+            <ion-col>
+              <p>Noa M.</p>
+              <span>Estado: 94%</span>
+            </ion-col>
+            <ion-col text-right>
+              <ion-icon class="iconStatusGreen"></ion-icon>
+            </ion-col>
+          </ion-row>
+          <ion-row class="personal">
+            <ion-col>
+              <ion-icon class="fotoAlicia"></ion-icon>
+            </ion-col>
+            <ion-col>
+              <p>Alicia G.</p>
+              <span>Estado: 3%</span>
+            </ion-col>
+            <ion-col text-right>
+              <ion-icon class="iconStatusRed"></ion-icon>
+            </ion-col>
+          </ion-row>
+          <ion-row class="personal">
+            <ion-col>
+              <ion-icon class="fotoLucia"></ion-icon>
+            </ion-col>
+            <ion-col>
+              <p>Lucia R.</p>
+              <span>Estado: 90%</span>
+            </ion-col>
+            <ion-col text-right>
+              <ion-icon class="iconStatusGreen"></ion-icon>
+            </ion-col>
+          </ion-row>
+          <h4>MARKETING</h4>
+          <ion-row class="personal">
+            <ion-col>
+              <ion-icon class="fotoJavier"></ion-icon>
+            </ion-col>
+            <ion-col>
+              <p>Javier E.</p>
+              <span>Estado: 37%</span>
+            </ion-col>
+            <ion-col text-right>
+              <ion-icon class="iconStatusOrange"></ion-icon>
+            </ion-col>
+          </ion-row>
+        </ion-col>
+        <ion-col class="borderRight" size-xs="12" size-sm="12" size-md="6"  size-lg="6" size-xl="3">
+          <h4>OPERACIONES</h4>
+          <ion-row class="personal" (click)="goToDatosPersonales('Marta')">
+            <ion-col>
+              <ion-icon class="fotoMarta"></ion-icon>
+            </ion-col>
+            <ion-col>
+              <p>Marta G.</p>
+              <span>Estado: {{estadoA}}%</span>
+            </ion-col>
+            <ion-col text-right>
+              <ion-icon [ngClass]="{'iconStatusGreen': colorA=='green', 'iconStatusRed': colorA=='red', 'iconStatusOrange': colorA=='yellow'}"></ion-icon>
+            </ion-col>
+          </ion-row>
+          <ion-row class="personal" (click)="goToDatosPersonales('Cristina')">
+            <ion-col>
+              <ion-icon class="fotoCristina"></ion-icon>
+            </ion-col>
+            <ion-col>
+              <p>Cristina G.</p>
+              <span>Estado: {{estadoC}}%</span>
+            </ion-col>
+            <ion-col text-right>
+              <ion-icon [ngClass]="{'iconStatusGreen': colorC=='green', 'iconStatusRed': colorC=='red', 'iconStatusOrange': colorC=='yellow'}"></ion-icon>
+            </ion-col>
+          </ion-row>
+          <ion-row class="personal">
+            <ion-col>
+              <ion-icon class="fotoJavierF"></ion-icon>
+            </ion-col>
+            <ion-col>
+              <p>Javier F.</p>
+              <span>Estado: 90%</span>
+            </ion-col>
+            <ion-col text-right>
+              <ion-icon class="iconStatusGreen"></ion-icon>
+            </ion-col>
+          </ion-row>
+
+          <ion-row class="personal">
+            <ion-col>
+              <ion-icon class="fotoLaura"></ion-icon>
+            </ion-col>
+            <ion-col>
+              <p>Laura A.</p>
+              <span>Estado: 37%</span>
+            </ion-col>
+            <ion-col text-right>
+              <ion-icon class="iconStatusOrange"></ion-icon>
+            </ion-col>
+          </ion-row>
+          <ion-row class="personal">
+            <ion-col>
+              <ion-icon class="fotoJuan"></ion-icon>
+            </ion-col>
+            <ion-col>
+              <p>Juan N.</p>
+              <span>Estado: 5%</span>
+            </ion-col>
+            <ion-col text-right>
+              <ion-icon class="iconStatusRed"></ion-icon>
+            </ion-col>
+          </ion-row>
+        </ion-col>
+        <ion-col size-xs="12" size-sm="12" size-md="6"  size-lg="6" size-xl="3">
+          <h4>VENTAS</h4>
+          <ion-row class="personal">
+            <ion-col >
+              <ion-icon class="fotoMiranda"></ion-icon>
+            </ion-col>
+            <ion-col>
+              <p>Miranda F.</p>
+              <span>Estado: 94%</span>
+            </ion-col>
+            <ion-col text-right>
+              <ion-icon class="iconStatusGreen"></ion-icon>
+            </ion-col>
+          </ion-row>
+          <ion-row class="personal">
+            <ion-col>
+              <ion-icon class="fotoPablo"></ion-icon>
+            </ion-col>
+            <ion-col>
+              <p>Pablo G.</p>
+              <span>Estado: 3%</span>
+            </ion-col>
+            <ion-col text-right>
+              <ion-icon class="iconStatusRed"></ion-icon>
+            </ion-col>
+          </ion-row>
+          <ion-row class="personal">
+            <ion-col>
+              <ion-icon class="fotoRocio"></ion-icon>
+            </ion-col>
+            <ion-col>
+              <p>Rocío F.</p>
+              <span>Estado: 90%</span>
+            </ion-col>
+            <ion-col text-right>
+              <ion-icon class="iconStatusGreen"></ion-icon>
+            </ion-col>
+          </ion-row>
+
+          <ion-row class="personal">
+            <ion-col>
+              <ion-icon class="fotoRuben"></ion-icon>
+            </ion-col>
+            <ion-col>
+              <p>Rubén S.</p>
+              <span>Estado: 37%</span>
+            </ion-col>
+            <ion-col text-right>
+              <ion-icon class="iconStatusOrange"></ion-icon>
+            </ion-col>
+          </ion-row>
+          <ion-row class="personal">
+            <ion-col>
+              <ion-icon class="fotoCarmen"></ion-icon>
+            </ion-col>
+            <ion-col>
+              <p>Carmen A.</p>
+              <span>Estado: 7%</span>
+            </ion-col>
+            <ion-col text-right>
+              <ion-icon class="iconStatusRed"></ion-icon>
+            </ion-col>
+          </ion-row>
+        </ion-col>
+      </ion-row>
+
+
+    </ion-row>
+  </ion-grid>
+
+</ion-content>
