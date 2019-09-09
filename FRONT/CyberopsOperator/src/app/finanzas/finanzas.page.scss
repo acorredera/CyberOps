@@ -1,0 +1,171 @@
+ion-toolbar{
+    --ion-background-color:rgba(245, 245, 245, 0);   
+    --color:#fff; 
+    --background: url('../../assets/img/bkgMenu.jpg') no-repeat center center / cover; 
+  
+ }
+ion-content{
+    --background: url('../../assets/img/bkgAPP.jpg') no-repeat center center / cover; 
+   
+  }
+  
+h2,h3,h4,p,span{
+    color:#fff;
+}
+
+.iconHome{
+    background-image:url('../../assets/icon/iconHome.svg');
+    background-repeat: no-repeat;
+    width:30px;
+    height:30px;           
+    vertical-align: middle;
+    cursor:pointer;
+    margin-right:15px;
+}
+
+.iconFinanzas{    
+    background-image:url('../../assets/icon/iconFinanzasCOLOR.svg');
+    background-repeat: no-repeat;
+    width: 5em;
+    height: 5em; 
+    margin:20px;      
+    vertical-align: middle;        
+     
+}
+.lineaBlanca{
+    height:1px;
+    background:#fff;
+    display:block;
+    width:95%;
+    margin-right:50px;
+}
+
+.bkgFinanzas{
+    background: url('../../assets/img/bkgFinanzas.jpg') left center ;
+    background-repeat: no-repeat;    
+    background-size: cover;
+}
+.fondoGris{
+    background:#333333;
+    color:#fff;   
+    margin:15px;
+    margin-left:15px;
+    margin-bottom: -43px;
+}
+.fondoMorado{
+   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#290055+0,662d90+100 */
+background: rgb(41,0,85); /* Old browsers */
+background: -moz-linear-gradient(left, rgba(41,0,85,1) 0%, rgba(102,45,144,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, rgba(41,0,85,1) 0%,rgba(102,45,144,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, rgba(41,0,85,1) 0%,rgba(102,45,144,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#290055', endColorstr='#662d90',GradientType=1 ); /* IE6-9 */filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#003ecf', endColorstr='#14e7d0',GradientType=1 ); /* IE6-9 */margin-top: 80px;
+}
+img{
+   
+    vertical-align: middle;
+}
+.marginNeg{
+    margin-left:-50px;
+}
+.marginNeg2{
+    margin-left:-50px;
+    margin-top:10px;
+}
+.fondoMoradoOscuro{
+    background: rgba(0,0,0,0.5);
+    margin-bottom:20px;
+    padding:10px;
+    margin-left:50px;
+    margin-top: 30px;
+}
+.fondoMoradoOscuro2{
+    background: rgba(0,0,0,0.5);
+    margin-bottom:20px;
+    padding:10px;
+    margin-left:50px;
+    margin-top: 30px;
+    margin-right:50px;
+    h4{
+        font-weight: 600!important;
+    }
+}
+
+
+.iconEnergySaving{
+    background-image:url('../../assets/icon/iconEnergySaving.svg');
+    background-repeat: no-repeat;
+    width:5em;
+    height:5em;           
+    vertical-align: middle; 
+    padding:20px;
+    margin-left:50px;
+}
+.marginPos{
+    margin-left:40px;
+}
+
+// MEDIA QUERIES
+
+@media (min-width: 567px) and (max-width: 991px){
+    ion-toolbar{
+       --ion-background-color:rgba(245, 245, 245, 0);   
+       --color:#fff; 
+       --background: url('../../assets/img/bkgMenu.jpg') no-repeat center center / cover; 
+     
+    }
+    .iconEnergySaving{           
+        width:150px;
+        height:150px;      
+    }
+
+   }
+   @media (min-width: 992px) and (max-width: 1199px){
+       ion-header{
+           display:none;
+         }
+         .bkgFinanzas{   
+           background-size: contain;
+           }
+           .fondoGris{       
+               margin:40px;
+               margin-left:80px;
+               
+           }
+           .iconFinanzas{   
+              
+               width:120px;
+               height:120px;               
+               
+           }
+           .iconEnergySaving{           
+            width:6em;
+            height:6em;        
+        }
+       
+   }
+    
+   @media (min-width: 1200px) {
+    ion-header{
+      display:none;
+    }
+    .bkgFinanzas{   
+       background-size: contain;
+       }
+       .fondoGris{       
+           margin:40px;
+           margin-left:80px;
+           
+       }
+       .iconFinanzas{   
+          
+           width:120px;
+           height:120px;
+            
+           
+       }
+       .iconEnergySaving{           
+        width:150px;
+        height:150px;       
+    }
+    
+   }
