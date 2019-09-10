@@ -1,0 +1,1010 @@
+relation;source;target;weight
+CapableOf;humans;die only once;10.583005244258363
+AtLocation;humans;a country;6.928203230275509
+HasA;humans;brains;5.656854249492381
+HasA;Humans;two legs;4.898979485566356
+CapableOf;Humans;run;4.0
+HasA;humans;eyes;4.0
+CapableOf;Humans;see with their eyes;3.4641016151377544
+HasA;Humans;2 ears;3.4641016151377544
+HasA;humans;one mouth;3.4641016151377544
+AtLocation;humans;the park;2.82842712474619
+CapableOf;humans; change something;2.82842712474619
+CapableOf;humans;feel emotions;2.82842712474619
+CapableOf;humans;have sex;2.82842712474619
+CapableOf;Humans;heal;2.82842712474619
+CapableOf;Humans;make mistakes;2.82842712474619
+HasA;Humans;fingers;2.82842712474619
+HasA;Humans;five toes on each foot;2.82842712474619
+HasA;Humans;two ears;2.82842712474619
+HasProperty;humans;very adaptable;2.82842712474619
+IsA;Humans;bipeds;2.82842712474619
+DerivedFrom;loudness;loud;2.0
+RelatedTo;bučnost;loudness;2.0
+RelatedTo;glasnoća;loudness;2.0
+RelatedTo;glasnost;loudness;2.0
+Synonym;loudness;flashiness;2.0
+Synonym;loudness;volume;2.0
+Synonym;ラウドネス;loudness;2.0
+RelatedTo;noise;loudness;1.194
+ExternalURL;loudness;Loudness;1.0
+ExternalURL;loudness;Q622324;1.0
+FormOf;loudnesses;loudness;1.0
+RelatedTo;hlasitost;loudness;1.0
+RelatedTo;lautstärke;loudness;1.0
+RelatedTo;dichotic;loudness;1.0
+RelatedTo;dynamic;loudness;1.0
+RelatedTo;lamprophonic;loudness;1.0
+RelatedTo;lamprophony;loudness;1.0
+RelatedTo;loudness;amplitude;1.0
+RelatedTo;loudness;decibel;1.0
+RelatedTo;loudness;perceptual;1.0
+IsA;anger;emotion;7.745966692414834
+Causes;punishing someone;anger;3.4641016151377544
+CausesDesire;anger;hurt someone else;3.4641016151377544
+HasPrerequisite;punching someone;some anger;3.4641016151377544
+Causes;debating politics;anger;2.82842712474619
+CausesDesire;anger;kill someone;2.82842712474619
+CausesDesire;anger;kill people;2.82842712474619
+CausesDesire;anger;punch someone;2.82842712474619
+Causes;anger;anger;2.0
+Causes;competing;anger;2.0
+Causes;playing soccer;anger;2.0
+Causes;waiting on line;anger;2.0
+Causes;watching the evening news;anger;2.0
+IsA;anger;emotional arousal;2.0
+IsA;anger;emotion;2.0
+IsA;annoyance;anger;2.0
+IsA;bad temper;anger;2.0
+IsA;dander;anger;2.0
+IsA;fury;anger;2.0
+IsA;huffiness;anger;2.0
+IsA;anger;emotion;7.745966692414834
+IsA;fear;an emotion;5.656854249492381
+RelatedTo;cry;emotion;4.995998398718719
+RelatedTo;love;emotion;4.848917404947211
+IsA;Happiness;an emotion;4.47213595499958
+IsA;hate;an emotion;4.47213595499958
+RelatedTo;fear;emotion;4.244997055358225
+IsA;disgust;an emotion;4.0
+RelatedTo;happy;emotion;3.694861296449435
+IsA;Sadness;an emotion;3.4641016151377544
+HasProperty;emotion;pleasant;2.82842712474619
+IsA;boredom;an emotion;2.82842712474619
+IsA;Ecstasy;emotion;2.82842712474619
+IsA;pity;emotion;2.82842712474619
+IsA;shame;emotion;2.82842712474619
+PartOf;Emotion ;Mind;2.82842712474619
+RelatedTo;glad;emotion;2.7488179277645877
+RelatedTo;joy;emotion;2.3613555429032704
+RelatedTo;surprise;emotion;2.046460358765837
+Causes;going to a film;emotion;2.0
+IsA;infrastructure;store;2.0
+IsA;infrastructure;structure;2.0
+PartOf;communication system;infrastructure;2.0
+PartOf;fire station;infrastructure;2.0
+PartOf;gas system;infrastructure;2.0
+PartOf;grid;infrastructure;2.0
+PartOf;infrastructure;system;2.0
+PartOf;main;infrastructure;2.0
+PartOf;penal institution;infrastructure;2.0
+PartOf;public works;infrastructure;2.0
+PartOf;school system;infrastructure;2.0
+PartOf;sewage system;infrastructure;2.0
+PartOf;transportation system;infrastructure;2.0
+PartOf;water system;infrastructure;2.0
+RelatedTo;infrastruktura;infrastructure;2.0
+Synonym;بِنَاء تَحْتِي;infrastructure;2.0
+Synonym;بُنْيَة تَحْتِيَّة;infrastructure;2.0
+Synonym;base;infrastructure;2.0
+Synonym;substructure;infrastructure;2.0
+Synonym;infraestructura;infrastructure;2.0
+IsA;a stethoscope;a device;4.47213595499958
+IsA;A bomb;a device;4.0
+RelatedTo;scale;device;3.5293058807646585
+RelatedTo;eye;device;3.3899852507053776
+RelatedTo;clock;device;3.117691453623979
+IsA;A musical instrument;a device;2.82842712474619
+RelatedTo;phone;device;2.726169473822198
+RelatedTo;bed;device;2.2821042920953456
+RelatedTo;ear;device;2.244994432064365
+RelatedTo;watch;device;2.046460358765838
+HasContext;device;heraldry;2.0
+IsA;acoustic device;device;2.0
+IsA;adapter;device;2.0
+IsA;afterburner;device;2.0
+IsA;agglomerator;device;2.0
+IsA;airfoil;device;2.0
+IsA;alarm;device;2.0
+IsA;appliance;device;2.0
+IsA;applicator;device;2.0
+IsA;aspergill;device;2.0
+RelatedTo;reply;email;6.98541337359501
+CapableOf;Email;convay messages to people;2.0
+IsA;email;electronic mail;2.0
+MotivatedByGoal;email somebody;they don't answer their telephone;2.0
+Synonym;email;electronic mail;2.0
+Synonym;email;e-mail;2.0
+Synonym;e メール;email;2.0
+Synonym;メイル;email;2.0
+Synonym;メェル;email;2.0
+Synonym;メール;email;2.0
+Synonym;架電;email;2.0
+Synonym;電子 メイル;email;2.0
+Synonym;電子 メール;email;2.0
+Synonym;电子邮件;email;1.5
+RelatedTo;letter;email;1.158
+RelatedTo;at;email;1.0869999999999997
+Antonym;email;snail mail;1.0
+AtLocation;an advertisement;your email;1.0
+DerivedFrom;email address;email;1.0
+DerivedFrom;email;freemail;1.0
+IsA;wristband;band;2.0
+PartOf;wristband;sleeve;2.0
+Synonym;puny;wristband;2.0
+Synonym;wristband;watchband;2.0
+Synonym;wristband;wristlet;2.0
+Synonym;wristlet;wristband;2.0
+Synonym;puño;wristband;2.0
+Synonym;eskumutur;wristband;2.0
+Synonym;النگو;wristband;2.0
+Synonym;سر دست;wristband;2.0
+Synonym;ranneke;wristband;2.0
+Synonym;manchette;wristband;2.0
+Synonym;リストバンド;wristband;2.0
+Synonym;リストバンド;wristband;2.0
+Synonym;袖口;wristband;2.0
+Synonym;jalur pergelangan tangan;wristband;2.0
+Synonym;สายรัดข้อมือ;wristband;2.0
+ExternalURL;wristband;104614756-n;1.0
+FormOf;wrist band;wristband;1.0
+FormOf;wristbands;wristband;1.0
+Synonym;Operador;operator;3.4641016151377544
+CapableOf;An operator;direct a call;2.0
+HasContext;operator;mathematics;2.0
+IsA;company operator;operator;2.0
+IsA;driver;operator;2.0
+IsA;elevator operator;operator;2.0
+IsA;engineer;operator;2.0
+IsA;hoister;operator;2.0
+IsA;identity;operator;2.0
+IsA;jockey;operator;2.0
+IsA;linear operator;operator;2.0
+IsA;motorman;operator;2.0
+IsA;operator;businessman;2.0
+IsA;operator;causal agent;2.0
+IsA;operator;mapping;2.0
+IsA;operator;speculator;2.0
+IsA;radio operator;operator;2.0
+IsA;supermarketer;operator;2.0
+IsA;switchman;operator;2.0
+IsA;telegrapher;operator;2.0
+Synonym;心拍計;heart rate monitor;2.0
+DerivedFrom;heart rate monitor;heart rate;1.0
+ExternalURL;heart rate monitor;HeartRateMonitor;1.0
+FormOf;heart rate monitors;heart rate monitor;1.0
+IsA;heart rate monitor;alarm;1.0
+IsA;heart rate monitor;medical device;1.0
+RelatedTo;pulsómetro;heart rate monitor;1.0
+RelatedTo;sykemittari;heart rate monitor;1.0
+RelatedTo;cardiofrequenzimetro;heart rate monitor;1.0
+Synonym;heart rate monitor;pulsómetro;1.0
+Synonym;heart rate monitor;sykemittari;1.0
+Synonym;heart rate monitor;cardiofréquencemètre;1.0
+Synonym;heart rate monitor;cardiofrequenzimetro;1.0
+Synonym;heart rate monitor;心拍計;1.0
+Synonym;cardiofréquencemètre;heart rate monitor;1.0
+ExternalURL;heart rate monitor;heart rate monitor;0.25
+Synonym;Webcam;webcam;3.4641016151377544
+IsA;webcam;digital camera;2.0
+Synonym;càmera web;webcam;2.0
+Synonym;webcam;webcam;2.0
+Synonym;cámara web;webcam;2.0
+Synonym;webcam;webcam;2.0
+Synonym;webbikamera;webcam;2.0
+Synonym;cam;webcam;2.0
+Synonym;webcaméra;webcam;2.0
+Synonym;ウェブ カメラ;webcam;2.0
+Synonym;ウェブカム;webcam;2.0
+Synonym;ウェブカメラ;webcam;2.0
+Synonym;ウェブカメラ;webcam;2.0
+Synonym;webカメラ;webcam;2.0
+Synonym;kamera web;webcam;2.0
+Synonym;webcam;webcam;2.0
+Synonym;เว็บแคม;webcam;2.0
+Synonym;กล้องเว็บแคม;webcam;2.0
+Synonym;摄像头;webcam;1.5
+DerivedFrom;webcam;cam;1.0
+HasA;An apple;a core;4.898979485566356
+RelatedTo;apple;core;4.441171016747722
+IsA;cadre;core;2.0
+IsA;core;bar;2.0
+IsA;core;center;2.0
+IsA;core;chamber;2.0
+IsA;core;sample;2.0
+IsA;core;set;2.0
+IsA;corncob;core;2.0
+MannerOf;core;hollow;2.0
+PartOf;core;magnet;2.0
+PartOf;core;nuclear reactor;2.0
+RelatedTo;göbək;core;2.0
+RelatedTo;jezgra;core;2.0
+RelatedTo;jezgrica;core;2.0
+RelatedTo;jezgro;core;2.0
+RelatedTo;srž;core;2.0
+Synonym;cor;core;2.0
+Synonym;nucli;core;2.0
+Synonym;kerne;core;2.0
+RelatedTo;surprise;shock;6.2206109024757374
+RelatedTo;surprise;party;6.206126005810711
+Causes;opening a gift;surprise;6.0
+RelatedTo;surprise;unexpected;5.7469992169827195
+RelatedTo;shock;surprise;5.740383262466018
+RelatedTo;surprise;birthday;5.1869065925655535
+HasPrerequisite;surprise someone;hide;4.0
+HasPrerequisite;surprise someone;hiding;4.0
+HasSubevent;opening a gift;surprise;4.0
+HasSubevent;surprise someone;shock them;3.4641016151377544
+RelatedTo;surprise;birthday party;2.912043955712207
+HasSubevent;surprise someone;scare them;2.82842712474619
+RelatedTo;party;surprise;2.089018908483119
+RelatedTo;surprise;emotion;2.046460358765837
+CapableOf;An event;surprise you;2.0
+Causes;seeing something new;is surprise;2.0
+HasPrerequisite;surprise someone;not tell them of your plans;2.0
+HasPrerequisite;surprise someone;not tell your plans to them;2.0
+HasPrerequisite;surprise someone;be sneaky;2.0
+HasSubevent;surprise someone;they gasp;2.0
+IsA;humidity;wetness;2.0
+IsA;mugginess;humidity;2.0
+RelatedTo;humidity;humid;2.0
+RelatedTo;vlažnost;humidity;2.0
+Synonym;humitat;humidity;2.0
+Synonym;humidness;humidity;2.0
+Synonym;humedad;humidity;2.0
+Synonym;hezetasun;humidity;2.0
+Synonym;تری;humidity;2.0
+Synonym;رطوبت;humidity;2.0
+Synonym;نم;humidity;2.0
+Synonym;humidisuus;humidity;2.0
+Synonym;kosteus;humidity;2.0
+Synonym;humidité;humidity;2.0
+Synonym;hygrométrie;humidity;2.0
+Synonym;humidade;humidity;2.0
+Synonym;לַחוּת;humidity;2.0
+Synonym;umidità;humidity;2.0
+Synonym;水分;humidity;2.0
+Synonym;水気;humidity;2.0
+RelatedTo;picture;image;4.724404724407087
+RelatedTo;reflection;image;2.3832750575625967
+IsA;auditory image;image;2.0
+IsA;image;impression;2.0
+IsA;image;representation;2.0
+IsA;imagination image;image;2.0
+IsA;memory image;image;2.0
+IsA;mental picture;image;2.0
+IsA;visual image;image;2.0
+MannerOf;image;visualize;2.0
+RelatedTo;imidž;image;2.0
+RelatedTo;lik;image;2.0
+RelatedTo;predstava;image;2.0
+RelatedTo;slika;image;2.0
+Synonym;تَصَوُّر;image;2.0
+Synonym;صُورَة;image;2.0
+Synonym;صُورَة ذِهْنِيَّة;image;2.0
+Synonym;imatge;image;2.0
+Synonym;billede;image;2.0
+Synonym;image;double;2.0
+IsA;bug;microphone;2.0
+IsA;condenser microphone;microphone;2.0
+IsA;contact microphone;microphone;2.0
+IsA;crystal microphone;microphone;2.0
+IsA;directional microphone;microphone;2.0
+IsA;microphone;electro-acoustic transducer;2.0
+RelatedTo;mikrofon;microphone;2.0
+Synonym;micròfon;microphone;2.0
+Synonym;mikrofon;microphone;2.0
+Synonym;mic;microphone;2.0
+Synonym;microphone;mikrofon;2.0
+Synonym;mike;microphone;2.0
+Synonym;micrófono;microphone;2.0
+Synonym;mikrofono;microphone;2.0
+Synonym;بلندگو;microphone;2.0
+Synonym;میکروفن;microphone;2.0
+Synonym;mikki;microphone;2.0
+Synonym;mikrofoni;microphone;2.0
+Synonym;micro;microphone;2.0
+Synonym;microphone;microphone;2.0
+Synonym;ヒューマン エラー;human error;2.0
+Synonym;ヒューマンエラー;human error;2.0
+Synonym;人為 ミス;human error;2.0
+Synonym;人的 ミス;human error;2.0
+IsA;human error;visible here;1.0
+Desires;a person;hapiness;2.82842712474619
+Causes;creating something to help other people;Hapiness;1.0
+Causes;dancing the samba;hapiness;1.0
+Causes;living a life;hapiness;1.0
+Causes;signing a contract;hapiness;1.0
+Causes;writing a program;hapiness;1.0
+RelatedTo;degree;temperature;7.824065439399135
+RelatedTo;heat;temperature;5.51652064257898
+RelatedTo;cold;temperature;4.250647009573954
+Synonym;Temperatura;temperature;3.4641016151377544
+RelatedTo;hot;temperature;3.154679064500856
+RelatedTo;thermometer;temperature;2.7683930356797237
+RelatedTo;weather;temperature;2.611512971440119
+RelatedTo;fever;temperature;2.5806975801127887
+IsA;absolute temperature;temperature;2.0
+IsA;absolute zero;temperature;2.0
+IsA;body temperature;temperature;2.0
+IsA;cold;temperature;2.0
+IsA;coldness;temperature;2.0
+IsA;comfort zone;temperature;2.0
+IsA;Curie temperature;temperature;2.0
+IsA;dew point;temperature;2.0
+IsA;flash point;temperature;2.0
+IsA;heat;temperature;2.0
+IsA;hotness;temperature;2.0
+IsA;mercury;temperature;2.0
+ExternalURL;text mining;Text mining;1.0
+ExternalURL;text mining;Q676880;1.0
+ExternalURL;text mining;TextMining;1.0
+IsA;text mining;seeking;1.0
+Synonym;تنقيب في النصوص;text mining;0.5
+Synonym;dolování z textu;text mining;0.5
+Synonym;text mining;text mining;0.5
+Synonym;text mining;text mining;0.5
+Synonym;minería de textos;text mining;0.5
+Synonym;fouille de textes;text mining;0.5
+Synonym;szövegbányászat;text mining;0.5
+Synonym;テキストマイニング;text mining;0.5
+Synonym;penambangan teks;text mining;0.5
+Synonym;textmining;text mining;0.5
+Synonym;text mining;text mining;0.5
+Synonym;mineração de texto;text mining;0.5
+Synonym;интеллектуальный анализ текста;text mining;0.5
+Synonym;text mining;text mining;0.5
+Synonym;การทําเหมืองข้อความ;text mining;0.5
+Synonym;metin madenciliği;text mining;0.5
+PartOf;the brain;a human body;4.0
+PartOf;the heart;a human body;3.4641016151377544
+Synonym;بُنْيَة;human body;3.4641016151377544
+Synonym;Corps humain;human body;3.4641016151377544
+AtLocation;a bone;the human body;2.82842712474619
+AtLocation;a human body;a funeral;2.82842712474619
+AtLocation;a muscle;a human body;2.82842712474619
+AtLocation;an organ;a human body;2.82842712474619
+PartOf;the liver;a human body;2.82842712474619
+PartOf;the lung;a human body;2.82842712474619
+PartOf;the pancreas;a human body;2.82842712474619
+PartOf;the spine;a human body;2.82842712474619
+AtLocation;a disease;a human body;2.0
+HasA;A human body;many muscles;2.0
+HasA;A human body;many organs;2.0
+IsA;adult body;human body;2.0
+IsA;female body;human body;2.0
+IsA;human body;body;2.0
+IsA;juvenile body;human body;2.0
+IsA;male body;human body;2.0
+UsedFor;The internet;research;6.928203230275509
+AtLocation;information;the Internet;6.6332495807108
+AtLocation;pornography;the internet;4.0
+EtymologicallyDerivedFrom;internet;internet;3.4641016151377544
+IsA;An Internet;a network of communicating computers;3.4641016151377544
+Synonym;Internet;Internet;3.4641016151377544
+Synonym;Internet;Internet;3.4641016151377544
+Synonym;Internet;Internet;3.4641016151377544
+Synonym;NET;Internet;3.4641016151377544
+Synonym;Ciberespaço;Internet;3.4641016151377544
+UsedFor;the internet;communicate;3.4641016151377544
+AtLocation;porn;the Internet;2.82842712474619
+CapableOf;the internet;stream video;2.82842712474619
+IsA;The Internet;a collection of connected computers;2.82842712474619
+PartOf;Openmind;the internet;2.82842712474619
+RelatedTo;web;internet;2.325510696599782
+AtLocation;data;the Internet;2.0
+AtLocation;a website;the internet;2.0
+AtLocation;web sites;the Internet;2.0
+CapableOf;The internet;find a website;2.0
+PartOf;CPU;computer;6.32455532033676
+AtLocation;a CPU;a computer;2.0
+AtLocation;a CPU;a motherboard;2.0
+IsA;80386;cpu;2.0
+Synonym;CPU;central processing unit;2.0
+Synonym;シーピーユー;cpu;2.0
+Synonym;中央処理装置;cpu;2.0
+Synonym;中央演算処理装置;cpu;2.0
+DefinedAs;CPU;processor;1.0
+EtymologicallyDerivedFrom;cpu;cpu;1.0
+EtymologicallyDerivedFrom;ซีพียู;cpu;1.0
+FormOf;cpus;cpu;1.0
+HasContext;cpu;computer hardware;1.0
+HasContext;cpu;nursing education;1.0
+HasContext;cpu;slang;1.0
+HasContext;cpu;video games;1.0
+HasContext;cpu;architecture des ordinateurs;1.0
+RelatedTo;architecture;cpu;1.0
+RelatedTo;arithmetic logic unit;cpu;1.0
+RelatedTo;bindless;cpu;1.0
+UsedFor;a camera;take pictures;7.483314773547882
+AtLocation;a lens;the camera;5.291502622129181
+RelatedTo;picture;camera;4.024922359499621
+RelatedTo;flash;camera;3.334066586017742
+HasA;Camera;a flash;2.82842712474619
+AtLocation;a camera;a suitcase;2.0
+FormOf;cameras;camera;2.0
+IsA;box camera;camera;2.0
+IsA;A camera;a tool for taking pictures;2.0
+IsA;camera;photographic equipment;2.0
+IsA;candid camera;camera;2.0
+IsA;flash camera;camera;2.0
+IsA;motion-picture camera;camera;2.0
+IsA;point-and-shoot camera;camera;2.0
+IsA;portrait camera;camera;2.0
+IsA;reflex camera;camera;2.0
+PartOf;aperture;camera;2.0
+PartOf;camera lens;camera;2.0
+PartOf;delayed action;camera;2.0
+PartOf;diaphragm;camera;2.0
+RelatedTo;eye;face;9.10296654942772
+RelatedTo;nose;face;7.224956747275378
+AtLocation;a nose;your face;7.211102550927979
+RelatedTo;face;head;5.891689061720755
+RelatedTo;head;face;5.197306994973454
+RelatedTo;face;eyes;4.6951038327176535
+RelatedTo;face;nose;4.408627904461886
+RelatedTo;mouth;face;4.187600745056768
+RelatedTo;smile;face;3.8220413393892017
+RelatedTo;ear;face;3.6540388613149695
+RelatedTo;face;front;3.5185224171518357
+PartOf;An eye;a face;3.4641016151377544
+RelatedTo;napkin;face;3.2716968074685653
+RelatedTo;face;part;2.8411265371327623
+RelatedTo;face;body;2.466576574931336
+Synonym;顔;face;2.449489742783178
+RelatedTo;face;mouth;2.4478562049270787
+RelatedTo;face;body part;2.381596103456671
+RelatedTo;face;eyes nose;2.380756182392477
+RelatedTo;clock;face;2.187235698318771
+IsA;acoustic power;intensity;2.0
+IsA;badness;intensity;2.0
+IsA;candlepower;intensity;2.0
+IsA;ferocity;intensity;2.0
+IsA;field strength;intensity;2.0
+IsA;force;intensity;2.0
+IsA;half-intensity;intensity;2.0
+IsA;intensity;degree;2.0
+IsA;intensity;magnitude;2.0
+IsA;radio brightness;intensity;2.0
+IsA;threshold level;intensity;2.0
+IsA;top;intensity;2.0
+IsA;vehemence;intensity;2.0
+RelatedTo;intenzitet;intensity;2.0
+RelatedTo;jačina;intensity;2.0
+RelatedTo;jakost;intensity;2.0
+RelatedTo;jara;intensity;2.0
+Synonym;شِدَّة;intensity;2.0
+Synonym;قُوَّة;intensity;2.0
+Synonym;كَثَافَة;intensity;2.0
+RelatedTo;cry;sadness;4.94489635887346
+Causes;hearing the news;sadness;4.0
+IsA;Sadness;an emotion;3.4641016151377544
+Synonym;حَزَن;sadness;3.4641016151377544
+RelatedTo;melancholy;sadness;2.0386269889315205
+Antonym;mirth;sadness;2.0
+Causes;death;sadness;2.0
+Causes;discovering the truth;sadness;2.0
+Causes;hurting someone else;sadness;2.0
+Causes;playing the violin;sadness;2.0
+CausesDesire;sadness;get drunk;2.0
+HasSubevent;burying the cat;sadness;2.0
+IsA;cheerlessness;sadness;2.0
+IsA;depression;sadness;2.0
+IsA;dolefulness;sadness;2.0
+IsA;downheartedness;sadness;2.0
+IsA;forlornness;sadness;2.0
+IsA;heaviness;sadness;2.0
+IsA;melancholy;sadness;2.0
+IsA;misery;sadness;2.0
+IsA;monitoring;observation;2.0
+Synonym;jarraipen;monitoring;2.0
+Synonym;tarkkailu;monitoring;2.0
+Synonym;monitorage;monitoring;2.0
+Synonym;monitoring;monitoring;2.0
+Synonym;surveillance;monitoring;2.0
+Synonym;control;monitoring;2.0
+Synonym;seguimento;monitoring;2.0
+Synonym;vixilancia;monitoring;2.0
+Synonym;monitoraggio;monitoring;2.0
+Synonym;モニタリング;monitoring;2.0
+Synonym;傍受;monitoring;2.0
+Synonym;傍受;monitoring;2.0
+Synonym;monitorização;monitoring;2.0
+DerivedFrom;biomonitoring;monitoring;1.0
+DerivedFrom;neuromonitoring;monitoring;1.0
+ExternalURL;monitoring;Monitoring;1.0
+ExternalURL;monitoring;100881724-n;1.0
+FormOf;monitoring;monitor;1.0
+FormOf;monitorings;monitoring;1.0
+AtLocation;opinion;the newspaper;2.0
+CapableOf;an opinion;separate a group;2.0
+HasContext;opinion;law;2.0
+IsA;adverse opinion;opinion;2.0
+IsA;concurring opinion;opinion;2.0
+IsA;dissenting opinion;opinion;2.0
+IsA;eyes;opinion;2.0
+IsA;fatwah;opinion;2.0
+IsA;fatwa;opinion;2.0
+IsA;guess;opinion;2.0
+IsA;idea;opinion;2.0
+IsA;judgment;opinion;2.0
+IsA;majority opinion;opinion;2.0
+IsA;obiter dictum;opinion;2.0
+IsA;opinion;belief;2.0
+IsA;opinion;judgment;2.0
+IsA;opinion;legal document;2.0
+IsA;opinion;message;2.0
+IsA;pole;opinion;2.0
+IsA;politics;opinion;2.0
+IsA;economy;efficiency;2.0
+IsA;efficiency;ratio;2.0
+IsA;efficiency;skillfulness;2.0
+IsA;figure of merit;efficiency;2.0
+RelatedTo;effective;efficiency;2.0
+RelatedTo;effectual;efficiency;2.0
+RelatedTo;efikasnost;efficiency;2.0
+Synonym;فَعَالِيَّة;efficiency;2.0
+Synonym;كَفَاءَة;efficiency;2.0
+Synonym;eficiència;efficiency;2.0
+Synonym;eficiencia;efficiency;2.0
+Synonym;eraginkortasun;efficiency;2.0
+Synonym;بازده;efficiency;2.0
+Synonym;بهره وری;efficiency;2.0
+Synonym;راندمان;efficiency;2.0
+Synonym;tehokkuus;efficiency;2.0
+Synonym;efficacité;efficiency;2.0
+Synonym;rendement;efficiency;2.0
+Synonym;efficienza;efficiency;2.0
+Synonym;resa;efficiency;2.0
+IsA;fence-sitter;neutral;2.0
+IsA;neutral;person;2.0
+IsA;stakeholder;neutral;2.0
+RelatedTo;neuter;neutral;2.0
+RelatedTo;neutral;neuter;2.0
+RelatedTo;neutralan;neutral;2.0
+SimilarTo;colorless;neutral;2.0
+SimilarTo;neutral;colorless;2.0
+SimilarTo;neutral;neutralised;2.0
+SimilarTo;neutral;nonaligned;2.0
+SimilarTo;neutral;uncharged;2.0
+SimilarTo;neutral;viewless;2.0
+SimilarTo;neutralised;neutral;2.0
+SimilarTo;nonaligned;neutral;2.0
+SimilarTo;uncharged;neutral;2.0
+SimilarTo;viewless;neutral;2.0
+Synonym;neutral;neutral;2.0
+Synonym;neutral;neutral;2.0
+Synonym;electroneutral;neutral;2.0
+Synonym;neutral;achromatic;2.0
+IsA;negativity;polarity;2.0
+IsA;polarity;opposition;2.0
+IsA;positiveness;polarity;2.0
+Synonym;اِسْتِقْطابيَّة;polarity;2.0
+Synonym;قُطْبِيَّة;polarity;2.0
+Synonym;polaritat;polarity;2.0
+Synonym;polarity;mutual opposition;2.0
+Synonym;sign;polarity;2.0
+Synonym;polaritate;polarity;2.0
+Synonym;تضاد;polarity;2.0
+Synonym;تقارن;polarity;2.0
+Synonym;تمایل قطبی;polarity;2.0
+Synonym;etumerkki;polarity;2.0
+Synonym;polariteetti;polarity;2.0
+Synonym;signature;polarity;2.0
+Synonym;signe;polarity;2.0
+Synonym;両極;polarity;2.0
+Synonym;両極性;polarity;2.0
+Synonym;極性;polarity;2.0
+Synonym;正反対;polarity;2.0
+AtLocation;comfort;a home;2.82842712474619
+AtLocation;comfort;a friend's house;2.0
+FormOf;comforts;comfort;2.0
+HasPrerequisite;relaxing;comfort;2.0
+IsA;comfort;a good feeling;2.0
+IsA;comfort;aid;2.0
+IsA;comfort;condition;2.0
+IsA;comfort;gratification;2.0
+IsA;comfort;pleasure;2.0
+IsA;consolation;comfort;2.0
+IsA;convenience;comfort;2.0
+IsA;coziness;comfort;2.0
+IsA;relief;comfort;2.0
+IsA;solace;comfort;2.0
+MannerOf;calm;comfort;2.0
+MannerOf;comfort;relieve;2.0
+MannerOf;still;comfort;2.0
+RelatedTo;komfor;comfort;2.0
+RelatedTo;komoditet;comfort;2.0
+RelatedTo;lagodnost;comfort;2.0
+HasContext;face recognition;terrorism;2.0
+IsA;face recognition;biometric identification;2.0
+IsA;face recognition;visual perception;2.0
+Synonym;automatic face recognition;face recognition;2.0
+Synonym;facial recognition;face recognition;2.0
+Synonym;automaattinen kasvotunnistus;face recognition;2.0
+Synonym;kasvojen tunnistaminen;face recognition;2.0
+Synonym;kasvontunnistus;face recognition;2.0
+Synonym;kasvotunnistus;face recognition;2.0
+ExternalURL;face recognition;105719153-n;1.0
+ExternalURL;face recognition;106656868-n;1.0
+UsedFor;a voice;Singing;7.483314773547882
+RelatedTo;voice;vocal;4.586065852122056
+RelatedTo;voice;speaking;4.011483516107227
+UsedFor;a voice;communicate;4.0
+UsedFor;a voice;Talking;4.0
+RelatedTo;voice;noise;3.9989998749687405
+HasProperty;a voice;loud;3.4641016151377544
+Synonym;Voz humana;voice;3.4641016151377544
+RelatedTo;voice;mouth;3.301514803843836
+RelatedTo;voice;talking;3.2422214606655118
+RelatedTo;voice;singing;3.108697476436072
+AtLocation;a voice;a radio;2.82842712474619
+RelatedTo;sound;voice;2.3706539182259396
+RelatedTo;voice;throat;2.3486166140943485
+RelatedTo;voice;speech;2.343501653509124
+RelatedTo;voice;human;2.149418526020467
+AtLocation;a voice;a song;2.0
+HasContext;voice;linguistics;2.0
+HasContext;voice;metonymy;2.0
+HasPrerequisite;singing;a voice;2.0
+Synonym;データ センタ;data center;2.0
+Synonym;データ センター;data center;2.0
+Synonym;データセンタ;data center;2.0
+Synonym;データセンター;data center;2.0
+ExternalURL;data center;Data center;1.0
+ExternalURL;data center;Q671224;1.0
+FormOf;datacenter;data center;1.0
+FormOf;data center;data centre;1.0
+FormOf;data centers;data center;1.0
+FormOf;data centre;data center;1.0
+FormOf;datacentre;data center;1.0
+HasContext;data center;informatique;1.0
+RelatedTo;rechenzentrum;data center;1.0
+RelatedTo;data center;centre de données;1.0
+RelatedTo;data centers;data center;1.0
+RelatedTo;laskentakeskus;data center;1.0
+RelatedTo;serwerownia;data center;1.0
+Synonym;machine room;data center;1.0
+Synonym;centre de données;data center;1.0
+Synonym;مركز بيانات;data center;0.5
+RelatedTo;sound;audio;4.0541336929114715
+IsA;audio;auditory communication;2.0
+IsA;audio;component;2.0
+IsA;audio;frequency;2.0
+PartOf;audio;television;2.0
+RelatedTo;godcasting;audio;2.0
+RelatedTo;video;audio;2.0
+Synonym;àudio;audio;2.0
+Synonym;so;audio;2.0
+Synonym;audio frequency;audio;2.0
+Synonym;audio;sound recording;2.0
+Synonym;sound;audio;2.0
+Synonym;audiofrecuencia;audio;2.0
+Synonym;audio;audio;2.0
+Synonym;sonido;audio;2.0
+Synonym;volumen;audio;2.0
+Synonym;audiomaiztasun;audio;2.0
+Synonym;audio;audio;2.0
+Synonym;soinu;audio;2.0
+Synonym;äänentoisto;audio;2.0
+Synonym;Prosódia;prosody;3.4641016151377544
+HasContext;acatalectic;prosody;2.0
+HasContext;Alexandrine;prosody;2.0
+HasContext;catalectic;prosody;2.0
+HasContext;dactylic;prosody;2.0
+HasContext;hypercatalectic;prosody;2.0
+HasContext;iambic;prosody;2.0
+HasContext;meter;prosody;2.0
+HasContext;metrical;prosody;2.0
+HasContext;metrical foot;prosody;2.0
+HasContext;poetic rhythm;prosody;2.0
+HasContext;spondaic;prosody;2.0
+HasContext;trochaic;prosody;2.0
+IsA;caesura;prosody;2.0
+IsA;enjambment;prosody;2.0
+IsA;intonation;prosody;2.0
+IsA;prosody;manner of speaking;2.0
+IsA;prosody;poetics;2.0
+IsA;rhythm;prosody;2.0
+IsA;stress;prosody;2.0
+Synonym;sensor;detector;2.0
+Synonym;センサ;sensor;2.0
+Synonym;センサー;sensor;2.0
+Synonym;感知器;sensor;2.0
+Synonym;検知器;sensor;2.0
+Synonym;警報器;sensor;2.0
+Synonym;警報機;sensor;2.0
+RelatedTo;eye;sensor;1.029
+CapableOf;A sensor;measure physical phenomenon;1.0
+DerivedFrom;biosensor;sensor;1.0
+DerivedFrom;intrasensor;sensor;1.0
+DerivedFrom;osmosensor;sensor;1.0
+DerivedFrom;phagosensor;sensor;1.0
+DerivedFrom;sensor;sense;1.0
+DerivedFrom;sensor;sensorchip;1.0
+DerivedFrom;sensorgram;sensor;1.0
+DerivedFrom;sensorlike;sensor;1.0
+DerivedFrom;thermosensor;sensor;1.0
+EtymologicallyDerivedFrom;センサ;sensor;1.0
+EtymologicallyDerivedFrom;sensor;sensor;1.0
+AtLocation;insects;a log;2.0
+HasContext;log;airplane;2.0
+HasContext;log;ship;2.0
+IsA;harpoon log;log;2.0
+IsA;log;measuring instrument;2.0
+IsA;log;written record;2.0
+IsA;nurse log;log;2.0
+IsA;patent log;log;2.0
+IsA;saw log;log;2.0
+MannerOf;log;fell;2.0
+MannerOf;log;record;2.0
+PartOf;log line;log;2.0
+PartOf;log;ship;2.0
+RelatedTo;balvan;log;2.0
+RelatedTo;jošić;log;2.0
+RelatedTo;klada;log;2.0
+RelatedTo;trupac;log;2.0
+Synonym;tronc;log;2.0
+Synonym;log;logarithm;2.0
+Synonym;lumber;log;2.0
+RelatedTo;cry;emotional;3.4240327101241306
+HasProperty;humans;emotional;2.0
+RelatedTo;emotional;moved p ;2.0
+RelatedTo;emotional;moving;2.0
+RelatedTo;emotional;passionate;2.0
+RelatedTo;emotional;warm;2.0
+RelatedTo;moved p ;emotional;2.0
+RelatedTo;moving;emotional;2.0
+RelatedTo;passionate;emotional;2.0
+RelatedTo;warm;emotional;2.0
+RelatedTo;emocionalan;emotional;2.0
+RelatedTo;emotivan;emotional;2.0
+SimilarTo;affectional;emotional;2.0
+SimilarTo;emotional;affectional;2.0
+SimilarTo;emotional;het up;2.0
+SimilarTo;emotional;hot-blooded;2.0
+SimilarTo;emotional;little;2.0
+SimilarTo;emotional;low-down;2.0
+SimilarTo;emotional;lyrical;2.0
+SimilarTo;emotional;mind-blowing;2.0
+UsedFor;an electric fan;cooling;4.898979485566356
+IsA;cooling;temperature change;2.0
+IsA;freeze;cooling;2.0
+IsA;heat dissipation;cooling;2.0
+IsA;refrigeration;cooling;2.0
+Synonym;تَبْرِيد;cooling;2.0
+Synonym;خَفْض الحَرَارَة;cooling;2.0
+Synonym;baixada de temperatura;cooling;2.0
+Synonym;chilling;cooling;2.0
+Synonym;cooling;cooling system;2.0
+Synonym;temperature reduction;cooling;2.0
+Synonym;hozketa;cooling;2.0
+Synonym;hozte;cooling;2.0
+Synonym;jäähtyminen;cooling;2.0
+Synonym;lämpötilan aleneminen;cooling;2.0
+Synonym;viileneminen;cooling;2.0
+Synonym;refroidissement;cooling;2.0
+Synonym;refroidisseur;cooling;2.0
+Synonym;クーリング;cooling;2.0
+Synonym;冷却;cooling;2.0
+AtLocation;a router;a network;2.0
+HasContext;network;broadcasting;2.0
+HasContext;network;electronics;2.0
+HasContext;network;computer science;2.0
+IsA;computer network;network;2.0
+IsA;early warning system;network;2.0
+IsA;espionage network;network;2.0
+IsA;network;communication system;2.0
+IsA;network;system;2.0
+IsA;old boy network;network;2.0
+IsA;reseau;network;2.0
+IsA;reticle;network;2.0
+IsA;reticulation;network;2.0
+IsA;reticulum;network;2.0
+IsA;superhighway;network;2.0
+IsA;support system;network;2.0
+MannerOf;network;communicate;2.0
+RelatedTo;mreža;network;2.0
+Synonym;interconnectar;network;2.0
+Synonym;xarxa de comunicacions;network;2.0
+DerivedFrom;biometrically;biometric;1.0
+DerivedFrom;biometric;metric;1.0
+RelatedTo;biometrický;biometric;1.0
+RelatedTo;biometrisch;biometric;1.0
+RelatedTo;biometric;biometrical;1.0
+RelatedTo;biometric;biometrics;1.0
+RelatedTo;biometrical;biometric;1.0
+RelatedTo;biometrically;biometric;1.0
+RelatedTo;nonbiometric;biometric;1.0
+RelatedTo;oculometric;biometric;1.0
+RelatedTo;oculometry;biometric;1.0
+RelatedTo;biométrico;biometric;1.0
+RelatedTo;biometrinen;biometric;1.0
+RelatedTo;biotunnistus;biometric;1.0
+RelatedTo;biométrique;biometric;1.0
+RelatedTo;bithmhéadrach;biometric;1.0
+RelatedTo;biometrico;biometric;1.0
+RelatedTo;biometrisk;biometric;1.0
+RelatedTo;biométrico;biometric;1.0
+Synonym;biometric;биометричен;1.0
+AtLocation;a connection;a circuit;2.0
+HasA;Your internet;a connection;2.0
+HasContext;connection;narcotic;2.0
+IsA;alliance;connection;2.0
+IsA;articulation;connection;2.0
+IsA;attachment;connection;2.0
+IsA;backbone;connection;2.0
+IsA;bridge;connection;2.0
+IsA;coherence;connection;2.0
+IsA;communication;connection;2.0
+IsA;concatenation;connection;2.0
+IsA;connection;acquaintance;2.0
+IsA;connection;instrumentality;2.0
+IsA;connection;relation;2.0
+IsA;connection;shape;2.0
+IsA;connection;supplier;2.0
+IsA;connection;transportation;2.0
+IsA;connection;union;2.0
+IsA;contact;connection;2.0
+IsA;ground;connection;2.0
+Causes;entertaining people;pleasure;4.47213595499958
+UsedFor;marijuana;pleasure;4.0
+UsedFor;music;pleasure;4.0
+Causes;seeing your favorite show;pleasure;3.4641016151377544
+Causes;copulating;pleasure;2.82842712474619
+Causes;creating art;pleasure;2.82842712474619
+Causes;getting warm;pleasure;2.82842712474619
+Causes;kissing;pleasure;2.82842712474619
+UsedFor;flying a kite;pleasure;2.82842712474619
+RelatedTo;enjoy;pleasure;2.1147103820618085
+Causes;having fun;pleasure;2.0
+DefinedAs;Pleasure;opposite of pain;2.0
+HasSubevent;creating art;pleasure;2.0
+IsA;comfort;pleasure;2.0
+IsA;enjoyment;pleasure;2.0
+IsA;luxuriation;pleasure;2.0
+IsA;pleasantness;pleasure;2.0
+IsA;pleasure;activity;2.0
+IsA;pleasure;choice;2.0
+IsA;pleasure;feeling;2.0
+IsA;natural language processing;information science;2.0
+Synonym;human language technology;natural language processing;2.0
+Synonym;NLP;natural language processing;2.0
+Synonym;kieliteknologia;natural language processing;2.0
+Synonym;luonnollisen  kielen  käsittely;natural language processing;2.0
+Synonym;NLP;natural language processing;2.0
+Synonym;Nitrobenzaldéhyde;natural language processing;2.0
+Synonym;traitement automatique des langues;natural language processing;2.0
+Synonym;traitement automatique du langage naturel;natural language processing;2.0
+Synonym;自然言語処理;natural language processing;2.0
+Synonym;自然言語処理;natural language processing;2.0
+Synonym;pemrosesan bahasa alami;natural language processing;2.0
+Synonym;przetwarzanie języka naturalnego;natural language processing;2.0
+Synonym;Processamento de linguagem natural;natural language processing;2.0
+Synonym;การประมวลผลภาษาธรรมชาติ;natural language processing;2.0
+Synonym;自然语言处理;natural language processing;1.5
+ExternalURL;natural language processing;Natural language processing;1.0
+ExternalURL;natural language processing;Q30642;1.0
+ExternalURL;natural language processing;106151863-n;1.0
+HasContext;overgenerate;natural language processing;1.0
+IsA;disgust;an emotion;4.0
+Causes;spitting;disgust;2.82842712474619
+Causes;watching the evening news;disgust;2.0
+IsA;abhorrence;disgust;2.0
+IsA;nausea;disgust;2.0
+IsA;repugnance;disgust;2.0
+MannerOf;disgust;repel;2.0
+MannerOf;disgust;stimulate;2.0
+MannerOf;shock;disgust;2.0
+MannerOf;sicken;disgust;2.0
+RelatedTo;disgusted;disgust;2.0
+RelatedTo;disgusting;disgust;2.0
+RelatedTo;gađenje;disgust;2.0
+RelatedTo;gaditi;disgust;2.0
+RelatedTo;zgroziti;disgust;2.0
+Synonym;إِشْمِئْزاز;disgust;2.0
+Synonym;قَرَف;disgust;2.0
+Synonym;مَقْت;disgust;2.0
+Synonym;نُفُور;disgust;2.0
+Synonym;aversió;disgust;2.0
+RelatedTo;picture;photo;5.656147098511495
+RelatedTo;picture;image;4.724404724407087
+RelatedTo;picture;photograph;4.227055712904669
+RelatedTo;picture;frame;4.179952152836202
+RelatedTo;picture;camera;4.024922359499621
+RelatedTo;picture;painting;3.573233829460367
+AtLocation;a picture;an art show;3.4641016151377544
+RelatedTo;draw;picture;3.1183328879386814
+RelatedTo;picture;art;3.0099833886584824
+RelatedTo;picture;drawing;2.6343879744638983
+RelatedTo;picture;portrait;2.6321094202179367
+RelatedTo;art;picture;2.434748446965312
+RelatedTo;photograph;picture;2.1972710347155626
+RelatedTo;picture;framed;2.0678491240900527
+AtLocation;a bald eagle;a picture;2.0
+AtLocation;a picture;a desktop;2.0
+AtLocation;a picture;the shelf;2.0
+AtLocation;a picture;a wall;2.0
+HasContext;picture;art;2.0
+IsA;beefcake;picture;2.0
+HasContext;node;astronomy;2.0
+HasContext;node;computer science;2.0
+HasContext;node;physics;2.0
+IsA;ascending node;node;2.0
+IsA;descending node;node;2.0
+IsA;node;celestial point;2.0
+IsA;node;computer;2.0
+IsA;node;connection;2.0
+IsA;node;convex shape;2.0
+IsA;node;point;2.0
+IsA;node;solid body substance;2.0
+IsA;nodule;node;2.0
+PartOf;node;computer network;2.0
+RelatedTo;čvor;node;2.0
+Synonym;client;node;2.0
+Synonym;node;node;2.0
+Synonym;knudepunkt;node;2.0
+Synonym;client;node;2.0
+Synonym;guest;node;2.0
+Synonym;knob;node;2.0
+Synonym;fiberoptic;fiber-optic;2.0
+Synonym;fibre-optic;fiber-optic;2.0
+Synonym;fibreoptic;fiber-optic;2.0
+Synonym;de fibra óptica;fiber-optic;2.0
+Synonym;fibroóptica;fiber-optic;2.0
+Synonym;valokaapeli-;fiber-optic;2.0
+ExternalURL;fiber optic;302737745-a;1.0
+RelatedTo;angioscopy;fiber optic;1.0
+RelatedTo;asynchronous transfer mode;fiber optic;1.0
+RelatedTo;overbuilder;fiber optic;1.0
+RelatedTo;t3;fiber optic;1.0
+Synonym;heart rate;pulse;2.0
+Synonym;心拍;heart rate;2.0
+DerivedFrom;heart rate monitor;heart rate;1.0
+FormOf;heartrate;heart rate;1.0
+FormOf;heart rates;heart rate;1.0
+RelatedTo;tepová frekvence;heart rate;1.0
+RelatedTo;adrenal gland;heart rate;1.0
+RelatedTo;biopath;heart rate;1.0
+RelatedTo;cardiodepression;heart rate;1.0
+RelatedTo;cardiodepressive;heart rate;1.0
+RelatedTo;cardio;heart rate;1.0
+RelatedTo;lie detector;heart rate;1.0
+RelatedTo;nonstress test;heart rate;1.0
+RelatedTo;polygraph;heart rate;1.0
+RelatedTo;sympathetic nervous system;heart rate;1.0
+RelatedTo;triiodothyronine;heart rate;1.0
+RelatedTo;leposyke;heart rate;1.0
+RelatedTo;syke;heart rate;1.0
+RelatedTo;batticuore;heart rate;1.0
+RelatedTo;心拍;heart rate;1.0
+IsA;a text;a book;4.0
+RelatedTo;writing;text;3.7815340802378072
+AtLocation;a text;a library;3.4641016151377544
+AtLocation;text;the newspaper;2.82842712474619
+UsedFor;a text;learning;2.82842712474619
+UsedFor;a text;study;2.82842712474619
+UsedFor;a text;teaching;2.82842712474619
+Causes;typing;text;2.0
+FormOf;texted;text;2.0
+IsA;column;text;2.0
+IsA;cookie;text;2.0
+IsA;copy;text;2.0
+IsA;draft;text;2.0
+IsA;electronic text;text;2.0
+IsA;installment;text;2.0
+IsA;letter;text;2.0
+IsA;line;text;2.0
+IsA;lipogram;text;2.0
+IsA;lyric;text;2.0
+IsA;stanza;text;2.0

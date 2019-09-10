@@ -1,0 +1,5511 @@
+relation;source;target;weight
+SymbolOf;🕐;00;1.0
+SymbolOf;🕑;00;1.0
+SymbolOf;🕒;00;1.0
+SymbolOf;🕓;00;1.0
+SymbolOf;🕔;00;1.0
+SymbolOf;🕕;00;1.0
+SymbolOf;🕖;00;1.0
+SymbolOf;🕗;00;1.0
+SymbolOf;🕘;00;1.0
+SymbolOf;🕙;00;1.0
+SymbolOf;🕚;00;1.0
+SymbolOf;🕛;00;1.0
+SimilarTo;12;cardinal;2.0
+SimilarTo;cardinal;12;2.0
+Synonym;12;12;2.0
+Synonym;dotze;12;2.0
+Synonym;XII;12;2.0
+Synonym;12;twelve;2.0
+Synonym;dozen;12;2.0
+Synonym;twelve;12;2.0
+Synonym;xii;12;2.0
+Synonym;دوازده;12;2.0
+Synonym;دوازده عدد;12;2.0
+Synonym;دوجین;12;2.0
+Synonym;یک دوجین;12;2.0
+Synonym;kaksitoista-;12;2.0
+Synonym;tusina-;12;2.0
+Synonym;xii-;12;2.0
+Synonym;12;12;2.0
+Synonym;dizaine;12;2.0
+Synonym;douze;12;2.0
+Synonym;12;12;2.0
+SimilarTo;30;cardinal;2.0
+SimilarTo;cardinal;30;2.0
+Synonym;30;30;2.0
+Synonym;trenta;30;2.0
+Synonym;XXX;30;2.0
+Synonym;30;thirty;2.0
+Synonym;thirty;30;2.0
+Synonym;xxx;30;2.0
+Synonym;kolmekymmentä-;30;2.0
+Synonym;xxx-;30;2.0
+Synonym;trente;30;2.0
+Synonym;30;30;2.0
+Synonym;trenta;30;2.0
+Synonym;tiga puluh;30;2.0
+Synonym;30;30;2.0
+Synonym;๓๐;30;2.0
+Synonym;สามสิบ;30;2.0
+ExternalURL;30;302196945-s;1.0
+ExternalURL;30;30;1.0
+ExternalURL;30;30;1.0
+SimilarTo;500;cardinal;2.0
+SimilarTo;cardinal;500;2.0
+Synonym;500;500;2.0
+Synonym;cinc-cents;500;2.0
+Synonym;D;500;2.0
+Synonym;500;five hundred;2.0
+Synonym;d;500;2.0
+Synonym;five hundred;500;2.0
+Synonym;d-;500;2.0
+Synonym;viisisataa-;500;2.0
+Synonym;cinq cents;500;2.0
+Synonym;cinquecento;500;2.0
+Synonym;五百;500;2.0
+Synonym;500;500;2.0
+Synonym;๕๐๐;500;2.0
+Synonym;ห้าร้อย;500;2.0
+ExternalURL;500;302206300-s;1.0
+HasContext;500;sports;1.0
+HasProperty;500;five hundred;1.0
+RelatedTo;five hundred;500;1.0
+FormOf;80s;eighties;2.0
+Synonym;80s;1980s;2.0
+FormOf;80 s;80s;1.0
+FormOf;eighties;80s;1.0
+RelatedTo;80s;1980s;1.0
+RelatedTo;80s;decade;1.0
+RelatedTo;80s;décennie;1.0
+Synonym;1980s;80s;1.0
+EtymologicallyRelatedTo;80s;1980s;0.25
+ExternalURL;80s;'80s;0.25
+ExternalURL;80s;80s;0.25
+ExternalURL;80s;80s;0.25
+ExternalURL;abberline;Abberline;0.25
+Synonym;ably;competently;2.0
+RelatedTo;dovedně;ably;1.0
+RelatedTo;ably;ability;1.0
+RelatedTo;ably;able;1.0
+RelatedTo;ably;manner;1.0
+RelatedTo;ably;adroit;1.0
+RelatedTo;ably;capable;1.0
+RelatedTo;ably;habilement;1.0
+RelatedTo;eble;ably;1.0
+RelatedTo;hábilmente;ably;1.0
+RelatedTo;taitavasti;ably;1.0
+RelatedTo;მარჯვედ;ably;1.0
+RelatedTo;izdarīgāk;ably;1.0
+RelatedTo;izdarīgi;ably;1.0
+RelatedTo;spējīgāk;ably;1.0
+RelatedTo;spējīgi;ably;1.0
+RelatedTo;visspējīgāk;ably;1.0
+RelatedTo;capabliément;ably;1.0
+RelatedTo;habilmente;ably;1.0
+RelatedTo;искусно;ably;1.0
+Synonym;absinthe;absinth;2.0
+Synonym;absinthe;common wormwood;2.0
+Synonym;absinthe;apsint;2.0
+Synonym;アブサン;absinthe;2.0
+Synonym;苦艾;absinthe;2.0
+Synonym;苦艾酒;absinthe;1.5
+DerivedFrom;absinthiana;absinthe;1.0
+ExternalURL;absinthe;Absinthe;1.0
+ExternalURL;absinthe;Absinthe;1.0
+ExternalURL;absinthe;Q170210;1.0
+ExternalURL;absinthe;Absinthe;1.0
+FormOf;absinthes;absinthe;1.0
+FormOf;absinth;absinthe;1.0
+FormOf;absynthe;absinthe;1.0
+HasContext;absinthe;us;1.0
+IsA;absinthe;bitterness;1.0
+IsA;absinthe;green;1.0
+IsA;absinthe;hard liquor;1.0
+IsA;absinthe;illegal drug;1.0
+RelatedTo;axenxu;absinthe;1.0
+HasContext;accent;language;2.0
+IsA;accent;diacritical mark;2.0
+IsA;accent;pronunciation;2.0
+IsA;acute accent;accent;2.0
+IsA;drawl;accent;2.0
+IsA;grave accent;accent;2.0
+IsA;stress mark;accent;2.0
+RelatedTo;cockney;accent;2.0
+RelatedTo;naglasak;accent;2.0
+RelatedTo;naglašavati;accent;2.0
+RelatedTo;naglasiti;accent;2.0
+Synonym;accent;accent;2.0
+Synonym;deix;accent;2.0
+Synonym;accent;naglasak;2.0
+Synonym;accent mark;accent;2.0
+Synonym;accent;dialect;2.0
+Synonym;accent;emphasis;2.0
+Synonym;accent;stress;2.0
+Synonym;accent;stress;2.0
+Synonym;speech pattern;accent;2.0
+RelatedTo;stage;acting;3.4945672121165448
+HasSubevent;go on the stage;acting;2.82842712474619
+CausesDesire;acting;pretend;2.0
+HasSubevent;pretending;acting;2.0
+IsA;acting;activity;2.0
+IsA;acting;performing arts;2.0
+IsA;business;acting;2.0
+IsA;hamming;acting;2.0
+IsA;heroics;acting;2.0
+IsA;impersonation;acting;2.0
+IsA;method acting;acting;2.0
+IsA;mime;acting;2.0
+IsA;portrayal;acting;2.0
+IsA;reenactment;acting;2.0
+IsA;roleplaying;acting;2.0
+IsA;skit;acting;2.0
+PartOf;acting;performance;2.0
+RelatedTo;и.о;acting;2.0
+SimilarTo;acting;impermanent;2.0
+SimilarTo;impermanent;acting;2.0
+FormOf;acts;act;2.0
+Synonym;Acts;Acts of the Apostles;2.0
+Synonym;条例;acts;2.0
+Synonym;法令;acts;2.0
+RelatedTo;play;acts;1.4300000000000002
+FormOf;acts;act;1.0
+FormOf;acts;act;1.0
+FormOf;acts;act;1.0
+HasContext;acts;biblical;1.0
+IsA;One book of the Bible;Acts;1.0
+RelatedTo;acts;act;1.0
+RelatedTo;acts;act;1.0
+RelatedTo;crime;acts;1.0
+RelatedTo;ritornello;acts;1.0
+RelatedTo;hechos;acts;1.0
+RelatedTo;条例;acts;1.0
+RelatedTo;acta;acts;1.0
+RelatedTo;áhátʼíinii;acts;1.0
+Synonym;acts of apostles;acts;1.0
+ExternalURL;acts;acts;0.25
+DerivedFrom;actually;actual;2.0
+RelatedTo;realno;actually;2.0
+RelatedTo;zapravo;actually;2.0
+Synonym;actually;in reality;2.0
+Synonym;actually;really;2.0
+Synonym;actualmente;actually;2.0
+Synonym;itse asiassa;actually;2.0
+Synonym;nyt;actually;2.0
+Synonym;oikeastaan;actually;2.0
+Synonym;tällä hetkellä;actually;2.0
+Synonym;effectivement;actually;2.0
+Synonym;véritablement;actually;2.0
+Synonym;vraiment;actually;2.0
+Synonym;アクチャリ;actually;2.0
+Synonym;アクチュアリ;actually;2.0
+Synonym;事実上;actually;2.0
+Synonym;実に;actually;2.0
+Synonym;実は;actually;2.0
+Synonym;実際;actually;2.0
+Synonym;寔に;actually;2.0
+SimilarTo;adapted;modified;2.0
+SimilarTo;modified;adapted;2.0
+Synonym;altered;adapted;2.0
+Synonym;mukautettu;adapted;2.0
+Synonym;muutettu;adapted;2.0
+Synonym;sovitettu;adapted;2.0
+Synonym;adaptado;adapted;2.0
+DerivedFrom;coadapted;adapted;1.0
+DerivedFrom;nonadapted;adapted;1.0
+DerivedFrom;preadapted;adapted;1.0
+ExternalURL;adapted;301544805-s;1.0
+FormOf;adapted;adapt;1.0
+RelatedTo;استوى;adapted;1.0
+RelatedTo;přizpůsobený;adapted;1.0
+RelatedTo;angepasst;adapted;1.0
+RelatedTo;acclimated;adapted;1.0
+RelatedTo;adaptable;adapted;1.0
+RelatedTo;adaptation;adapted;1.0
+RelatedTo;adaptative;adapted;1.0
+RelatedTo;adapted;alteration;1.0
+FormOf;alans;alan;2.0
+Synonym;アラン;alan;2.0
+CapableOf;Alan;plant begonias;1.0
+DerivedFrom;al;alan;1.0
+EtymologicallyDerivedFrom;allan;alan;1.0
+EtymologicallyDerivedFrom;alan;alan;1.0
+ExternalURL;alan;Alan (given name);1.0
+ExternalURL;alan;Q294833;1.0
+FormOf;alani;alan;1.0
+HasContext;alan;historical;1.0
+IsA;Alan;a fireman;1.0
+RelatedTo;alaina;alan;1.0
+RelatedTo;alana;alan;1.0
+RelatedTo;alan;alain;1.0
+RelatedTo;alania;alan;1.0
+RelatedTo;alan;alania;1.0
+RelatedTo;alan;alanic;1.0
+RelatedTo;alan;eastern iranian;1.0
+RelatedTo;alan;nomadic;1.0
+RelatedTo;alan;ossetian;1.0
+Synonym;Albert;Albert Francis Charles Augustus Emmanuel;2.0
+DerivedFrom;albert chain;albert;1.0
+DerivedFrom;albert lea;albert;1.0
+DerivedFrom;albie;albert;1.0
+DerivedFrom;prince albert;albert;1.0
+EtymologicallyDerivedFrom;albert;æþelbeorht;1.0
+EtymologicallyDerivedFrom;ʻalapaki;albert;1.0
+EtymologicallyDerivedFrom;艾伯特;albert;1.0
+ExternalURL;albert;Albert (given name);1.0
+ExternalURL;albert;Q577011;1.0
+RelatedTo;albert;albert;1.0
+RelatedTo;albert;albert;1.0
+RelatedTo;albert;albert;1.0
+RelatedTo;alberta;albert;1.0
+RelatedTo;albert;masculin;1.0
+RelatedTo;albert;prénom;1.0
+RelatedTo;albertina;albert;1.0
+RelatedTo;albert;al;1.0
+RelatedTo;albert;alberta;1.0
+RelatedTo;albert;belize;1.0
+Synonym;Allen;Allen Stewart Konigsberg;2.0
+Synonym;Allen;Ethan Allen;2.0
+Synonym;Allen;Grace Ethel Cecile Rosalie Allen;2.0
+DerivedFrom;allen county;allen;1.0
+DerivedFrom;allenesque;allen;1.0
+DerivedFrom;allen key;allen;1.0
+DerivedFrom;allen parish;allen;1.0
+ExternalURL;allen;Allen (Prison Break);1.0
+ExternalURL;allen;Q291001;1.0
+RelatedTo;allan;allen;1.0
+RelatedTo;allen;alan;1.0
+RelatedTo;allen;prénom;1.0
+RelatedTo;allen;alan;1.0
+RelatedTo;allen;allen;1.0
+IsA;allen;television episode;0.5
+Synonym;ألين;allen;0.5
+Synonym;rozhodnutí 2;allen;0.5
+Synonym;allen;allen;0.5
+Synonym;allen;allen;0.5
+Synonym;allen;allen;0.5
+FormOf;amounts;amount;1.0
+FormOf;amounts;amount;1.0
+FormOf;amounts;amount;1.0
+RelatedTo;en masse;amounts;1.0
+RelatedTo;ανέρχεται σε;amounts;1.0
+RelatedTo;ανέρχομαι σε;amounts;1.0
+RelatedTo;amounts;amount;1.0
+RelatedTo;amounts;amount;1.0
+RelatedTo;light handed;amounts;1.0
+ExternalURL;amounts;amounts;0.25
+ExternalURL;amounts;amounts;0.25
+RelatedTo;embezzlement;amounts;0.17300000000000004
+AtLocation;apes;the forest;1.0
+CapableOf;Apes;climb on trees;1.0
+CapableOf;apes;remember a few things;1.0
+FormOf;apes;ape;1.0
+FormOf;apes;ape;1.0
+FormOf;apes;ape;1.0
+HasA;apes;feelings as well as humans;1.0
+IsA;Chimpanzees, orangutans, and gorillas;apes;1.0
+IsA;Gorillas;apes;1.0
+IsA;We;apes;1.0
+RelatedTo;apes;ape;1.0
+RelatedTo;apes;ape;1.0
+RelatedTo;estrous cycle;apes;1.0
+RelatedTo;primaat;apes;1.0
+ExternalURL;apes;apes;0.25
+ExternalURL;apes;apes;0.25
+RelatedTo;monkey;apes;0.1629999999999998
+RelatedTo;human;apes;0.13900000000000023
+IsA;agerasia;appearance;2.0
+IsA;apparition;appearance;2.0
+IsA;appearance;arrival;2.0
+IsA;appearance;attendance;2.0
+IsA;appearance;happening;2.0
+IsA;appearance;pretense;2.0
+IsA;appearance;quality;2.0
+IsA;appearance;representation;2.0
+IsA;beauty;appearance;2.0
+IsA;blemish;appearance;2.0
+IsA;color;appearance;2.0
+IsA;complexion;appearance;2.0
+IsA;countenance;appearance;2.0
+IsA;decorativeness;appearance;2.0
+IsA;disfigurement;appearance;2.0
+IsA;emergence;appearance;2.0
+IsA;etiolation;appearance;2.0
+IsA;face;appearance;2.0
+IsA;format;appearance;2.0
+IsA;form;appearance;2.0
+Causes;going somewhere;arriving;2.0
+HasSubevent;go somewhere;arriving;2.0
+FormOf;arriving;arrive;1.0
+FormOf;arriving;arrive;1.0
+RelatedTo;قادم;arriving;1.0
+RelatedTo;eintreffend;arriving;1.0
+RelatedTo;arrival;arriving;1.0
+RelatedTo;arriving;arrive;1.0
+RelatedTo;to;arriving;1.0
+RelatedTo;procedente;arriving;1.0
+RelatedTo;وارد;arriving;1.0
+RelatedTo;saapumisjärjestys;arriving;1.0
+RelatedTo;saapuva;arriving;1.0
+RelatedTo;arrivant;arriving;1.0
+RelatedTo;ժաման;arriving;1.0
+RelatedTo;沙汰;arriving;1.0
+RelatedTo;მომავალი;arriving;1.0
+RelatedTo;adveniens;arriving;1.0
+RelatedTo;deveniens;arriving;1.0
+RelatedTo;obiens;arriving;1.0
+FormOf;arthouse;art house;1.0
+FormOf;arthouses;arthouse;1.0
+ExternalURL;arthouse;arthouse;0.25
+RelatedTo;attempt;try;5.796550698475776
+UsedFor;a try;an attempt;2.82842712474619
+RelatedTo;try;attempt;2.2698017534577772
+IsA;attempt;activity;2.0
+IsA;batting;attempt;2.0
+IsA;best;attempt;2.0
+IsA;bid;attempt;2.0
+IsA;contribution;attempt;2.0
+IsA;crack;attempt;2.0
+IsA;essay;attempt;2.0
+IsA;foray;attempt;2.0
+IsA;liberation;attempt;2.0
+IsA;mug's game;attempt;2.0
+IsA;power play;attempt;2.0
+IsA;seeking;attempt;2.0
+IsA;shot;attempt;2.0
+IsA;striving;attempt;2.0
+IsA;struggle;attempt;2.0
+IsA;takeover attempt;attempt;2.0
+IsA;test;attempt;2.0
+HasProperty;Stealing;bad;4.0
+RelatedTo;trouble;bad;3.8817521816829066
+HasProperty;Cancer;bad;3.4641016151377544
+HasProperty;Killing;bad;3.4641016151377544
+HasProperty;Evil;bad;2.82842712474619
+HasProperty;Hurting other people;bad;2.82842712474619
+HasProperty;racism;bad;2.82842712474619
+RelatedTo;evil;bad;2.6502830037563916
+RelatedTo;punishment;bad;2.644239020966145
+RelatedTo;sin;bad;2.4470390270692457
+DistinctFrom;bad;good;2.2995651762887697
+RelatedTo;poison;bad;2.070748656887165
+Antonym;beautiful;bad;2.0
+Causes;obstructing justice;bad;2.0
+HasContext;bad;linguistics;2.0
+HasPrerequisite;be bad;steal;2.0
+HasProperty;Boredom;bad;2.0
+HasProperty;commiting genocide;bad;2.0
+HasProperty;Cruelty;bad;2.0
+HasProperty;the cry of a child;bad;2.0
+IsA;batman;attendant;2.0
+Synonym;batman;batman;2.0
+Synonym;گماشته;batman;2.0
+Synonym;sotilaspalvelija;batman;2.0
+Synonym;batman;batman;2.0
+Synonym;attendente;batman;2.0
+Synonym;バットマン;batman;2.0
+Synonym;当番兵;batman;2.0
+Synonym;当番兵;batman;2.0
+Synonym;従卒;batman;2.0
+Synonym;batman;batman;2.0
+Synonym;orang suruhan;batman;2.0
+RelatedTo;bat;batman;1.154
+AtLocation;Batman;Comic book;1.0
+AtLocation;Batman;Gotham;1.0
+CapableOf;Batman;fight crime;1.0
+DerivedFrom;bat;batman;1.0
+DerivedFrom;batman;bat;1.0
+DerivedFrom;man;batman;1.0
+EtymologicallyDerivedFrom;batman;bât;1.0
+FormOf;befriends;befriend;1.0
+RelatedTo;befriends;befriend;1.0
+ExternalURL;befriends;befriends;0.25
+ExternalURL;befriends;befriends;0.25
+RelatedTo;best;better;2.808558349046713
+RelatedTo;better;good;2.5534290669607405
+RelatedTo;better;best;2.4899799195977463
+RelatedTo;improvement;better;2.281227739617419
+Causes;better;better;2.0
+IsA;better;good;2.0
+IsA;better;superior;2.0
+MannerOf;advance;better;2.0
+MannerOf;beautify;better;2.0
+MannerOf;better;change state;2.0
+MannerOf;better;change;2.0
+MannerOf;better;surpass;2.0
+MannerOf;build up;better;2.0
+MannerOf;build;better;2.0
+MannerOf;condition;better;2.0
+MannerOf;educate;better;2.0
+MannerOf;emend;better;2.0
+MannerOf;enhance;better;2.0
+MannerOf;enrich;better;2.0
+MannerOf;fructify;better;2.0
+RelatedTo;mountain;big;5.743169856446874
+RelatedTo;bear;big;4.918942975884148
+RelatedTo;city;big;4.577335469462556
+RelatedTo;cathedral;big;4.527250821414692
+RelatedTo;river;big;4.4190496715922984
+RelatedTo;size;big;4.084605244084183
+RelatedTo;horse;big;4.037821194654365
+RelatedTo;tree;big;3.9698866482558417
+RelatedTo;large;big;3.956260860964555
+RelatedTo;crowd;big;3.764040382355109
+RelatedTo;squirrel;big;3.5059948659403375
+Synonym;gran;big a ;3.4641016151377544
+RelatedTo;ocean;big;3.0106477708293937
+DistinctFrom;little;big;2.9387071987525397
+RelatedTo;branch;big;2.6959228475607375
+RelatedTo;rabbit;big;2.5791471458604303
+RelatedTo;continent;big;2.563591231066294
+RelatedTo;big;large;2.460081299469593
+RelatedTo;clock;big;2.2405356502408083
+Antonym;little;big;2.0
+RelatedTo;oil;black;6.463126178560959
+RelatedTo;coal;black;5.405552700695832
+RelatedTo;black;color;4.326661530556787
+RelatedTo;record;black;4.1578840772681485
+RelatedTo;black;dark;3.9994999687460933
+HasProperty;ink;black;2.82842712474619
+HasProperty;Tires;black;2.82842712474619
+IsA;Black;a color;2.82842712474619
+RelatedTo;black;colour;2.627546383986399
+RelatedTo;dark;black;2.547155275989275
+RelatedTo;smoke;black;2.5003999680051194
+RelatedTo;tar;black;2.4592681838303037
+RelatedTo;crow;black;2.076535576386786
+RelatedTo;mole;black;2.0445048300260877
+DistinctFrom;black;white;2.015936506936665
+Antonym;black;white;2.0
+DefinedAs;Black;absence of color;2.0
+DerivedFrom;black;blackwood;2.0
+FormOf;blacks;black;2.0
+HasContext;black;checkers;2.0
+IsA;blame;reproach;2.0
+MannerOf;blame;charge;2.0
+MannerOf;blame;impute;2.0
+MannerOf;blame;knock;2.0
+RelatedTo;fault;blame;2.0
+RelatedTo;krivica;blame;2.0
+RelatedTo;kriviti;blame;2.0
+RelatedTo;okriviti;blame;2.0
+RelatedTo;predbaciti;blame;2.0
+Synonym;تَوْبِيخ;blame;2.0
+Synonym;لَوْم;blame;2.0
+Synonym;acusació;blame;2.0
+Synonym;culpa;blame;2.0
+Synonym;culpar;blame;2.0
+Synonym;faltar;blame;2.0
+Synonym;mancar;blame;2.0
+Synonym;bebrejde;blame;2.0
+Synonym;klandre;blame;2.0
+Synonym;kritisere;blame;2.0
+Synonym;blame;goddamned;2.0
+RelatedTo;bleakly;bleak;2.0
+RelatedTo;bleakness;bleak;2.0
+SimilarTo;bleak;hopeless;2.0
+SimilarTo;hopeless;bleak;2.0
+Synonym;desolador;bleak;2.0
+Synonym;negre;bleak;2.0
+Synonym;ombrívol;bleak;2.0
+Synonym;black;bleak;2.0
+Synonym;bleak;cutting;2.0
+Synonym;bleak;desolate;2.0
+Synonym;dim;bleak;2.0
+Synonym;disconsolate;bleak;2.0
+Synonym;negro;bleak;2.0
+Synonym;sombrío;bleak;2.0
+Synonym;ankea;bleak;2.0
+Synonym;lohduton;bleak;2.0
+Synonym;musta;bleak;2.0
+Synonym;pessimistinen;bleak;2.0
+Synonym;synkkä;bleak;2.0
+Synonym;toivoton;bleak;2.0
+RelatedTo;naslepo;blindly;2.0
+RelatedTo;naslijepo;blindly;2.0
+Synonym;ilman ennakkotietoa;blindly;2.0
+Synonym;katsomatta;blindly;2.0
+Synonym;näkemättä;blindly;2.0
+Synonym;sokkona;blindly;2.0
+Synonym;aveuglément;blindly;2.0
+Synonym;やみくもに;blindly;2.0
+Synonym;手さぐりで;blindly;2.0
+Synonym;盲目的に;blindly;2.0
+Synonym;闇雲;blindly;2.0
+Synonym;dengan membabi buta;blindly;2.0
+Synonym;secara membabi buta;blindly;2.0
+Synonym;secara membuta tuli;blindly;2.0
+Synonym;spt orang buta;blindly;2.0
+Synonym;às cegas;blindly;2.0
+Synonym;cegamente;blindly;2.0
+Synonym;โดยไม่คิด;blindly;2.0
+Synonym;อย่างตาบอด;blindly;2.0
+Synonym;瞎;blindly;2.0
+DerivedFrom;breeze block;block;2.0
+HasContext;block;computer science;2.0
+IsA;anvil;block;2.0
+IsA;bad block;block;2.0
+IsA;A block;a cube;2.0
+IsA;block;area;2.0
+IsA;block;artifact;2.0
+IsA;block;collection;2.0
+IsA;block;computer memory unit;2.0
+IsA;block;housing;2.0
+IsA;block;inability;2.0
+IsA;block;solid;2.0
+IsA;briquette;block;2.0
+IsA;cake;block;2.0
+IsA;cellblock;block;2.0
+IsA;chock;block;2.0
+IsA;chopping block;block;2.0
+IsA;crosshead;block;2.0
+IsA;cube;block;2.0
+IsA;domino;block;2.0
+RelatedTo;blow;wind;5.215361924162119
+RelatedTo;blow;air;3.82256458415028
+RelatedTo;blow;action;3.3591665633010823
+RelatedTo;blow;candles;2.7437201023428024
+RelatedTo;blow;mouth;2.716615541441225
+RelatedTo;blow;exhale;2.246775467197379
+Entails;trumpet;blow;2.0
+FormOf;blows;blow;2.0
+HasSubevent;spit;blow;2.0
+IsA;backhander;blow;2.0
+IsA;blow;exhalation;2.0
+IsA;blow;stroke;2.0
+IsA;box;blow;2.0
+IsA;clip;blow;2.0
+IsA;counterblow;blow;2.0
+IsA;hammer;blow;2.0
+IsA;insufflation;blow;2.0
+IsA;kick;blow;2.0
+IsA;knockdown;blow;2.0
+IsA;knock;blow;2.0
+RelatedTo;page;book;10.564658063562682
+RelatedTo;reading;book;8.380692095525285
+UsedFor;a book;learning;8.246211251235321
+RelatedTo;dictionary;book;8.069944237725561
+PartOf;a book;library;7.211102550927979
+CreatedBy;A book;a writer;6.928203230275509
+RelatedTo;book;pages;6.725473960993382
+AtLocation;a book;a classroom;6.32455532033676
+RelatedTo;book;reading;6.298253726232375
+RelatedTo;story;book;5.589275444992849
+AtLocation;a book;the shelf;5.291502622129181
+IsA;the bible;a book;5.291502622129181
+PartOf;A chapter;a book;5.291502622129181
+RelatedTo;library;book;5.0
+AtLocation;a book;a bookshelf;4.898979485566356
+RelatedTo;cover;book;4.75646927878232
+RelatedTo;paper;book;4.718474329695988
+HasA;a book;knowledge;4.47213595499958
+MadeOf;A book;Paper;4.47213595499958
+RelatedTo;read;book;4.104144246977681
+AtLocation;books;a shelf;10.198039027185569
+ReceivesAction;books;read;10.198039027185569
+AtLocation;words;books;8.94427190999916
+AtLocation;books;a desk;8.0
+RelatedTo;reading;books;6.847189204337791
+AtLocation;books;a backpack;5.656854249492381
+ReceivesAction;Books;written;4.898979485566356
+RelatedTo;page;books;4.810821135731405
+RelatedTo;library;books;4.802082881417188
+RelatedTo;literature;books;4.722711085806542
+RelatedTo;writing;books;4.331281565541543
+AtLocation;books;a table;4.0
+HasA;A library;books;4.0
+HasProperty;books;entertaining;4.0
+RelatedTo;paper;books;3.736843587842552
+RelatedTo;read;books;3.4779304190854656
+HasA;a bookcase;books;3.4641016151377544
+IsA;Dictionaries;books;3.4641016151377544
+RelatedTo;story;books;3.056141357987225
+RelatedTo;print;books;2.857271425678702
+MannerOf;bother;agitate;2.0
+MannerOf;bother;confuse;2.0
+MannerOf;bother;intrude;2.0
+RelatedTo;bothered;bother;2.0
+RelatedTo;bothersome;bother;2.0
+RelatedTo;father bother merger;bother;2.0
+RelatedTo;briga;bother;2.0
+RelatedTo;jebati;bother;2.0
+RelatedTo;kenjati;bother;2.0
+RelatedTo;mučiti;bother;2.0
+RelatedTo;muštrati;bother;2.0
+RelatedTo;smetati;bother;2.0
+RelatedTo;uznemiravati;bother;2.0
+RelatedTo;uznemiriti;bother;2.0
+Synonym;bother;annoyance;2.0
+Synonym;bother;fuss;2.0
+Synonym;bother;annoy;2.0
+Synonym;bother;trouble oneself;2.0
+Synonym;bother;trouble;2.0
+Synonym;nuisance;bother;2.0
+FormOf;briefed;brief;1.0
+RelatedTo;briefed;brief;1.0
+ExternalURL;briefed;briefed;0.25
+ExternalURL;briefed;briefed;0.25
+RelatedTo;lift;british;2.0337158110217857
+HasContext;babygro;british;2.0
+HasContext;bell end;british;2.0
+HasContext;dame;british;2.0
+HasContext;flick knife;british;2.0
+HasContext;guy;british;2.0
+HasContext;high street;british;2.0
+HasContext;jack tar;british;2.0
+HasContext;northern;british;2.0
+HasContext;piss artist;british;2.0
+HasContext;remainer;british;2.0
+HasContext;road;british;2.0
+HasContext;rosebud;british;2.0
+HasContext;sellotape;british;2.0
+HasContext;sickle cell anaemia;british;2.0
+IsA;The british;pansys;2.0
+Synonym;British;British people;2.0
+RelatedTo;colour;british;1.4020000000000001
+Antonym;continental;british;1.0
+DerivedFrom;british antarctic territory;british;1.0
+RelatedTo;brothers;brethren;2.82842712474619
+FormOf;brothers;brother;2.0
+RelatedTo;brothers;brotherhood;2.0
+RelatedTo;brothers;sisterhood;2.0
+RelatedTo;brothers;sistren;2.0
+RelatedTo;brothers;brother;2.0
+RelatedTo;braća;brothers;2.0
+Synonym;ブラザーズ;brothers;2.0
+Synonym;伯叔;brothers;2.0
+Synonym;兄弟;brothers;2.0
+Synonym;同胞;brothers;2.0
+Synonym;男兄弟;brothers;2.0
+ExternalURL;brothers;The Brothers (New Zealand);1.0
+ExternalURL;brothers;Q830112;1.0
+FormOf;brothers;brother;1.0
+RelatedTo;hermanos;brothers;1.0
+RelatedTo;bros;brothers;1.0
+RelatedTo;brotherly;brothers;1.0
+RelatedTo;brothers;sister;1.0
+RelatedTo;brothers;equal rights;1.0
+RelatedTo;donos;brought;2.0
+DerivedFrom;brought;t;1.0
+DerivedFrom;broughten;brought;1.0
+FormOf;brawt;brought;1.0
+FormOf;brought;bring;1.0
+FormOf;brought;bring;1.0
+RelatedTo;קפיסא;brought;1.0
+RelatedTo;קפיסתא;brought;1.0
+RelatedTo;gihatod;brought;1.0
+RelatedTo;twnc;brought;1.0
+RelatedTo;brachte;brought;1.0
+RelatedTo;eingebracht;brought;1.0
+RelatedTo;gebracht;brought;1.0
+RelatedTo;zusammengebracht;brought;1.0
+RelatedTo;jnw;brought;1.0
+RelatedTo;beached;brought;1.0
+RelatedTo;brang;brought;1.0
+RelatedTo;brought;bring;1.0
+RelatedTo;brung;brought;1.0
+RelatedTo;come down to earth;brought;1.0
+IsA;Burton;ale;2.0
+Synonym;burton;Burton;2.0
+Synonym;Burton;Richard Burton;2.0
+Synonym;Burton;Sir Richard Francis Burton;2.0
+Synonym;Burton;Burton;2.0
+Synonym;バートン;Burton;2.0
+Synonym;เหล้าเบอร์ตัน;Burton;2.0
+DerivedFrom;burtonesque;burton;1.0
+DerivedFrom;burton upon trent;burton;1.0
+DerivedFrom;go for burton;burton;1.0
+ExternalURL;burton;107905965-n;1.0
+FormOf;burton;aburton;1.0
+FormOf;burton;aburton;1.0
+FormOf;burtons;burton;1.0
+HasContext;burton;localités;1.0
+RelatedTo;barton;burton;1.0
+RelatedTo;burton;athwartships;1.0
+RelatedTo;burton;cargo;1.0
+RelatedTo;burton;city;1.0
+RelatedTo;burton;illinois;1.0
+Synonym;っちゅう;called;2.0
+Synonym;って言う;called;2.0
+Synonym;と言う;called;2.0
+RelatedTo;name;called;1.9380000000000002
+DerivedFrom;called;so called;1.0
+DerivedFrom;so called;called;1.0
+DerivedFrom;uncalled;called;1.0
+DerivedFrom;ycalled;called;1.0
+FormOf;called;call;1.0
+FormOf;called;call;1.0
+ReceivesAction;Dogs come when they;called;1.0
+RelatedTo;pigen;called;1.0
+RelatedTo;تسمى;called;1.0
+RelatedTo;holchifo;called;1.0
+RelatedTo;čili;called;1.0
+RelatedTo;řečený;called;1.0
+RelatedTo;slout;called;1.0
+RelatedTo;zvaný;called;1.0
+RelatedTo;aufgerufen;called;1.0
+RelatedTo;berufen;called;1.0
+DefinedAs;Calls;plural form o;1.0
+DefinedAs;calls;present first-person tense of call;1.0
+FormOf;calls;call;1.0
+FormOf;calls;call;1.0
+FormOf;calls;call;1.0
+FormOf;calls;call;1.0
+RelatedTo;هاتف;calls;1.0
+RelatedTo;call and response;calls;1.0
+RelatedTo;calls;call;1.0
+RelatedTo;calls;call;1.0
+RelatedTo;strap strategy;calls;1.0
+RelatedTo;ყვირილი;calls;1.0
+RelatedTo;oukapai;calls;1.0
+RelatedTo;phone;calls;0.2610000000000001
+ExternalURL;calls;calls;0.25
+ExternalURL;calls;calls;0.25
+RelatedTo;dear;calls;0.13900000000000023
+Synonym;Campbell;Joseph Campbell;2.0
+DerivedFrom;campbell county;campbell;1.0
+DerivedFrom;campbellian;campbell;1.0
+DerivedFrom;campbellism;campbell;1.0
+DerivedFrom;campbellite;campbell;1.0
+EtymologicallyDerivedFrom;campbell;caimbeul;1.0
+RelatedTo;campbell;cam beul;1.0
+RelatedTo;mac arthur;campbell;1.0
+Synonym;坎貝爾;campbell;1.0
+Synonym;坎贝尔;campbell;1.0
+Synonym;金宝;campbell;1.0
+Synonym;金寶;campbell;1.0
+ExternalURL;campbell;Campbell;0.25
+Antonym;capable;incapable;2.0
+Antonym;incapable;capable;2.0
+RelatedTo;capability;capable;2.0
+RelatedTo;capable;ability;2.0
+RelatedTo;capable;able;2.0
+RelatedTo;capable;capacity;2.0
+RelatedTo;capable;competent;2.0
+RelatedTo;competent;capable;2.0
+RelatedTo;sposoban;capable;2.0
+SimilarTo;able;capable;2.0
+SimilarTo;capable;able;2.0
+SimilarTo;capable;competent;2.0
+SimilarTo;capable;resourceful;2.0
+SimilarTo;capable;surefooted;2.0
+SimilarTo;capable;susceptible;2.0
+SimilarTo;competent;capable;2.0
+SimilarTo;resourceful;capable;2.0
+SimilarTo;surefooted;capable;2.0
+SimilarTo;susceptible;capable;2.0
+Synonym;قَادِر;capable;2.0
+FormOf;captures;capture;1.0
+FormOf;captures;capture;1.0
+RelatedTo;captures;capture;1.0
+RelatedTo;captures;capture;1.0
+ExternalURL;captures;captures;0.25
+ExternalURL;captures;captures;0.25
+RelatedTo;drive;car;10.47186707325871
+AtLocation;a car;the city;7.483314773547882
+AtLocation;a car;a parking lot;6.928203230275509
+RelatedTo;car;vehicle;6.573887738621643
+CapableOf;a car;crash;6.32455532033676
+CapableOf;A car;go fast;6.32455532033676
+HasA;a car;seats;6.32455532033676
+AtLocation;a car;the repair shop;5.656854249492381
+CapableOf;A car;roll over;5.291502622129181
+RelatedTo;motor;car;5.165268628057983
+RelatedTo;car;automobile;4.925038070918843
+CapableOf;a car;slow down;4.898979485566356
+AtLocation;a car;the road;4.47213595499958
+IsA;A volvo;car;4.47213595499958
+PartOf;A tire;a car;4.47213595499958
+AtLocation;car;a freeway;4.0
+AtLocation;stereo;a car;4.0
+AtLocation;car;a car show;3.4641016151377544
+AtLocation;a car;a race track;3.4641016151377544
+CapableOf;a car;cost a lot of money;3.4641016151377544
+Desires;A rabbit;a carrot;2.0
+IsA;carrot;herb;2.0
+IsA;carrot;reward;2.0
+IsA;carrot;root vegetable;2.0
+PartOf;carrot;carrot;2.0
+RelatedTo;mrkva;carrot;2.0
+RelatedTo;šargarepa;carrot;2.0
+Synonym;pastanaga;carrot;2.0
+Synonym;gulerod;carrot;2.0
+Synonym;carrot;mrkva;2.0
+Synonym;carrot;šargarepa;2.0
+Synonym;cultivated carrot;carrot;2.0
+Synonym;Daucus carota sativa;carrot;2.0
+Synonym;daucus carota;carrot;2.0
+Synonym;zanahoria;carrot;2.0
+Synonym;azenario;carrot;2.0
+Synonym;mandaperrexil;carrot;2.0
+Synonym;pastana;carrot;2.0
+Synonym;Daucus carota sativa;carrot;2.0
+Synonym;houkutin;carrot;2.0
+IsA;carving;creating by removal;2.0
+IsA;carving;sculpture;2.0
+IsA;cinquefoil;carving;2.0
+IsA;glyptic art;carving;2.0
+IsA;petroglyph;carving;2.0
+IsA;scrimshaw;carving;2.0
+IsA;truncation;carving;2.0
+IsA;vermiculation;carving;2.0
+RelatedTo;drvorez;carving;2.0
+RelatedTo;rezbarija;carving;2.0
+RelatedTo;rezbarski;carving;2.0
+Synonym;قَطْع;carving;2.0
+Synonym;مَنْحُوت;carving;2.0
+Synonym;نَقْش;carving;2.0
+Synonym;carving;sculpture;2.0
+Synonym;cutting;carving;2.0
+Synonym;talla;carving;2.0
+Synonym;eskultura;carving;2.0
+Synonym;tailu;carving;2.0
+Synonym;zizelaketa;carving;2.0
+RelatedTo;case;brief;4.291852746774987
+RelatedTo;case;container;4.241697773297857
+RelatedTo;case;box;3.595552808679077
+Synonym;صَنْدُوق;case;3.4641016151377544
+AtLocation;an eyeglasses;their case;2.82842712474619
+RelatedTo;case;luggage;2.710719461692781
+RelatedTo;case;suit;2.673574386472162
+RelatedTo;case;holder;2.4074883177286655
+RelatedTo;case;carrying;2.253885533916929
+RelatedTo;capital;case;2.068816086557721
+AtLocation;a case;a trunk;2.0
+AtLocation;an instrument;a case;2.0
+IsA;baggage;case;2.0
+IsA;briefcase;case;2.0
+IsA;cardcase;case;2.0
+IsA;case;argument;2.0
+IsA;case;bed linen;2.0
+IsA;case;containerful;2.0
+IsA;case;container;2.0
+IsA;case;fact;2.0
+PartOf;Casper;Wyoming;2.0
+Synonym;Casper;Casper;2.0
+Synonym;Casper;Casper;2.0
+Synonym;Casper;Casper;2.0
+Synonym;เมืองแคสเปอร์;Casper;2.0
+ExternalURL;casper;Casper (Maya ruler);1.0
+ExternalURL;casper;Casper (rapper);1.0
+ExternalURL;casper;Q324686;1.0
+ExternalURL;casper;Q448453;1.0
+ExternalURL;casper;109182339-n;1.0
+HasContext;casper;offensive;1.0
+HasContext;casper;slang;1.0
+IsA;Casper;a friendly ghost;1.0
+IsA;Casper;a ghost;1.0
+RelatedTo;casper;caspar;1.0
+RelatedTo;casper;wyoming;1.0
+dbpedia/genre;casper;alternative rock;0.5
+dbpedia/genre;casper;hardcore punk;0.5
+dbpedia/genre;casper;indie rock;0.5
+dbpedia/genre;casper;metalcore;0.5
+IsA;bait casting;casting;2.0
+IsA;casting;choice;2.0
+IsA;casting;fishing;2.0
+IsA;fly casting;casting;2.0
+IsA;overcast;casting;2.0
+IsA;surf casting;casting;2.0
+RelatedTo;bacanje;casting;2.0
+Synonym;càsting;casting;2.0
+Synonym;llançament;casting;2.0
+Synonym;casting;cast;2.0
+Synonym;casting;molding;2.0
+Synonym;cast;casting;2.0
+Synonym;casting;casting;2.0
+Synonym;jaurtiketa;casting;2.0
+Synonym;roolitus;casting;2.0
+Synonym;siiman heittäminen;casting;2.0
+Synonym;siiman heitto;casting;2.0
+Synonym;moulage;casting;2.0
+Synonym;casting;casting;2.0
+Synonym;キャスチング;casting;2.0
+DerivedFrom;certainly;certain;2.0
+RelatedTo;certainly;certain;2.0
+RelatedTo;certainly;certainty;2.0
+RelatedTo;dakako;certainly;2.0
+RelatedTo;izvesno;certainly;2.0
+RelatedTo;izvjesno;certainly;2.0
+RelatedTo;jamačno;certainly;2.0
+RelatedTo;sigurno;certainly;2.0
+RelatedTo;svakako;certainly;2.0
+RelatedTo;zacelo;certainly;2.0
+RelatedTo;zacijelo;certainly;2.0
+RelatedTo;ziher;certainly;2.0
+Synonym;certainly;for certain;2.0
+Synonym;verily;certainly;2.0
+Synonym;とも;certainly;2.0
+Synonym;そのまさかだ;certainly;2.0
+Synonym;よもや;certainly;2.0
+Synonym;てっきり;certainly;2.0
+Synonym;もちのろん;certainly;2.0
+Synonym;もしかしなくても;certainly;2.0
+FormOf;childs;child;1.0
+HasA;Childs;parents;1.0
+HasContext;childs;nonstandard;1.0
+RelatedTo;childs;child;1.0
+Synonym;childs;children;1.0
+ExternalURL;childs;childs;0.25
+ExternalURL;childs;childs;0.25
+FormOf;chooses;choose;1.0
+FormOf;chooses;choose;1.0
+RelatedTo;chooses;choose;1.0
+RelatedTo;atukutapai;chooses;1.0
+ExternalURL;chooses;chooses;0.25
+ExternalURL;chooses;chooses;0.25
+Synonym;cinematographer;cameraman;2.0
+Synonym;カメラマン;cinematographer;2.0
+DerivedFrom;cinematographer;cinematography;1.0
+ExternalURL;cinematographer;Cinematographer;1.0
+ExternalURL;cinematographer;CameraOperator;1.0
+ExternalURL;cinematographer;Q222344;1.0
+ExternalURL;cinematographer;CameraOperator;1.0
+FormOf;cinematographers;cinematographer;1.0
+HasContext;cinematographer;cinematography;1.0
+HasProperty;A cinematographer;responsible for motion-picture photography;1.0
+IsA;A cinematographer;a person;1.0
+IsA;cinematographer;media technician;1.0
+RelatedTo;filmfotograf;cinematographer;1.0
+RelatedTo;cinemaphotographer;cinematographer;1.0
+RelatedTo;cinematographer;motion picture;1.0
+RelatedTo;cinematographer;movie camera;1.0
+RelatedTo;cinematographer;photographer;1.0
+RelatedTo;cinematographer;projectionist;1.0
+RelatedTo;cinematographers;cinematographer;1.0
+RelatedTo;cinematographist;cinematographer;1.0
+FormOf;cloakings;cloaking;1.0
+FormOf;cloaking;cloak;1.0
+RelatedTo;cloaking;cloak;1.0
+RelatedTo;ծպտյալ;cloaking;1.0
+RelatedTo;ammantatura;cloaking;1.0
+RelatedTo;えんぺい;cloaking;1.0
+RelatedTo;掩蔽;cloaking;1.0
+RelatedTo;obumbrans;cloaking;1.0
+ExternalURL;cloaking;cloaking;0.25
+ExternalURL;cloaking;cloaking;0.25
+RelatedTo;blue;color;12.297316780501347
+RelatedTo;paint;color;8.93420393767682
+RelatedTo;color;red;7.447415659139754
+IsA;Blue;a color;6.928203230275509
+RelatedTo;color;blue;6.925315877272315
+IsA;Green;a color;6.32455532033676
+RelatedTo;green;color;6.270247204058226
+RelatedTo;color;green;6.0659706560450815
+IsA;Orange;a color;6.0
+RelatedTo;color;rainbow;5.543284225078126
+RelatedTo;color;hue;5.425126726630448
+RelatedTo;red;color;5.3814496188294845
+IsA;Pink;a color;5.291502622129181
+RelatedTo;color;yellow;5.149757275833494
+IsA;Yellow;a color;4.898979485566356
+IsA;Brown;a color;4.47213595499958
+IsA;"""Red""";a color;4.47213595499958
+RelatedTo;black;color;4.326661530556787
+IsA;Purple;a color;4.0
+RelatedTo;color;orange;3.8105117766515306
+FormOf;coltranes;coltrane;1.0
+HasContext;comic;drama;2.0
+RelatedTo;comedy;comic;2.0
+RelatedTo;komičan;comic;2.0
+RelatedTo;strip;comic;2.0
+Synonym;comedic;comic;2.0
+Synonym;comic;comedic;2.0
+Synonym;comic;laughable;2.0
+Synonym;comical;comic;2.0
+Synonym;comic;comedian;2.0
+Synonym;koominen;comic;2.0
+Synonym;bande dessinée;comic;2.0
+Synonym;buffo;comic;2.0
+Synonym;comico;comic;2.0
+Synonym;fumettistico;comic;2.0
+Synonym;御笑い;comic;2.0
+Synonym;漫画;comic;2.0
+Synonym;お笑い;comic;2.0
+Synonym;お笑い芸人;comic;2.0
+Synonym;komedi;comic;2.0
+RelatedTo;marvel;comic;1.2560000000000002
+Synonym;コンメンタール;comments;2.0
+Synonym;言い種;comments;2.0
+Synonym;言種;comments;2.0
+Synonym;言い草;comments;2.0
+Synonym;言草;comments;2.0
+FormOf;comments;comment;1.0
+FormOf;comments;comment;1.0
+FormOf;comments;comment;1.0
+RelatedTo;hilabot;comments;1.0
+RelatedTo;tudlo;comments;1.0
+RelatedTo;commentate;comments;1.0
+RelatedTo;comments;comment;1.0
+RelatedTo;comments;comment;1.0
+RelatedTo;lurk;comments;1.0
+RelatedTo;seagull approach;comments;1.0
+RelatedTo;暴言;comments;1.0
+RelatedTo;отклик;comments;1.0
+ExternalURL;comments;comments;0.25
+ExternalURL;comments;comments;0.25
+ExternalURL;committing;CommittingSomeoneToAnInstitution;1.0
+FormOf;committing;commit;1.0
+IsA;committing;transfer;1.0
+IsA;hospitalizing;committing;1.0
+RelatedTo;عهد;committing;1.0
+RelatedTo;committing;commit;1.0
+RelatedTo;half murder;committing;1.0
+RelatedTo;kick tires;committing;1.0
+RelatedTo;adulterans;committing;1.0
+RelatedTo;committens;committing;1.0
+RelatedTo;credens;committing;1.0
+RelatedTo;mandans;committing;1.0
+RelatedTo;dénum;committing;1.0
+RelatedTo;死罪;committing;1.0
+ExternalURL;committing;committing;0.25
+ExternalURL;committing;committing;0.25
+IsA;analogy;comparison;2.0
+IsA;collation;comparison;2.0
+IsA;comparison;examination;2.0
+IsA;comparison;likeness;2.0
+IsA;comparison;relation;2.0
+IsA;confrontation;comparison;2.0
+IsA;contrast;comparison;2.0
+IsA;imaginative comparison;comparison;2.0
+IsA;likening;comparison;2.0
+RelatedTo;comparative;comparison;2.0
+RelatedTo;incomparable;comparison;2.0
+RelatedTo;komparacija;comparison;2.0
+RelatedTo;poredba;comparison;2.0
+RelatedTo;poređenje;comparison;2.0
+RelatedTo;prema;comparison;2.0
+RelatedTo;usporedba;comparison;2.0
+Synonym;مُقَارَنَة;comparison;2.0
+Synonym;acarament;comparison;2.0
+Synonym;comparació;comparison;2.0
+Synonym;comparança;comparison;2.0
+IsA;an island;completely;2.0
+RelatedTo;lapalissian;completely;2.0
+RelatedTo;ametice;completely;2.0
+RelatedTo;do jaja;completely;2.0
+RelatedTo;hametice;completely;2.0
+RelatedTo;kompletno;completely;2.0
+RelatedTo;listom;completely;2.0
+RelatedTo;posvema;completely;2.0
+RelatedTo;posve;completely;2.0
+RelatedTo;potpuno;completely;2.0
+RelatedTo;sasma;completely;2.0
+RelatedTo;sasvim;completely;2.0
+RelatedTo;sav;completely;2.0
+RelatedTo;skroz;completely;2.0
+RelatedTo;totalno;completely;2.0
+Synonym;completely;altogether;2.0
+Synonym;wholly;completely;2.0
+Synonym;täysin;completely;2.0
+Synonym;complètement;completely;2.0
+Synonym;directement;completely;2.0
+MannerOf;consist;be;2.0
+MannerOf;consist;match;2.0
+RelatedTo;sadržati;consist;2.0
+RelatedTo;sadržavati;consist;2.0
+RelatedTo;sastojati;consist;2.0
+Synonym;consistir en;consist;2.0
+Synonym;constar de;consist;2.0
+Synonym;comprise;consist;2.0
+Synonym;consist;dwell;2.0
+Synonym;consist;bestå av;2.0
+Synonym;constar;consist;2.0
+Synonym;شامل بودن;consist;2.0
+Synonym;käsittää;consist;2.0
+Synonym;koostua;consist;2.0
+Synonym;olla sopusoinnussa;consist;2.0
+Synonym;comporter;consist;2.0
+Synonym;composer;consist;2.0
+Synonym;comprendre;consist;2.0
+Synonym;consister;consist;2.0
+Synonym;contenir;consist;2.0
+RelatedTo;content;happy;2.55499510762741
+DerivedFrom;contentment;content;2.0
+HasProperty;Very few people;content;2.0
+IsA;acculturation;content;2.0
+IsA;belief;content;2.0
+IsA;content;cognition;2.0
+IsA;content;collection;2.0
+IsA;content;proportion;2.0
+IsA;education;content;2.0
+IsA;experience;content;2.0
+IsA;food;content;2.0
+IsA;goal;content;2.0
+IsA;heresy;content;2.0
+IsA;idea;content;2.0
+IsA;ignorance;content;2.0
+IsA;issue;content;2.0
+IsA;kenosis;content;2.0
+IsA;kernel;content;2.0
+IsA;knowledge domain;content;2.0
+IsA;lore;content;2.0
+Synonym;abundant;copious;2.0
+Synonym;copious;plenteous;2.0
+Synonym;copious;voluminous;2.0
+Synonym;万斛;copious;2.0
+Synonym;混 々;copious;2.0
+Synonym;混混;copious;2.0
+Synonym;渾 々;copious;2.0
+Synonym;渾渾;copious;2.0
+Synonym;滾 々;copious;2.0
+Synonym;滾滾;copious;2.0
+DerivedFrom;copious free time;copious;1.0
+DerivedFrom;copiously;copious;1.0
+DerivedFrom;copiously;copious;1.0
+DerivedFrom;copiousness;copious;1.0
+DerivedFrom;copiousness;copious;1.0
+RelatedTo;دثر;copious;1.0
+RelatedTo;در;copious;1.0
+RelatedTo;صالح;copious;1.0
+RelatedTo;ausgiebig;copious;1.0
+RelatedTo;abundance;copious;1.0
+IsA;copper;a good conductor of electricity;5.291502622129181
+Synonym;Cu;copper;4.47213595499958
+RelatedTo;metal;copper;4.312771730569565
+IsA;Copper;metal;4.0
+Synonym;Cobre;copper;3.4641016151377544
+IsA;Copper;an element;2.82842712474619
+IsA;Copper;a good electrical conductor;2.82842712474619
+RelatedTo;cent;copper;2.327230113246217
+FormOf;coppers;copper;2.0
+IsA;American copper;copper;2.0
+IsA;blister copper;copper;2.0
+IsA;copper;conductor;2.0
+IsA;copper;lycaenid;2.0
+IsA;copper;metallic element;2.0
+IsA;copper;penny;2.0
+IsA;copper;reddish brown;2.0
+MannerOf;copper;coat;2.0
+RelatedTo;vask;copper;2.0
+RelatedTo;bakar;copper;2.0
+RelatedTo;bakren;copper;2.0
+RelatedTo;course;golf;6.254918065010923
+RelatedTo;course;class;4.518406798861741
+RelatedTo;course;path;2.836899716239543
+RelatedTo;course;college;2.812827758679866
+RelatedTo;course;place;2.4454038521274963
+RelatedTo;course;field;2.1456933611306166
+HasContext;course;game;2.0
+IsA;adult education;course;2.0
+IsA;art class;course;2.0
+IsA;blind alley;course;2.0
+IsA;childbirth-preparation class;course;2.0
+IsA;collision course;course;2.0
+IsA;correspondence course;course;2.0
+IsA;course;action;2.0
+IsA;course;direction;2.0
+IsA;course;education;2.0
+IsA;course;facility;2.0
+IsA;course;layer;2.0
+IsA;course;nutriment;2.0
+IsA;course;series;2.0
+CapableOf;Crack;get you high;2.0
+Causes;crack;crack;2.0
+HasContext;crack;chemistry;2.0
+IsA;chap;crack;2.0
+IsA;chink;crack;2.0
+IsA;Crack;Cocaine;2.0
+IsA;crack;attempt;2.0
+IsA;crack;blemish;2.0
+IsA;crack;cocaine;2.0
+IsA;crack;noise;2.0
+IsA;crack;opening;2.0
+IsA;craze;crack;2.0
+IsA;crevasse;crack;2.0
+IsA;fatigue crack;crack;2.0
+IsA;fault;crack;2.0
+IsA;rift;crack;2.0
+IsA;slit;crack;2.0
+IsA;split;crack;2.0
+IsA;vent;crack;2.0
+MannerOf;alligator;crack;2.0
+Antonym;sane;crazy;2.0
+CapableOf;humans;be crazy;2.0
+IsA;crazy;lunatic;2.0
+MotivatedByGoal;bungee jump from a high bridge;you are crazy;2.0
+RelatedTo;ćaknut;crazy;2.0
+RelatedTo;luckast;crazy;2.0
+RelatedTo;lud;crazy;2.0
+RelatedTo;ludo;crazy;2.0
+RelatedTo;sulud;crazy;2.0
+RelatedTo;sumanut;crazy;2.0
+SimilarTo;crazy;excited;2.0
+SimilarTo;crazy;strange;2.0
+SimilarTo;excited;crazy;2.0
+SimilarTo;strange;crazy;2.0
+Synonym;boig;crazy;2.0
+Synonym;guillat;crazy;2.0
+Synonym;sonat;crazy;2.0
+Synonym;tipus estrany;crazy;2.0
+Synonym;tocat de l'ala;crazy;2.0
+Synonym;tocat del bolet;crazy;2.0
+RelatedTo;novonastali;created;2.0
+DerivedFrom;forecreated;created;1.0
+DerivedFrom;jointly created;created;1.0
+FormOf;created;create;1.0
+FormOf;created;create;1.0
+HasA;God has compassion on all he;created;1.0
+HasSubevent;something is created;it s new;1.0
+ReceivesAction;Energy is consumed when light;created;1.0
+ReceivesAction;life;created;1.0
+RelatedTo;تكون;created;1.0
+RelatedTo;تولد;created;1.0
+RelatedTo;erstellt;created;1.0
+RelatedTo;αδημιούργητοσ;created;1.0
+RelatedTo;γίνομαι;created;1.0
+RelatedTo;νεόπλαστοσ;created;1.0
+RelatedTo;aborn;created;1.0
+RelatedTo;application specific;created;1.0
+RelatedTo;contemporaneous;created;1.0
+RelatedTo;create;created;1.0
+RelatedTo;created;create;1.0
+SimilarTo;alarming;creepy;2.0
+SimilarTo;creepy;alarming;2.0
+SimilarTo;creepy;offensive;2.0
+SimilarTo;offensive;creepy;2.0
+Synonym;esgarrifós;creepy;2.0
+Synonym;espantós;creepy;2.0
+Synonym;creepy-crawly;creepy;2.0
+Synonym;وحشت زده;creepy;2.0
+Synonym;hiuksianostattava;creepy;2.0
+Synonym;kammottava;creepy;2.0
+Synonym;angoissant;creepy;2.0
+Synonym;raccapricciante;creepy;2.0
+Synonym;六借しい;creepy;2.0
+Synonym;六 ヶ 敷い;creepy;2.0
+Synonym;いけ好かない;creepy;2.0
+Synonym;感じ悪い;creepy;2.0
+Synonym;気味わるい;creepy;2.0
+Synonym;気味悪い;creepy;2.0
+Synonym;気味が悪い;creepy;2.0
+Synonym;むず痒い;creepy;2.0
+IsA;a murder;a crime;8.0
+CausesDesire;a crime;conduct a trial;4.898979485566356
+IsA;Theft;a crime;4.898979485566356
+RelatedTo;punishment;crime;4.442971978304612
+RelatedTo;robbery;crime;4.033360881448622
+CausesDesire;crime;serve justice;4.0
+CausesDesire;a crime;pass sentence;2.82842712474619
+IsA;genocide;crime;2.82842712474619
+RelatedTo;fraud;crime;2.276839915321233
+CapableOf;A crime;result in punishment;2.0
+HasContext;blackmail;crime;2.0
+HasContext;black marketeer;crime;2.0
+HasContext;bootleg;crime;2.0
+HasContext;bribe;crime;2.0
+HasContext;buy off;crime;2.0
+HasContext;carjack;crime;2.0
+HasContext;commandeer;crime;2.0
+HasContext;crib;crime;2.0
+HasContext;crime;criminal law;2.0
+HasContext;extort;crime;2.0
+ReceivesAction;Crimes;committed by someone;2.0
+FormOf;crimes;crime;1.0
+FormOf;crimes;crime;1.0
+HasProperty;Some crimes;punishable by death;1.0
+IsA;crimes;commited by malfunctioning people;1.0
+ReceivesAction;Crimes;punished with a penalty;1.0
+RelatedTo;crimes;crime;1.0
+RelatedTo;gray hat;crimes;1.0
+RelatedTo;punishment;crimes;0.8040000000000003
+ExternalURL;crimes;crimes;0.25
+ExternalURL;crimes;crimes;0.25
+FormOf;cringed;cringe;1.0
+ExternalURL;cringed;cringed;0.25
+RelatedTo;crowd;people;13.576302884069728
+RelatedTo;crowd;group;9.897272351511804
+RelatedTo;crowd;gathering;7.942543673156603
+RelatedTo;crowd;many people;6.84163723095576
+RelatedTo;crowd;mob;6.446704584514478
+RelatedTo;crowd;large;5.9319474036778175
+RelatedTo;crowd;lots;4.64327470649756
+RelatedTo;crowd;audience;3.9577771539084914
+RelatedTo;crowd;mass;3.952720582080145
+RelatedTo;crowd;lots people;3.9023070099621835
+RelatedTo;crowd;large group;3.8631593288395445
+RelatedTo;crowd;big;3.764040382355109
+RelatedTo;crowd;group people;3.56202189774291
+RelatedTo;crowd;throng;3.2875522809531104
+RelatedTo;crowd;people group;3.1093407661432035
+RelatedTo;crowd;bunch;2.939387691339814
+RelatedTo;crowd;three;2.808558349046713
+RelatedTo;crowd;concert;2.793564031841762
+RelatedTo;crowd;large gathering;2.680298490840153
+RelatedTo;crowd;lot;2.655560204551951
+FormOf;dalmatians;dalmatian;2.0
+RelatedTo;dalmatians;dalmatian;2.0
+ExternalURL;dalmatians;dalmatians;0.25
+ExternalURL;dalmatians;Dalmatians;0.25
+ExternalURL;dalmatians;dalmatians;0.25
+ExternalURL;dalmatians;Dalmatians;0.25
+RelatedTo;shade;dark;5.462966227243218
+RelatedTo;black;dark;3.9994999687460933
+RelatedTo;night;dark;3.7810051573622587
+HasProperty;The sky;dark;2.82842712474619
+DistinctFrom;dark;light;2.7509998182479043
+RelatedTo;evening;dark;2.699629604223513
+RelatedTo;dark;night;2.596150997149433
+RelatedTo;dark;black;2.547155275989275
+DerivedFrom;dark room;dark;2.0
+FormOf;darks;dark;2.0
+HasProperty;Some hallways;dark;2.0
+HasProperty;Shadows;dark;2.0
+HasProperty;The stairway;dark;2.0
+IsA;blackout;dark;2.0
+IsA;dark;illumination;2.0
+IsA;dark;unenlightenment;2.0
+IsA;night;dark;2.0
+IsA;semidarkness;dark;2.0
+IsA;total darkness;dark;2.0
+MotivatedByGoal;turn on a light;it is dark;2.0
+RelatedTo;week;days;5.424758059121162
+RelatedTo;month;days;5.265738314804487
+RelatedTo;year;days;3.235428874198906
+IsA;days;life;2.0
+RelatedTo;days;day;2.0
+Synonym;years;days;2.0
+Synonym;egun;days;2.0
+Synonym;urte;days;2.0
+Synonym;elinaika;days;2.0
+Synonym;anno;days;2.0
+Synonym;giorno;days;2.0
+Synonym;年月;days;2.0
+Synonym;日 々;days;2.0
+Synonym;日;days;2.0
+Synonym;日子;days;2.0
+Synonym;日日;days;2.0
+Synonym;日月;days;2.0
+Synonym;日間;days;2.0
+Synonym;月日;days;2.0
+Synonym;比;days;2.0
+RelatedTo;spretno;deftly;2.0
+RelatedTo;vešto;deftly;2.0
+RelatedTo;vješto;deftly;2.0
+Synonym;deftly;dexterously;2.0
+Synonym;näppärästi;deftly;2.0
+Synonym;adroitement;deftly;2.0
+Synonym;délicatement;deftly;2.0
+Synonym;finement;deftly;2.0
+Antonym;deftly;unskillfully;1.0
+ExternalURL;deftly;400300313-r;1.0
+RelatedTo;gewandt;deftly;1.0
+RelatedTo;adroitly;deftly;1.0
+RelatedTo;artful dodger;deftly;1.0
+RelatedTo;deftly;deft;1.0
+RelatedTo;deftly;neat;1.0
+RelatedTo;deftly;quick;1.0
+RelatedTo;deftly;habilement;1.0
+RelatedTo;ügyesen;deftly;1.0
+RelatedTo;abilmente;deftly;1.0
+RelatedTo;მარჯვედ;deftly;1.0
+Synonym;デミング;deming;2.0
+FormOf;demings;deming;1.0
+FormOf;depps;depp;1.0
+RelatedTo;design;plan;3.871433842906269
+RelatedTo;design;art;3.7024316333998657
+RelatedTo;design;create;3.0809089567853185
+RelatedTo;design;interior;2.3030414672775645
+RelatedTo;design;pattern;2.1456933611306166
+RelatedTo;design;graphic;2.05621010599598
+CapableOf;engineers;design;2.0
+HasContext;design by contract;design;2.0
+IsA;argyle;design;2.0
+IsA;bear claw;design;2.0
+IsA;configuration;design;2.0
+IsA;damascene;design;2.0
+IsA;decal;design;2.0
+IsA;design;arrangement;2.0
+IsA;design;creating by mental acts;2.0
+IsA;design;decoration;2.0
+IsA;design;sketch;2.0
+IsA;device;design;2.0
+IsA;emblem;design;2.0
+IsA;herringbone pattern;design;2.0
+Synonym;なすった;did;2.0
+DerivedFrom;did;direct inward dialing;1.0
+FormOf;did;do;1.0
+FormOf;did;do;1.0
+FormOf;d;did;1.0
+RelatedTo;ain’t;did;1.0
+RelatedTo;didna;did;1.0
+RelatedTo;didnae;did;1.0
+RelatedTo;didn't;did;1.0
+RelatedTo;didn’t;did;1.0
+RelatedTo;didny;did;1.0
+RelatedTo;did;do;1.0
+RelatedTo;d'y all;did;1.0
+RelatedTo;d'ye;did;1.0
+RelatedTo;d'you;did;1.0
+RelatedTo;how'd;did;1.0
+RelatedTo;jeet;did;1.0
+RelatedTo;dude;did;1.0
+RelatedTo;what'd;did;1.0
+RelatedTo;when'd;did;1.0
+Antonym;direct;indirect;2.0
+Antonym;indirect;direct;2.0
+Causes;direct;act;2.0
+HasContext;direct;astronomy;2.0
+HasContext;direct;electricity;2.0
+HasContext;direct;mathematics;2.0
+HasContext;direct;performing arts;2.0
+MannerOf;administer;direct;2.0
+MannerOf;direct;instruct;2.0
+MannerOf;direct;make;2.0
+MannerOf;direct;manage;2.0
+MannerOf;direct;order;2.0
+MannerOf;guide;direct;2.0
+MannerOf;head;direct;2.0
+MannerOf;hold;direct;2.0
+MannerOf;operate;direct;2.0
+MannerOf;point the way;direct;2.0
+MannerOf;stage direct;direct;2.0
+MannerOf;stet;direct;2.0
+MannerOf;talk down;direct;2.0
+CapableOf;Directors;direct a movie;2.0
+FormOf;directors;director;1.0
+HasA;Directors;many decisions to make;1.0
+RelatedTo;directors;director;1.0
+RelatedTo;direttorio;directors;1.0
+RelatedTo;режиссура;directors;1.0
+UsedFor;a soundstage;directors;1.0
+RelatedTo;board;directors;0.569
+ExternalURL;directors;directors;0.25
+ExternalURL;directors;directors;0.25
+RelatedTo;cut;directors;0.10400000000000009
+Synonym;صَرَفَ النَّظَرَ عَن;dismiss;3.4641016151377544
+MannerOf;discredit;dismiss;2.0
+MannerOf;dismiss;fire;2.0
+MannerOf;dismiss;reject;2.0
+MannerOf;dismiss;say farewell;2.0
+MannerOf;disoblige;dismiss;2.0
+MannerOf;laugh off;dismiss;2.0
+MannerOf;pass off;dismiss;2.0
+MannerOf;scoff;dismiss;2.0
+MannerOf;shrug off;dismiss;2.0
+MannerOf;slight;dismiss;2.0
+MannerOf;turn a blind eye;dismiss;2.0
+RelatedTo;dismissive;dismiss;2.0
+RelatedTo;otpuštati;dismiss;2.0
+RelatedTo;otpustiti;dismiss;2.0
+RelatedTo;raspuštati;dismiss;2.0
+RelatedTo;raspustiti;dismiss;2.0
+RelatedTo;smeniti;dismiss;2.0
+RelatedTo;smenjivati;dismiss;2.0
+RelatedTo;smijeniti;dismiss;2.0
+Synonym;Rio Don;Don;4.47213595499958
+HasContext;Don;Spanish;2.0
+HasContext;Don;Wales;2.0
+IsA;Don;gentleman;2.0
+IsA;don;head;2.0
+IsA;Don;title;2.0
+PartOf;Don;Russia;2.0
+RelatedTo;don;don;2.0
+Synonym;Don;Don;2.0
+Synonym;senyor;Don;2.0
+Synonym;don;preceptor;2.0
+Synonym;Don River;Don;2.0
+Synonym;don;wear;2.0
+Synonym;father;don;2.0
+Synonym;Don;Don;2.0
+Synonym;Don;Don;2.0
+Synonym;on;Don;2.0
+Synonym;Don-joki;Don;2.0
+Synonym;Don;Don;2.0
+Synonym;isä;don;2.0
+Causes;going to sleep;dreams;4.0
+Causes;sleeping;dreams;2.82842712474619
+RelatedTo;sleep;dreams;2.076535576386785
+Synonym;努 々;dreams;2.0
+Synonym;努努;dreams;2.0
+Synonym;夢 々;dreams;2.0
+Synonym;夢夢;dreams;2.0
+Synonym;夢幻;dreams;2.0
+Synonym;幻夢;dreams;2.0
+UsedFor;resting;dreams;2.0
+UsedFor;sleeping at night;dreams;2.0
+AtLocation;a rosebush;my dreams;1.0
+CapableOf;Dreams;live in the dreamer;1.0
+CapableOf;dreams;seem real;1.0
+Causes;sleeping at night;dreams;1.0
+DerivedFrom;dreams;dream;1.0
+EtymologicallyDerivedFrom;dreams;dreamas;1.0
+EtymologicallyDerivedFrom;dreams;dremes;1.0
+FormOf;dreams;dream;1.0
+FormOf;dreams;dream;1.0
+RelatedTo;snen;dreamy;2.0
+SimilarTo;dreamy;inattentive;2.0
+SimilarTo;inattentive;dreamy;2.0
+Synonym;fantasiós;dreamy;2.0
+Synonym;somiador;dreamy;2.0
+Synonym;dreamy;lackadaisical;2.0
+Synonym;moony;dreamy;2.0
+Synonym;woolgathering;dreamy;2.0
+Synonym;رویایی;dreamy;2.0
+Synonym;haaveileva;dreamy;2.0
+Synonym;haaveksiva;dreamy;2.0
+Synonym;haihatteleva;dreamy;2.0
+Synonym;rêveur;dreamy;2.0
+Synonym;ドリーミー;dreamy;2.0
+Synonym;ドリーミー;dreamy;2.0
+Synonym;ファンタジック;dreamy;2.0
+Synonym;夢幻的;dreamy;2.0
+Synonym;夢幻的;dreamy;2.0
+Synonym;幻想的;dreamy;2.0
+Synonym;素敵;dreamy;2.0
+RelatedTo;čama;dreariness;2.0
+RelatedTo;čamotinja;dreariness;2.0
+Synonym;dreariness;boringness;2.0
+DerivedFrom;dreariness;dreary;1.0
+FormOf;drearinesses;dreariness;1.0
+RelatedTo;öde;dreariness;1.0
+RelatedTo;drearihead;dreariness;1.0
+RelatedTo;drearihood;dreariness;1.0
+RelatedTo;dreariment;dreariness;1.0
+RelatedTo;dreariness;dreary;1.0
+RelatedTo;drearsome;dreariness;1.0
+RelatedTo;loneliness;dreariness;1.0
+RelatedTo;sunlessness;dreariness;1.0
+RelatedTo;ankeus;dreariness;1.0
+RelatedTo;dubhachas;dreariness;1.0
+RelatedTo;nyűg;dreariness;1.0
+RelatedTo;grigiore;dreariness;1.0
+RelatedTo;uggiosità;dreariness;1.0
+RelatedTo;退屈;dreariness;1.0
+RelatedTo;პირქუშობა;dreariness;1.0
+IsA;marijuana;a drug;6.6332495807108
+IsA;Heroin;a drug;4.47213595499958
+IsA;ecstasy;drug;2.82842712474619
+UsedFor;a drug;treat an illness;2.82842712474619
+AtLocation;a drug;a drugstore;2.0
+AtLocation;a drug;an iv;2.0
+CapableOf;A drug;cloud thinking;2.0
+Causes;drug;trip;2.0
+Entails;snort;drug;2.0
+HasContext;active transport;drug;2.0
+HasContext;anaphylaxis;drug;2.0
+HasContext;drop;drug;2.0
+HasContext;drug;medicine;2.0
+HasContext;generic;drug;2.0
+HasContext;injectable;drug;2.0
+HasContext;magic bullet;drug;2.0
+HasContext;orally;drug;2.0
+HasContext;potentiate;drug;2.0
+HasContext;uninjectable;drug;2.0
+IsA;abortifacient;drug;2.0
+RelatedTo;east;direction;6.317277894789811
+Synonym;Levant;East;3.4641016151377544
+Synonym;Orient;East;3.4641016151377544
+Synonym;Timur;east;3.4641016151377544
+Synonym;Leste;east;3.4641016151377544
+Synonym;ภาคตะวันออก;East;3.4641016151377544
+AtLocation;the Indian Ocean;the East;2.82842712474619
+RelatedTo;east;north;2.3151673805580453
+RelatedTo;east;compass;2.1456933611306157
+DerivedFrom;eastie;east;2.0
+IsA;east;cardinal compass point;2.0
+IsA;east;direction;2.0
+IsA;east;location;2.0
+PartOf;Appalachians;East;2.0
+PartOf;East Coast;East;2.0
+PartOf;East;United States;2.0
+PartOf;Far East;East;2.0
+PartOf;Northeast;East;2.0
+PartOf;Southeast;East;2.0
+RelatedTo;α;east;2.0
+ExternalURL;eddie;Eddie (given name);1.0
+ExternalURL;eddie;Q430699;1.0
+FormOf;eddie;edward;1.0
+FormOf;eddies;eddie;1.0
+HasContext;eddie;canada;1.0
+RelatedTo;eddie;diminutive;1.0
+RelatedTo;eddie;edgar;1.0
+RelatedTo;eddie;edward;1.0
+RelatedTo;eddie;edwin;1.0
+RelatedTo;eddie;given name;1.0
+Synonym;ted;eddie;1.0
+Synonym;艾迪;eddie;1.0
+IsA;eddie;given name;0.5
+Synonym;eddie;eddie;0.5
+Synonym;eddie;eddie;0.5
+EtymologicallyRelatedTo;eddie;eddie;0.25
+ExternalURL;eddie;Eddie;0.25
+RelatedTo;shock;electric;6.153048025166063
+RelatedTo;current;electric;3.15974682530104
+IsA;electric;car;2.0
+RelatedTo;electricity;electric;2.0
+RelatedTo;električni;electric;2.0
+SimilarTo;electric;tense;2.0
+SimilarTo;tense;electric;2.0
+Synonym;automòbil elèctric;electric;2.0
+Synonym;cotxe elèctric;electric;2.0
+Synonym;elèctric;electric;2.0
+Synonym;electric;galvanising;2.0
+Synonym;electrical;electric;2.0
+Synonym;electric automobile;electric;2.0
+Synonym;electric car;electric;2.0
+Synonym;eléctrico;electric;2.0
+Synonym;berebil elektriko;electric;2.0
+Synonym;sähkö-;electric;2.0
+Synonym;sähköauto;electric;2.0
+Synonym;sähkö-;electric;2.0
+Synonym;électrique;electric;2.0
+RelatedTo;end;finish;4.934369260604641
+DistinctFrom;end;beginning;2.672077843177478
+Antonym;end;beginning;2.23427840700303
+AtLocation;the end;the end of a line;2.0
+Causes;end;end;2.0
+FormOf;ended;end;2.0
+FormOf;ending;end;2.0
+FormOf;ends;end;2.0
+FormOf;ends;end;2.0
+HasContext;end;football;2.0
+IsA;bitter end;end;2.0
+IsA;bitthead;end;2.0
+IsA;cease;end;2.0
+IsA;death;end;2.0
+IsA;endgame;end;2.0
+IsA;end;boundary;2.0
+IsA;end;contribution;2.0
+IsA;end;ending;2.0
+IsA;end;extremity;2.0
+IsA;end;lineman;2.0
+RelatedTo;finish;ending;2.7712812921102037
+FormOf;ending;end;2.0
+IsA;defeat;ending;2.0
+IsA;destruction;ending;2.0
+IsA;ending;happening;2.0
+IsA;ending;morpheme;2.0
+IsA;end;ending;2.0
+IsA;foregone conclusion;ending;2.0
+IsA;inflectional ending;ending;2.0
+IsA;omega;ending;2.0
+IsA;result;ending;2.0
+IsA;stop;ending;2.0
+IsA;suffix;ending;2.0
+IsA;victory;ending;2.0
+RelatedTo;son;ending;2.0
+RelatedTo;izmak;ending;2.0
+RelatedTo;nastavak;ending;2.0
+RelatedTo;odjava;ending;2.0
+RelatedTo;svršetak;ending;2.0
+RelatedTo;završetak;ending;2.0
+Synonym;Inglês;Englishman;3.4641016151377544
+IsA;burgess;Englishman;2.0
+IsA;Cornishman;Englishman;2.0
+IsA;Englishman;English person;2.0
+IsA;Jacobean;Englishman;2.0
+IsA;limey;Englishman;2.0
+IsA;Tory;Englishman;2.0
+IsA;Whig;Englishman;2.0
+Synonym;englishman;englez;2.0
+Synonym;englantilainen;Englishman;2.0
+Synonym;Anglais;Englishman;2.0
+Synonym;inglés;Englishman;2.0
+Synonym;inglese;Englishman;2.0
+Synonym;イギリス 人;englishman;2.0
+Synonym;英人;englishman;2.0
+Synonym;英国人;englishman;2.0
+Synonym;lelaki Inggeris;Englishman;2.0
+Synonym;orang Inggris;Englishman;2.0
+Synonym;pria Inggris;Englishman;2.0
+Synonym;Anglik;Englishman;2.0
+FormOf;eras;era;2.0
+IsA;day;era;2.0
+IsA;era;geological time;2.0
+IsA;modern era;era;2.0
+IsA;period;era;2.0
+PartOf;era;eon;2.0
+PartOf;period;era;2.0
+RelatedTo;əsr;era;2.0
+RelatedTo;doba;era;2.0
+RelatedTo;era;era;2.0
+RelatedTo;razdoblje;era;2.0
+RelatedTo;vek;era;2.0
+RelatedTo;vijek;era;2.0
+RelatedTo;zaman;era;2.0
+Synonym;حِقْبَة;era;2.0
+Synonym;عَصْر;era;2.0
+Synonym;عَهْد;era;2.0
+Synonym;època;era;2.0
+Synonym;era;era;2.0
+Synonym;epoke;era;2.0
+Synonym;器量;features;2.0
+Synonym;容ぼう;features;2.0
+Synonym;容色;features;2.0
+Synonym;容貌;features;2.0
+Synonym;容顔;features;2.0
+Synonym;目面;features;2.0
+Synonym;相好;features;2.0
+Synonym;相貌;features;2.0
+Synonym;眉目;features;2.0
+Synonym;縹緻;features;2.0
+Synonym;見目形;features;2.0
+Synonym;輪かく;features;2.0
+Synonym;輪廓;features;2.0
+Synonym;輪郭;features;2.0
+Synonym;開発経緯;features;2.0
+Synonym;面差;features;2.0
+Synonym;面差し;features;2.0
+Synonym;面相;features;2.0
+Synonym;面立ち;features;2.0
+Synonym;面輪;features;2.0
+IsA;a movie;a film;3.4641016151377544
+Synonym;Filme Fotográfico;film;3.4641016151377544
+RelatedTo;movie;film;2.8885982759809297
+IsA;Film;a medium;2.82842712474619
+AtLocation;film;a movie;2.0
+Entails;cast;film;2.0
+HasContext;cut-in;film;2.0
+HasContext;film;art;2.0
+HasContext;film;commercial enterprise;2.0
+HasContext;film;movie;2.0
+HasContext;MacGuffin;film;2.0
+HasContext;one shot;film;2.0
+HasContext;rom com;film;2.0
+IsA;film;an artistic expression;2.0
+IsA;film clip;film;2.0
+IsA;film;medium;2.0
+IsA;film;object;2.0
+IsA;film;photographic paper;2.0
+IsA;film;sheet;2.0
+IsA;film;wrapping;2.0
+DefinedAs;"""Films""";"plural of ""film""";1.0
+FormOf;films;film;1.0
+FormOf;films;film;1.0
+FormOf;films;film;1.0
+FormOf;films;film;1.0
+HasA;films;a duration;1.0
+HasA;Some films;fishing as a topic;1.0
+HasProperty;Some films;hard to understand;1.0
+IsA;films;about life;1.0
+IsA;Some films;especially;1.0
+IsA;Movies;films;1.0
+ReceivesAction;Films;projected onto screens;1.0
+ReceivesAction;Films;shot with film or video;1.0
+RelatedTo;carnography;films;1.0
+RelatedTo;filmmaking;films;1.0
+RelatedTo;films;film;1.0
+RelatedTo;films;film;1.0
+RelatedTo;polypropylene;films;1.0
+RelatedTo;smoxploitation;films;1.0
+RelatedTo;studio;films;1.0
+RelatedTo;kotac;filthy;2.0
+RelatedTo;pogan;filthy;2.0
+SimilarTo;dirty;filthy;2.0
+SimilarTo;filthy;dirty;2.0
+SimilarTo;filthy;nasty;2.0
+SimilarTo;nasty;filthy;2.0
+Synonym;dirty;filthy;2.0
+Synonym;filthy;cruddy;2.0
+Synonym;foul;filthy;2.0
+Synonym;lousy;filthy;2.0
+Synonym;nasty;filthy;2.0
+Synonym;کثیف;filthy;2.0
+Synonym;kelvoton;filthy;2.0
+Synonym;kurja;filthy;2.0
+Synonym;viheliäinen;filthy;2.0
+Synonym;crasseux;filthy;2.0
+Synonym;sale;filthy;2.0
+Synonym;מְלֻכְלָךְ;filthy;2.0
+Synonym;むさい;filthy;2.0
+Synonym;むさい;filthy;2.0
+FormOf;finalized;finalize;1.0
+RelatedTo;engross;finalized;1.0
+RelatedTo;finalized;finalize;1.0
+RelatedTo;on cutting room floor;finalized;1.0
+RelatedTo;parachevé;finalized;1.0
+RelatedTo;तय;finalized;1.0
+RelatedTo;निपटना;finalized;1.0
+RelatedTo;avslutad;finalized;1.0
+RelatedTo;աւարտուն;finalized;1.0
+Synonym;finalized;engrossed;1.0
+ExternalURL;finalized;finalized;0.25
+ExternalURL;finalized;finalized;0.25
+RelatedTo;ring;finger;8.651242685302499
+RelatedTo;finger;hand;8.004748590680409
+AtLocation;ring;your finger;6.32455532033676
+RelatedTo;finger;digit;5.861057924982485
+AtLocation;a finger;hand;5.656854249492381
+RelatedTo;point;finger;5.532088213324153
+UsedFor;a finger;typing;5.291502622129181
+AtLocation;fingernail;your finger;4.0
+AtLocation;a fingerprint;your finger;4.0
+CapableOf;a finger;push a button;4.0
+RelatedTo;touch;finger;3.933446326060646
+RelatedTo;hand;finger;3.930903204099536
+PartOf;knuckle;finger;3.4641016151377544
+Synonym;Dedo da mão;finger;3.4641016151377544
+UsedFor;a finger;point;3.4641016151377544
+RelatedTo;finger;part;3.409985337211877
+RelatedTo;finger;thumb;3.204372013359248
+RelatedTo;finger;appendage;3.0278705388440903
+AtLocation;a scar;your finger;2.82842712474619
+RelatedTo;finger;on hand;2.784959604733972
+RelatedTo;complete;finished;2.4657656011875906
+Antonym;unfinished;finished;2.0
+RelatedTo;finished;painted;2.0
+RelatedTo;finished;processed;2.0
+RelatedTo;finished;smooth;2.0
+RelatedTo;painted;finished;2.0
+RelatedTo;processed;finished;2.0
+RelatedTo;gotov;finished;2.0
+RelatedTo;svršeni;finished;2.0
+SimilarTo;destroyed;finished;2.0
+SimilarTo;done with;finished;2.0
+SimilarTo;fattened;finished;2.0
+SimilarTo;fattening;finished;2.0
+SimilarTo;fin de siecle;finished;2.0
+SimilarTo;finished;destroyed;2.0
+SimilarTo;finished;done with;2.0
+SimilarTo;finished;fattened;2.0
+SimilarTo;finished;fattening;2.0
+SimilarTo;finished;fin de siecle;2.0
+SimilarTo;finished;out-of-the-way;2.0
+FormOf;flashbacks;flashback;1.0
+RelatedTo;flashbacks;flashback;1.0
+RelatedTo;flashbacks;flashback;1.0
+ExternalURL;flashbacks;flashbacks;0.25
+ExternalURL;flashbacks;flashbacks;0.25
+RelatedTo;kričav;flashy;2.0
+SimilarTo;colorful;flashy;2.0
+SimilarTo;flashy;colorful;2.0
+Synonym;flashy;gimcrack;2.0
+Synonym;gaudy;flashy;2.0
+Synonym;jazzy;flashy;2.0
+Synonym;showy;flashy;2.0
+Synonym;sporty;flashy;2.0
+Synonym;チャラ い;flashy;2.0
+Synonym;ちゃらい;flashy;2.0
+Synonym;きんきらきん;flashy;2.0
+Synonym;ちゃらちゃら;flashy;2.0
+Synonym;チャラチャラ;flashy;2.0
+Synonym;デーハー;flashy;2.0
+Synonym;派手;flashy;2.0
+DerivedFrom;flashily;flashy;1.0
+DerivedFrom;flashiness;flashy;1.0
+DerivedFrom;flashy;flash;1.0
+ExternalURL;flashy;300408497-s;1.0
+ExternalURL;flashy;Flashy;1.0
+FormOf;footnotes;footnote;1.0
+FormOf;footnotes;footnote;1.0
+RelatedTo;footnotes;footnote;1.0
+ExternalURL;footnotes;footnotes;0.25
+ExternalURL;footnotes;footnotes;0.25
+PartOf;Frederick;Maryland;2.0
+Synonym;Frederick;Frederick;2.0
+Synonym;Frédérick;Frederick;2.0
+Synonym;Frédéric;Frederick;2.0
+Synonym;フレデリック;Frederick;2.0
+Synonym;Frederick;Frederick;2.0
+Synonym;Frederico;Frederick;2.0
+Synonym;เมืองเฟรเดอร์ริค;Frederick;2.0
+DerivedFrom;frederician;frederick;1.0
+DerivedFrom;frederick county;frederick;1.0
+DerivedFrom;prince frederick;frederick;1.0
+ExternalURL;frederick;Frederick (archbishop of Mainz);1.0
+ExternalURL;frederick;Q459519;1.0
+ExternalURL;frederick;109117375-n;1.0
+FormOf;frederick;frederic;1.0
+RelatedTo;erick;frederick;1.0
+RelatedTo;freddie;frederick;1.0
+RelatedTo;freddy;frederick;1.0
+RelatedTo;freddy;frederick;1.0
+RelatedTo;frederica;frederick;1.0
+HasPrerequisite;make people laugh;be funny;4.0
+RelatedTo;laugh;funny;3.3352661063249514
+MotivatedByGoal;howl with laughter;something is funny;2.0
+RelatedTo;duhovit;funny;2.0
+RelatedTo;šaljiv;funny;2.0
+RelatedTo;smešan;funny;2.0
+RelatedTo;smiješan;funny;2.0
+SimilarTo;funny;ill;2.0
+SimilarTo;funny;strange;2.0
+SimilarTo;ill;funny;2.0
+SimilarTo;strange;funny;2.0
+Synonym;curiós;funny;2.0
+Synonym;estrany;funny;2.0
+Synonym;original;funny;2.0
+Synonym;peculiar;funny;2.0
+Synonym;rar;funny;2.0
+Synonym;singular;funny;2.0
+Synonym;curious;funny;2.0
+Synonym;funny;laughable;2.0
+Synonym;funny;suspicious;2.0
+SimilarTo;double-geared;geared;2.0
+SimilarTo;geared;double-geared;2.0
+SimilarTo;geared;in gear;2.0
+SimilarTo;geared;intermeshed;2.0
+SimilarTo;in gear;geared;2.0
+SimilarTo;intermeshed;geared;2.0
+Synonym;vaihteellinen;geared;2.0
+Synonym;-vaihteinen;geared;2.0
+Synonym;vaihteistolla varustettu;geared;2.0
+Synonym;con engrenaxe;geared;2.0
+Synonym;ซึ่งใช้เกียร์;geared;2.0
+DerivedFrom;multigeared;geared;1.0
+ExternalURL;geared;301103903-a;1.0
+FormOf;geared;gear;1.0
+RelatedTo;geared;gear;1.0
+RelatedTo;dişli;geared;1.0
+ExternalURL;geared;geared;0.25
+ExternalURL;geared;geared;0.25
+FormOf;geniuses;genii;1.0
+FormOf;geniuses;genius;1.0
+IsA;Many famous composers;geniuses;1.0
+RelatedTo;geniuses;genius;1.0
+UsedFor;fixing a computer;geniuses;1.0
+ExternalURL;geniuses;geniuses;0.25
+ExternalURL;geniuses;geniuses;0.25
+HasPrerequisite;getting something;asking for it;3.4641016151377544
+RelatedTo;grow;getting;3.1400636936215163
+Causes;getting something;satisfaction;2.82842712474619
+Causes;getting something;having something;2.0
+HasPrerequisite;getting something;giving something;2.0
+HasSubevent;getting something;coordinate sight and movement;2.0
+HasSubevent;getting something;an exchange for something else;2.0
+HasSubevent;getting something;going to a store;2.0
+HasSubevent;getting something;grasp with your hands;2.0
+HasSubevent;getting something;raise your arms up;2.0
+HasSubevent;getting something;reach your arms out;2.0
+HasSubevent;getting something;say thank you;2.0
+HasSubevent;getting something;show appreciation;2.0
+HasSubevent;getting something;smile;2.0
+Synonym;getting;acquiring;2.0
+Synonym;ゲット;getting;2.0
+Synonym;頂戴;getting;2.0
+RelatedTo;escape;getting;1.807
+RelatedTo;arrive;getting;1.767
+RelatedTo;arise;getting;1.7610000000000001
+Synonym;ghastly;charnel;2.0
+Synonym;ghastly;gruesome;2.0
+Synonym;macabre;ghastly;2.0
+Synonym;不気味;ghastly;2.0
+Synonym;もの凄い;ghastly;2.0
+Synonym;凄惨;ghastly;2.0
+Synonym;悽惨;ghastly;2.0
+Synonym;悽絶;ghastly;2.0
+Synonym;無気味;ghastly;2.0
+Synonym;物凄い;ghastly;2.0
+Synonym;鬼気;ghastly;2.0
+DerivedFrom;ghastliness;ghastly;1.0
+DerivedFrom;ghastly;ghast;1.0
+FormOf;ghastlier;ghastly;1.0
+FormOf;ghastlier;ghastly;1.0
+FormOf;ghastliest;ghastly;1.0
+FormOf;ghastliest;ghastly;1.0
+RelatedTo;مجفل;ghastly;1.0
+RelatedTo;ngilngig;ghastly;1.0
+RelatedTo;gespenstisch;ghastly;1.0
+DerivedFrom;ghetto blaster;ghetto;2.0
+DerivedFrom;ghettoise;ghetto;2.0
+IsA;ghetto;city district;2.0
+IsA;ghetto;life;2.0
+IsA;ghetto;quarter;2.0
+RelatedTo;geto;ghetto;2.0
+Synonym;call;ghetto;2.0
+Synonym;gueto;ghetto;2.0
+Synonym;jueria;ghetto;2.0
+Synonym;ghetto;geto;2.0
+Synonym;gueto;ghetto;2.0
+Synonym;ghetto;ghetto;2.0
+Synonym;محله کلیمی‌ها;ghetto;2.0
+Synonym;getto;ghetto;2.0
+Synonym;ghetto;ghetto;2.0
+Synonym;ghetto;ghetto;2.0
+Synonym;ゲットー;ghetto;2.0
+Synonym;ゲットー;ghetto;2.0
+Synonym;getto;ghetto;2.0
+Synonym;favela;ghetto;2.0
+DerivedFrom;ghostly;ghost;2.0
+DerivedFrom;ghost story;ghost;2.0
+DerivedFrom;ghost town;ghost;2.0
+HasContext;ghost;writing;2.0
+IsA;a ghost;a disembodied spirit;2.0
+IsA;ghost;apparition;2.0
+IsA;ghost;soul;2.0
+IsA;poltergeist;ghost;2.0
+IsA;revenant;ghost;2.0
+MannerOf;ghost;author;2.0
+MannerOf;ghost;travel;2.0
+RelatedTo;ghostly;ghost;2.0
+RelatedTo;ghost;haunt;2.0
+RelatedTo;avet;ghost;2.0
+RelatedTo;duh;ghost;2.0
+RelatedTo;prikaza;ghost;2.0
+RelatedTo;sablast;ghost;2.0
+RelatedTo;sena;ghost;2.0
+RelatedTo;sjena;ghost;2.0
+RelatedTo;utvara;ghost;2.0
+FormOf;godleys;godley;1.0
+HasProperty;Sex;good;6.6332495807108
+CapableOf;Good;battle evil;5.656854249492381
+RelatedTo;quality;good;4.020447736260229
+DefinedAs;Good;opposite of Evil;4.0
+HasProperty;some people;good;4.0
+RelatedTo;great;good;3.8750483867946732
+RelatedTo;cake;good;3.6474648730316783
+Synonym;טוֹב;good;3.4641016151377544
+RelatedTo;excellent;good;3.263740185737829
+RelatedTo;best;good;3.2483842137284196
+HasProperty;Clean clothes;good;2.82842712474619
+HasProperty;life;good;2.82842712474619
+RelatedTo;better;good;2.5534290669607405
+DistinctFrom;bad;good;2.2995651762887697
+RelatedTo;fine;good;2.276839915321233
+RelatedTo;fellow;good;2.2271057451320084
+RelatedTo;manners;good;2.1456933611306157
+Antonym;evil;good;2.0
+Causes;emptying your bladder;good;2.0
+Causes;learning;good;2.0
+IsA;gore;blood;2.0
+IsA;gore;piece of cloth;2.0
+MannerOf;gore;cut;2.0
+MannerOf;gore;pierce;2.0
+PartOf;gore;full skirt;2.0
+PartOf;gore;gaiter;2.0
+PartOf;gore;umbrella;2.0
+RelatedTo;krv;gore;2.0
+Synonym;Gore;Albert Gore Jr.;2.0
+Synonym;gore;bloodshed;2.0
+Synonym;panel;gore;2.0
+Synonym;cortar tela;gore;2.0
+Synonym;panel;gore;2.0
+Synonym;paño;gore;2.0
+Synonym;sangre espesa;gore;2.0
+Synonym;pieza;gore;2.0
+Synonym;hyytynyt veri;gore;2.0
+Synonym;kapeneva kaistale;gore;2.0
+Synonym;kiila;gore;2.0
+Synonym;kolmiomainen kaistale;gore;2.0
+Synonym;Gould;Jay Gould;2.0
+Synonym;Gould;Stephen Jay Gould;2.0
+FormOf;gould;gold;1.0
+HasContext;gould;éléments;1.0
+RelatedTo;gould;or;1.0
+RelatedTo;goulds;gould;1.0
+ExternalURL;gould;gould;0.25
+DerivedFrom;graham cracker;graham;2.0
+Synonym;Graham;Martha Graham;2.0
+Synonym;graham;whole wheat flour;2.0
+Synonym;Graham;William Franklin Graham;2.0
+DerivedFrom;graham county;graham;1.0
+DerivedFrom;grahamesque;graham;1.0
+DerivedFrom;grahamism;graham;1.0
+DerivedFrom;grahamite;graham;1.0
+ExternalURL;graham;Graham (given name);1.0
+ExternalURL;graham;Q642254;1.0
+FormOf;grahams;graham;1.0
+FormOf;gram;graham;1.0
+HasProperty;Graham;afraid of heights;1.0
+RelatedTo;alamance county;graham;1.0
+RelatedTo;graeme;graham;1.0
+RelatedTo;graham bread;graham;1.0
+RelatedTo;graham cracker;graham;1.0
+RelatedTo;graham;alabama;1.0
+RelatedTo;graham;alamance county;1.0
+RelatedTo;graham;appling county;1.0
+RelatedTo;design;graphic;2.05621010599598
+RelatedTo;graphical;graphic;2.0
+RelatedTo;graphics;graphic;2.0
+SimilarTo;explicit;graphic;2.0
+SimilarTo;graphic;explicit;2.0
+Synonym;gràfic;graphic;2.0
+Synonym;grafisk;graphic;2.0
+Synonym;graphic;in writing;2.0
+Synonym;graphic;lifelike;2.0
+Synonym;graphical;graphic;2.0
+Synonym;graphic;computer graphic;2.0
+Synonym;gráfico;graphic;2.0
+Synonym;graafinen;graphic;2.0
+Synonym;porno-;graphic;2.0
+Synonym;graphique;graphic;2.0
+Synonym;グラフィック;graphic;2.0
+Synonym;グラフイック;graphic;2.0
+Synonym;写実的;graphic;2.0
+Synonym;図形;graphic;2.0
+Synonym;生 々 しい;graphic;2.0
+RelatedTo;great;good;3.8750483867946732
+RelatedTo;great;alexander;2.6578186544608347
+HasProperty;sex;great;2.0
+IsA;great;achiever;2.0
+RelatedTo;do jaja;great;2.0
+RelatedTo;izvrstan;great;2.0
+RelatedTo;krvav;great;2.0
+RelatedTo;mnoštvo;great;2.0
+RelatedTo;odličan;great;2.0
+RelatedTo;prvoklasan;great;2.0
+RelatedTo;prvorazredan;great;2.0
+RelatedTo;pust;great;2.0
+RelatedTo;sjajan;great;2.0
+RelatedTo;sjajno;great;2.0
+RelatedTo;strahovit;great;2.0
+RelatedTo;sumpor;great;2.0
+RelatedTo;velikan;great;2.0
+SimilarTo;extraordinary;great;2.0
+SimilarTo;great;extraordinary;2.0
+SimilarTo;great;large;2.0
+RelatedTo;jezan;gruesome;2.0
+SimilarTo;alarming;gruesome;2.0
+SimilarTo;gruesome;alarming;2.0
+Synonym;esborronant;gruesome;2.0
+Synonym;horrible;gruesome;2.0
+Synonym;hòrrid;gruesome;2.0
+Synonym;horrífic;gruesome;2.0
+Synonym;horripilant;gruesome;2.0
+Synonym;horrorós;gruesome;2.0
+Synonym;macabre;gruesome;2.0
+Synonym;ghastly;gruesome;2.0
+Synonym;grim;gruesome;2.0
+Synonym;grisly;gruesome;2.0
+Synonym;macabre;gruesome;2.0
+Synonym;sick;gruesome;2.0
+Synonym;espantoso;gruesome;2.0
+Synonym;horrible;gruesome;2.0
+Synonym;ترسناک;gruesome;2.0
+Synonym;مخوف;gruesome;2.0
+Synonym;هولناک;gruesome;2.0
+IsA;first half;half;2.0
+IsA;half;part;2.0
+IsA;second half;half;2.0
+PartOf;half;basketball;2.0
+PartOf;half;football;2.0
+PartOf;half;playing period;2.0
+RelatedTo;healf;half;2.0
+RelatedTo;leth;half;2.0
+RelatedTo;pół;half;2.0
+RelatedTo;napola;half;2.0
+RelatedTo;pola;half;2.0
+RelatedTo;pola;half;2.0
+RelatedTo;pol;half;2.0
+RelatedTo;polovica;half;2.0
+RelatedTo;polovina;half;2.0
+RelatedTo;polutka;half;2.0
+RelatedTo;po;half;2.0
+RelatedTo;ܦܠܓܘܬܐ;half;2.0
+SimilarTo;fractional;half;2.0
+SimilarTo;half;fractional;2.0
+IsA;fielding;handling;2.0
+IsA;handling;manual labor;2.0
+IsA;handling;touch;2.0
+IsA;loading;handling;2.0
+IsA;materials handling;handling;2.0
+IsA;unloading;handling;2.0
+Synonym;maneig;handling;2.0
+Synonym;manipulació;handling;2.0
+Synonym;handling;treatment;2.0
+Synonym;manipulation;handling;2.0
+Synonym;manipulación;handling;2.0
+Synonym;erabilaldi;handling;2.0
+Synonym;ukimen;handling;2.0
+Synonym;ukitu;handling;2.0
+Synonym;ukitze;handling;2.0
+Synonym;دستکاری;handling;2.0
+Synonym;käsittely;handling;2.0
+Synonym;käyttö;handling;2.0
+Synonym;toimitus;handling;2.0
+Synonym;gestion;handling;2.0
+Synonym;Hayes;Helen Hayes;2.0
+Synonym;Hayes;Rutherford Birchard Hayes;2.0
+Synonym;ヘイズ;hayes;2.0
+DerivedFrom;hayes center;hayes;1.0
+DerivedFrom;hayes county;hayes;1.0
+FormOf;hayes;haye;1.0
+HasContext;hayes;quartiers;1.0
+RelatedTo;hayes;borough;1.0
+RelatedTo;hayes;bromley;1.0
+RelatedTo;hayes;hillingdon;1.0
+RelatedTo;hayes;london;1.0
+RelatedTo;hayes;nom de famille;1.0
+RelatedTo;hayes;quartier;1.0
+RelatedTo;hayes;ó haodha;1.0
+Synonym;海斯;hayes;1.0
+EtymologicallyRelatedTo;hayes;hæs;0.25
+EtymologicallyRelatedTo;hayes;hay;0.25
+ExternalURL;hayes;hayes;0.25
+ExternalURL;hayes;Hayes;0.25
+ExternalURL;hayes;Hayes;0.25
+FormOf;heathers;heather;2.0
+IsA;heather;heath;2.0
+RelatedTo;vres;heather;2.0
+RelatedTo;vrijes;heather;2.0
+Synonym;broom;heather;2.0
+Synonym;Calluna vulgaris;heather;2.0
+Synonym;heather;heather mixture;2.0
+Synonym;ling;heather;2.0
+Synonym;Scots heather;heather;2.0
+Synonym;ainar;heather;2.0
+Synonym;ورسک;heather;2.0
+Synonym;Calluna vulgaris;heather;2.0
+Synonym;kanerva;heather;2.0
+Synonym;varpu;heather;2.0
+Synonym;balai;heather;2.0
+Synonym;bruyère callune;heather;2.0
+Synonym;bruyère;heather;2.0
+Synonym;calluna vulgaris;heather;2.0
+Synonym;callune;heather;2.0
+Synonym;brentolo;heather;2.0
+IsA;War;hell;4.898979485566356
+Antonym;heaven;hell;2.0
+AtLocation;the devil;hell;2.0
+AtLocation;Hitler;Hell;2.0
+AtLocation;a mound;hell;2.0
+HasContext;hell;vulgar;2.0
+HasContext;Hell;Christianity;2.0
+HasContext;hell;religion;2.0
+IsA;depression;hell;2.0
+IsA;Gehenna;Hell;2.0
+IsA;hell;a bad place;2.0
+IsA;hellfire;Hell;2.0
+IsA;Hell;imaginary place;2.0
+IsA;hell;mischief;2.0
+IsA;hell;region;2.0
+IsA;hell;trouble;2.0
+RelatedTo;hell;enfer;2.0
+RelatedTo;helluv;hell;2.0
+RelatedTo;sheol;hell;2.0
+RelatedTo;地獄;hell;2.0
+FormOf;helped;help;1.0
+FormOf;helped;help;1.0
+HasSubevent;giving assistance;you helped someone;1.0
+MotivatedByGoal;thank someone;they helped you;1.0
+RelatedTo;helped;help;1.0
+RelatedTo;supported;helped;1.0
+RelatedTo;adiutus;helped;1.0
+RelatedTo;adiuvandus;helped;1.0
+RelatedTo;adjuvandus;helped;1.0
+RelatedTo;auxiliandus;helped;1.0
+RelatedTo;auxiliatus;helped;1.0
+RelatedTo;iutus;helped;1.0
+RelatedTo;iuvandus;helped;1.0
+RelatedTo;opitulatus;helped;1.0
+RelatedTo;succurrendus;helped;1.0
+RelatedTo;succursus;helped;1.0
+ExternalURL;helped;helped;0.25
+ExternalURL;helped;helped;0.25
+RelatedTo;budžak;hidden;2.0
+RelatedTo;skriven;hidden;2.0
+RelatedTo;skrovit;hidden;2.0
+SimilarTo;concealed;hidden;2.0
+SimilarTo;hidden;concealed;2.0
+Synonym;hidden;obscure;2.0
+Synonym;hidden;out of sight;2.0
+Synonym;latent;hidden;2.0
+Synonym;secret;hidden;2.0
+Synonym;piilotettu;hidden;2.0
+Synonym;salainen;hidden;2.0
+Synonym;caché;hidden;2.0
+Synonym;secret;hidden;2.0
+Synonym;人知れぬ;hidden;2.0
+Synonym;人知れず;hidden;2.0
+Synonym;内密;hidden;2.0
+Synonym;密;hidden;2.0
+Synonym;密か;hidden;2.0
+Synonym;幽;hidden;2.0
+Synonym;忍びやか;hidden;2.0
+RelatedTo;wallet;holds;1.7720000000000002
+RelatedTo;plate;holds;1.6789999999999998
+RelatedTo;case;holds;1.536
+RelatedTo;neck;holds;1.294
+RelatedTo;nest;holds;1.242
+RelatedTo;head;holds;1.065
+ExternalURL;holds;no+holds+barred-p#Component-2;1.0
+FormOf;holds;hold;1.0
+FormOf;holds;hold;1.0
+FormOf;holds;hold;1.0
+FormOf;holds;hold;1.0
+RelatedTo;holds;hold;1.0
+RelatedTo;holds;hold;1.0
+RelatedTo;placeholder;holds;1.0
+RelatedTo;tenant;holds;1.0
+RelatedTo;hâldt;holds;1.0
+RelatedTo;ὄχοσ;holds;1.0
+RelatedTo;朝門;holds;1.0
+RelatedTo;bank;holds;0.835
+RelatedTo;glass;holds;0.6110000000000002
+HasProperty;A tube;hollow;2.0
+IsA;dell;hollow;2.0
+IsA;hollow;cavity;2.0
+IsA;hollow;valley;2.0
+MannerOf;cavern;hollow;2.0
+MannerOf;cave;hollow;2.0
+MannerOf;core;hollow;2.0
+MannerOf;dig;hollow;2.0
+MannerOf;excavate;hollow;2.0
+MannerOf;hole;hollow;2.0
+MannerOf;hollow;empty;2.0
+MannerOf;rout;hollow;2.0
+MannerOf;scallop;hollow;2.0
+MannerOf;scoop out;hollow;2.0
+MannerOf;suck in;hollow;2.0
+RelatedTo;hollow;empty;2.0
+RelatedTo;dubiti;hollow;2.0
+RelatedTo;dupsti;hollow;2.0
+RelatedTo;jama;hollow;2.0
+RelatedTo;mukao;hollow;2.0
+DerivedFrom;holming;holm;1.0
+FormOf;holms;holm;1.0
+HasContext;holm;dialect;1.0
+HasContext;holm;dialects;1.0
+HasContext;holm;scotland;1.0
+HasContext;holm;west yorkshire;1.0
+HasContext;holm;localités;1.0
+RelatedTo;werder;holm;1.0
+RelatedTo;holm;holly;1.0
+RelatedTo;holm;holme;1.0
+RelatedTo;holm;holm oak;1.0
+RelatedTo;holm;islet;1.0
+RelatedTo;holm;oak;1.0
+RelatedTo;holm;quercus ilex;1.0
+RelatedTo;holm;village;1.0
+RelatedTo;holms;holm;1.0
+RelatedTo;laid;holm;1.0
+RelatedTo;erxo;holm;1.0
+RelatedTo;erxu;holm;1.0
+RelatedTo;waard;holm;1.0
+RelatedTo;strašno;horribly;2.0
+Synonym;awfully;horribly;2.0
+Synonym;dreadfully;horribly;2.0
+Synonym;hirveästi;horribly;2.0
+Synonym;järkyttävästi;horribly;2.0
+Synonym;kauheasti;horribly;2.0
+Synonym;affreusement;horribly;2.0
+Synonym;atrocement;horribly;2.0
+Synonym;effroyablement;horribly;2.0
+Synonym;épouvantablement;horribly;2.0
+Synonym;hideusement;horribly;2.0
+Synonym;horriblement;horribly;2.0
+Synonym;redoutablement;horribly;2.0
+Synonym;terriblement;horribly;2.0
+Synonym;malissimo;horribly;2.0
+Synonym;orridamente;horribly;2.0
+Synonym;schifosamente;horribly;2.0
+Synonym;tremendamente;horribly;2.0
+Synonym;ひどく;horribly;2.0
+Synonym;はなはだ;horribly;2.0
+Synonym;Hughes;Charles Evans Hughes;2.0
+Synonym;Hughes;Edward James Hughes;2.0
+Synonym;Hughes;Howard Robard Hughes;2.0
+Synonym;Hughes;James Langston Hughes;2.0
+DerivedFrom;hughesian;hughes;1.0
+RelatedTo;hughes;alaska;1.0
+RelatedTo;hughes;arkansas;1.0
+RelatedTo;hughes;given name;1.0
+RelatedTo;hughes;howells;1.0
+RelatedTo;hughes;hugh;1.0
+RelatedTo;hughes;wisconsin;1.0
+RelatedTo;hughesy;hughes;1.0
+ExternalURL;hughes;Hughes;0.25
+RelatedTo;name;identity;3.1559467676118995
+DerivedFrom;identity card;identity;2.0
+IsA;gender identity;identity;2.0
+IsA;identification;identity;2.0
+IsA;identity;operator;2.0
+IsA;identity;personality;2.0
+IsA;identity;recognition;2.0
+IsA;identity;sameness;2.0
+IsA;oneness;identity;2.0
+IsA;personhood;identity;2.0
+IsA;selfsameness;identity;2.0
+RelatedTo;identification;identity;2.0
+RelatedTo;identify;identity;2.0
+RelatedTo;identity;identification;2.0
+RelatedTo;identity;identify;2.0
+RelatedTo;identitet;identity;2.0
+RelatedTo;istovetnost;identity;2.0
+RelatedTo;istovjetnost;identity;2.0
+Synonym;تَطَابُق;identity;2.0
+Synonym;عُنْصُر التَّطَابُق;identity;2.0
+Synonym;ii;2;2.0
+Synonym;II;two;2.0
+HasContext;ii;film;1.0
+IsA;ii;jr;1.0
+RelatedTo;i;ii;1.0
+RelatedTo;ii;a;1.0
+RelatedTo;ii;i;1.0
+RelatedTo;ii;iii;1.0
+RelatedTo;ii;iv;1.0
+RelatedTo;iii;ii;1.0
+RelatedTo;iind;ii;1.0
+RelatedTo;iv;ii;1.0
+RelatedTo;i;ii;1.0
+ExternalURL;ii;A-II;0.25
+HasPrerequisite;pretending;imagining;6.32455532033676
+RelatedTo;dream;imagining;1.6869999999999998
+FormOf;imaginings;imagining;1.0
+FormOf;imagining;imagin;1.0
+FormOf;imagining;imagine;1.0
+RelatedTo;habromania;imagining;1.0
+RelatedTo;imagination;imagining;1.0
+RelatedTo;imaginings;imagining;1.0
+RelatedTo;imagining;imagine;1.0
+RelatedTo;pretending;imagining;1.0
+RelatedTo;elucubración;imagining;1.0
+RelatedTo;imaginans;imagining;1.0
+RelatedTo;opinans;imagining;1.0
+RelatedTo;चित्त;imagining;1.0
+ExternalURL;imagining;imagining;0.25
+ExternalURL;imagining;imagining;0.25
+FormOf;includes;include;1.0
+FormOf;includes;include;1.0
+RelatedTo;hong kong;includes;1.0
+RelatedTo;includes;excludes;1.0
+RelatedTo;includes;precludes;1.0
+RelatedTo;includes;recludes;1.0
+RelatedTo;includes;reincludes;1.0
+RelatedTo;includes;include;1.0
+ExternalURL;includes;includes;0.25
+ExternalURL;includes;includes;0.25
+RelatedTo;court;includes;0.21300000000000008
+RelatedTo;art;includes;0.1629999999999998
+RelatedTo;sky;includes;0.1589999999999998
+RelatedTo;body;includes;0.1499999999999999
+RelatedTo;all;includes;0.11899999999999977
+RelatedTo;head;includes;0.10199999999999987
+CapableOf;Indians;sleep in tents;1.0
+FormOf;indians;indian;1.0
+FormOf;indians;indian;1.0
+IsA;some people;Indians;1.0
+RelatedTo;indians;indian;1.0
+RelatedTo;western;indians;1.0
+ExternalURL;indians;Indians;0.25
+ExternalURL;indians;Indians;0.25
+IsA;inspector;policeman;2.0
+RelatedTo;inspektor;inspector;2.0
+RelatedTo;nadglednik;inspector;2.0
+RelatedTo;nadzornik;inspector;2.0
+Synonym;inspectora;inspector;2.0
+Synonym;inspector;inspector;2.0
+Synonym;inspector;examiner;2.0
+Synonym;inspector;inspector;2.0
+Synonym;polizia-inspektore;inspector;2.0
+Synonym;polizi inspektore;inspector;2.0
+Synonym;بازرس;inspector;2.0
+Synonym;مفتش;inspector;2.0
+Synonym;komisario;inspector;2.0
+Synonym;inspecteur;inspector;2.0
+Synonym;ispettore;inspector;2.0
+Synonym;インスペクター;inspector;2.0
+Synonym;インスペクター;inspector;2.0
+Synonym;判官;inspector;2.0
+Synonym;少監;inspector;2.0
+Synonym;検査係;inspector;2.0
+MotivatedByGoal;examine a thing;it is interesting;3.4641016151377544
+HasPrerequisite;meet interesting people;be interesting;2.0
+RelatedTo;exciting;interesting;2.0
+RelatedTo;interesting;exciting;2.0
+RelatedTo;interesting;stimulating;2.0
+RelatedTo;stimulating;interesting;2.0
+RelatedTo;interesantan;interesting;2.0
+RelatedTo;zanimljiv;interesting;2.0
+SimilarTo;diverting;interesting;2.0
+SimilarTo;entertaining;interesting;2.0
+SimilarTo;fascinating;interesting;2.0
+SimilarTo;interesting;diverting;2.0
+SimilarTo;interesting;entertaining;2.0
+SimilarTo;interesting;fascinating;2.0
+SimilarTo;interesting;intriguing;2.0
+SimilarTo;interesting;newsworthy;2.0
+SimilarTo;intriguing;interesting;2.0
+SimilarTo;newsworthy;interesting;2.0
+Synonym;interessant;interesting;2.0
+Synonym;interessant;interesting;2.0
+HasPrerequisite;discover the truth;investigate;4.47213595499958
+HasSubevent;convicting a suspect for a crime;investigate;2.82842712474619
+CapableOf;The FBI;investigate;2.0
+Entails;spy;investigate;2.0
+HasSubevent;buying something;investigate it;2.0
+MannerOf;experiment;investigate;2.0
+MannerOf;explore;investigate;2.0
+MannerOf;investigate;analyze;2.0
+MannerOf;investigate;probe;2.0
+MannerOf;probe;investigate;2.0
+MannerOf;research;investigate;2.0
+MannerOf;spy;investigate;2.0
+RelatedTo;investigate;investigation;2.0
+RelatedTo;investigate;investigative;2.0
+RelatedTo;investigate;investigator;2.0
+RelatedTo;investigator;investigate;2.0
+RelatedTo;ispitati;investigate;2.0
+RelatedTo;ispitivati;investigate;2.0
+RelatedTo;istražiti;investigate;2.0
+RelatedTo;istraživati;investigate;2.0
+Synonym;Língua Irlandesa;Irish;4.47213595499958
+HasContext;Irish;Ireland;2.0
+IsA;Irish;Gaelic;2.0
+IsA;Irish;whiskey;2.0
+IsA;Middle Irish;Irish;2.0
+IsA;Old Irish;Irish;2.0
+IsA;poteen;Irish;2.0
+RelatedTo;sidhe;irish;2.0
+Synonym;إِيرْلَنْدِي;Irish;2.0
+Synonym;gaèlic irlandès;Irish;2.0
+Synonym;irlandès;Irish;2.0
+Synonym;whisky irlandès;Irish;2.0
+Synonym;irish gaelic;irish;2.0
+Synonym;Irish Gaelic;Irish;2.0
+Synonym;Irish;Irish people;2.0
+Synonym;irish;irski;2.0
+Synonym;Irish whiskey;Irish;2.0
+Synonym;Irish whisky;Irish;2.0
+Synonym;gaélico irlandés;Irish;2.0
+Synonym;irlandés;Irish;2.0
+Synonym;ISN;International Relations and Security Network;2.0
+IsA;A jack;a lifting device;4.47213595499958
+RelatedTo;card;jack;2.6548069609672185
+AtLocation;a jack;a trunk;2.0
+CapableOf;Jack;deal drugs;2.0
+DefinedAs;Jack;name of a person;2.0
+EtymologicallyDerivedFrom;잭;jack;2.0
+FormOf;jacks;jack;2.0
+IsA;amberjack;jack;2.0
+IsA;bumper jack;jack;2.0
+IsA;crevalle jack;jack;2.0
+IsA;jack;a boy's name;2.0
+IsA;Jack;a nickname for John;2.0
+IsA;jack;ass;2.0
+IsA;jack;ball;2.0
+IsA;jack;carangid fish;2.0
+IsA;jack;electrical device;2.0
+IsA;jack;face card;2.0
+IsA;jack;flag;2.0
+IsA;jack;small indefinite quantity;2.0
+IsA;jack;tool;2.0
+PartOf;Jackson;Michigan;2.0
+PartOf;Jackson;Mississippi;2.0
+PartOf;Jackson;Tennessee;2.0
+PartOf;Jackson;Wyoming;2.0
+Synonym;capital of Mississippi;Jackson;2.0
+Synonym;Jackson;Andrew Jackson;2.0
+Synonym;Jackson;Glenda Jackson;2.0
+Synonym;Jackson;Helen Maria Fiske Hunt Jackson;2.0
+Synonym;Jackson;Jesse Louis Jackson;2.0
+Synonym;Jackson;Mahalia Jackson;2.0
+Synonym;Jackson;Michael Joe Jackson;2.0
+Synonym;Jackson;Thomas Jonathan Jackson;2.0
+Synonym;jackson;džekson;2.0
+Synonym;Jackson;Jackson;2.0
+Synonym;Missisippin osavaltion pääkaupunki;Jackson;2.0
+Synonym;ibukota Mississippi;Jackson;2.0
+Synonym;Jackson;Jackson;2.0
+Synonym;เมืองแจ็กสัน;Jackson;2.0
+Synonym;เมืองหลวงมลรัฐมิสซิสซิปปี;Jackson;2.0
+CapableOf;Jackson;piece the puzzle together;1.0
+CapableOf;jews;doubt god;3.4641016151377544
+CapableOf;jews;fast on yom kippur;2.82842712474619
+RelatedTo;jews;jews harp;2.82842712474619
+HasA;jews;children;2.0
+RelatedTo;diaspora;jews;2.0
+RelatedTo;jews;jew;2.0
+Synonym;猶太;jews;2.0
+AtLocation;Jews;Isreal;1.0
+CapableOf;Jews;dance the hora;1.0
+CapableOf;Jews;shop at a kosher delicatessen;1.0
+CreatedBy;Judaism;Jews;1.0
+Desires;Jews;Jerusalem;1.0
+Desires;Jews;shop at kosher delicatessen;1.0
+ExternalURL;jews;Jews;1.0
+ExternalURL;jews;Q7325;1.0
+FormOf;jews;jew;1.0
+FormOf;jews;jew;1.0
+FormOf;jews;jew;1.0
+HasProperty;jews;people;1.0
+HasProperty;jews;waiting for the messiah to come;1.0
+RelatedTo;work;job;7.189714876126867
+RelatedTo;interview;job;5.02951289887997
+RelatedTo;servant;job;3.8444765573482176
+RelatedTo;employ;job;3.6720566444432743
+RelatedTo;farmer;job;3.5400564967243113
+Synonym;Livro de Jó;Job;3.4641016151377544
+HasPrerequisite;working;a job;2.82842712474619
+MotivatedByGoal;handle proposals;it is your job;2.82842712474619
+RelatedTo;duty;job;2.530612574061861
+RelatedTo;job;employment;2.178990591994376
+RelatedTo;task;job;2.015936506936665
+Causes;instrument;job;2.0
+HasContext;job;computer science;2.0
+IsA;ball-buster;job;2.0
+IsA;job;application;2.0
+IsA;job;duty;2.0
+IsA;job;product;2.0
+IsA;Job;unfortunate;2.0
+IsA;job;work;2.0
+IsA;job;workplace;2.0
+FormOf;joes;joe;2.0
+RelatedTo;joes;joe;2.0
+Synonym;ジョー;joe;2.0
+CapableOf;Joe;back up the station wagon;1.0
+CapableOf;Joe;father my child;1.0
+CapableOf;Joe;feed himself to relieve hunger;1.0
+CapableOf;Joe;hand the shovel to Peter;1.0
+CapableOf;Joe;marry Bob in Hawaii;1.0
+CapableOf;Joe;step on the can;1.0
+CapableOf;Joe;visit the doctor;1.0
+DerivedFrom;average joe;joe;1.0
+DerivedFrom;joe average;joe;1.0
+DerivedFrom;joe blow;joe;1.0
+DerivedFrom;joe college;joe;1.0
+DerivedFrom;joe job;joe;1.0
+DerivedFrom;joe schmoe;joe;1.0
+DerivedFrom;joe sixpack;joe;1.0
+DerivedFrom;joey;joe;1.0
+Desires;Joe;make Lisa happy;1.0
+Desires;joe;sex;1.0
+FormOf;johnnies;johnny;2.0
+HasContext;johnny;slang;2.0
+Synonym;Johnny;greyback;2.0
+CapableOf;Johnny;visit his grandmother;1.0
+DerivedFrom;johnny canuck;johnny;1.0
+DerivedFrom;johnny;johnny jump up;1.0
+DerivedFrom;johnny come lately;johnny;1.0
+DerivedFrom;johnny crapaud;johnny;1.0
+DerivedFrom;johnny reb;johnny;1.0
+DerivedFrom;little johnny;johnny;1.0
+DerivedFrom;stage door johnny;johnny;1.0
+FormOf;johnnie;johnny;1.0
+FormOf;johnny;john;1.0
+FormOf;johnnys;johnny;1.0
+HasContext;johnny;new zealand;1.0
+HasContext;johnny;pejorative;1.0
+HasContext;johnny;uk;1.0
+HasContext;johnny;us;1.0
+HasProperty;johnny;nuts;1.0
+IsA;Johnny;a sprinter;1.0
+IsA;keeping;conformity;2.0
+Synonym;keeping;guardianship;2.0
+Synonym;keeping;retention;2.0
+Synonym;conformidad;keeping;2.0
+Synonym;bat etortze;keeping;2.0
+Synonym;harmonia;keeping;2.0
+Synonym;包蔵;keeping;2.0
+Synonym;守;keeping;2.0
+Synonym;守り;keeping;2.0
+Synonym;留め置き;keeping;2.0
+Synonym;留置き;keeping;2.0
+Synonym;預け;keeping;2.0
+RelatedTo;preserve;keeping;1.795
+RelatedTo;wallet;keeping;1.487
+RelatedTo;bank;keeping;1.1
+DerivedFrom;in keeping with;keeping;1.0
+DerivedFrom;keeping;gamekeeping;1.0
+DerivedFrom;keeping;goalkeeping;1.0
+DerivedFrom;keeping;greenkeeping;1.0
+DerivedFrom;keeping;rangekeeping;1.0
+Synonym;Kelly;Emmett Kelly;2.0
+Synonym;Kelly;Eugene Curran Kelly;2.0
+Synonym;Kelly;Princess Grace of Monaco;2.0
+CapableOf;Kelly;hand a biro to the teacher;1.0
+DerivedFrom;kelly;kellyanne;1.0
+DerivedFrom;kelly cytoscope;kelly;1.0
+DerivedFrom;kelly pad;kelly;1.0
+EtymologicallyDerivedFrom;kelly;kelly;1.0
+ExternalURL;kelly;Kelly (footballer);1.0
+ExternalURL;kelly;Q197593;1.0
+FormOf;kellies;kelly;1.0
+HasA;Kelly;told her boyfriend lies;1.0
+HasContext;kelly;localités;1.0
+RelatedTo;kelley;kelly;1.0
+RelatedTo;kellie;kelly;1.0
+RelatedTo;kelli;kelly;1.0
+RelatedTo;kelly;englisch;1.0
+RelatedTo;kelly;anglicise;1.0
+RelatedTo;kelly;drill;1.0
+RelatedTo;kelly;pipe;1.0
+RelatedTo;children;kids;6.102786248919422
+RelatedTo;toy;kids;5.9531504264548865
+RelatedTo;play;kids;3.727733896082176
+Desires;Kids;play;2.82842712474619
+Desires;Kids;play with them;2.82842712474619
+RelatedTo;camp;kids;2.8021420377989408
+RelatedTo;school;kids;2.1522081683703362
+AtLocation;kids;the park;2.0
+CapableOf;kids;be trading baseball cards;2.0
+Synonym;キッズ;kids;2.0
+Synonym;餓鬼;kids;2.0
+UsedFor;riding a bike;kids;2.0
+RelatedTo;family;kids;1.649
+RelatedTo;class;kids;1.093
+AtLocation;kids;an airport;1.0
+AtLocation;kids;the backseat of a car;1.0
+AtLocation;kids;disneyland;1.0
+AtLocation;Kids;home;1.0
+AtLocation;kids;the movies;1.0
+AtLocation;kids;a school;1.0
+RelatedTo;poison;killer;2.264508776754906
+AtLocation;a killer;death row;2.0
+CapableOf;a killer;kill someone;2.0
+IsA;executioner;killer;2.0
+IsA;exterminator;killer;2.0
+IsA;garroter;killer;2.0
+IsA;killer;difficulty;2.0
+IsA;killer;person;2.0
+IsA;murderer;killer;2.0
+IsA;poisoner;killer;2.0
+IsA;regicide;killer;2.0
+IsA;suicide;killer;2.0
+PartOf;a killer;a community;2.0
+RelatedTo;hahar;killer;2.0
+RelatedTo;ubica;killer;2.0
+RelatedTo;ubijač;killer;2.0
+RelatedTo;ubilac;killer;2.0
+RelatedTo;ubojica;killer;2.0
+Synonym;سَفَّاح;killer;2.0
+Synonym;سَفَّاك;killer;2.0
+UsedFor;a weapon;killing someone;6.928203230275509
+Causes;killing;death;6.6332495807108
+Causes;killing;guilt;6.6332495807108
+Causes;killing someone;go to jail;6.0
+UsedFor;a bullet;killing;4.898979485566356
+RelatedTo;poison;killing;4.656178690729126
+Causes;killing someone;someone dies;4.47213595499958
+UsedFor;a sword;killing;4.47213595499958
+HasProperty;killing;wrong;4.0
+HasSubevent;fighting war;killing someone;4.0
+HasSubevent;killing someone;they die;4.0
+UsedFor;killing;ending a life;4.0
+HasPrerequisite;killing;hatred;3.4641016151377544
+HasPrerequisite;killing someone;a weapon;3.4641016151377544
+HasProperty;Killing;bad;3.4641016151377544
+HasSubevent;committing murder;killing someone;3.4641016151377544
+HasSubevent;killing;you commit a crime;3.4641016151377544
+HasSubevent;killing someone;death;3.4641016151377544
+HasSubevent;killing;remorse;3.4641016151377544
+HasSubevent;killing;stab;3.4641016151377544
+IsA;French;a language;7.483314773547882
+IsA;Spanish;language;6.0
+RelatedTo;english;language;5.6656861896861175
+IsA;German;a language;5.656854249492381
+UsedFor;Language;communication;5.291502622129181
+IsA;English;a language;4.898979485566356
+IsA;Russian;a language;4.47213595499958
+PartOf;A word;language;4.0
+RelatedTo;language;english;3.84187454245971
+IsA;Chinese;a language;3.4641016151377544
+RelatedTo;language;communication;3.4490578423679707
+RelatedTo;language;french;3.1993749389529196
+HasPrerequisite;talking to someone;language;2.82842712474619
+RelatedTo;language;spanish;2.6107470195329157
+RelatedTo;language;spoken;2.5868900247208035
+RelatedTo;word;language;2.229798197146998
+RelatedTo;sign;language;2.186321110907545
+HasContext;accent;language;2.0
+HasContext;alphabetize;language;2.0
+HasContext;diachronic;language;2.0
+DerivedFrom;besilesomab;les;1.0
+DerivedFrom;les;és;1.0
+EtymologicallyDerivedFrom;レズ;les;1.0
+ExternalURL;les;LowerEsophagealSphincter;1.0
+FormOf;les;lesbian;1.0
+FormOf;les;lester;1.0
+FormOf;leses;les;1.0
+FormOf;les;lesbian;1.0
+HasContext;les;slang;1.0
+HasContext;les;pharmacology;1.0
+HasContext;les;anatomy;1.0
+HasContext;les;military;1.0
+HasContext;les;slang;1.0
+HasContext;les;us;1.0
+IsA;les;anatomical vessel;1.0
+IsA;les;semisolid;1.0
+RelatedTo;háj;les;1.0
+RelatedTo;les;mab;1.0
+RelatedTo;les;monoclonal antibody;1.0
+RelatedTo;leraar;les;1.0
+RelatedTo;levels;level;2.82842712474619
+RelatedTo;level;even;2.4947945807220275
+RelatedTo;rank;level;2.4795160818191917
+RelatedTo;level;flat;2.109976303184469
+FormOf;levels;level;2.0
+HasContext;A level;England;2.0
+IsA;a level;a tool;2.0
+IsA;level;altitude;2.0
+IsA;A level;grade;2.0
+IsA;level;indicator;2.0
+IsA;level;place;2.0
+IsA;mason's level;level;2.0
+MannerOf;bulldoze;level;2.0
+MannerOf;level;aim;2.0
+MannerOf;level;change surface;2.0
+MannerOf;level;destroy;2.0
+MannerOf;level;talk;2.0
+PartOf;level;carpenter's level;2.0
+PartOf;level;surveyor's level;2.0
+RelatedTo;izravnati;level;2.0
+MotivatedByGoal;buy presents for others;you like them;4.47213595499958
+RelatedTo;like;love;3.3244548425268166
+RelatedTo;servant;like;2.981274895074254
+Causes;watching a film;you like it;2.82842712474619
+MotivatedByGoal;entertain someone;you like them;2.82842712474619
+RelatedTo;like;similar;2.8064212085857676
+RelatedTo;love;like;2.787113201863175
+RelatedTo;squirrel;like;2.6922109872742146
+RelatedTo;chicken;like;2.4568272222523095
+RelatedTo;enjoy;like;2.3596609926004195
+RelatedTo;mist;like;2.1972710347155626
+Causes;please;like;2.0
+Entails;enjoy;like;2.0
+Entails;fancy;like;2.0
+Entails;like;approve;2.0
+FormOf;likes;like;2.0
+HasSubevent;like someone;smile;2.0
+IsA;the like;kind;2.0
+MannerOf;care for;like;2.0
+MannerOf;cotton;like;2.0
+RelatedTo;limit;speed;3.398234835911138
+RelatedTo;limit;maximum;2.795711000801049
+RelatedTo;limit;boundary;2.053290042833696
+IsA;city limit;limit;2.0
+IsA;cutoff;limit;2.0
+IsA;edge;limit;2.0
+IsA;extremum;limit;2.0
+IsA;knife-edge;limit;2.0
+IsA;limit;boundary;2.0
+IsA;limit;extent;2.0
+IsA;limit;extremity;2.0
+IsA;limit;indefinite quantity;2.0
+IsA;lower limit;limit;2.0
+IsA;maximum;limit;2.0
+IsA;minimum;limit;2.0
+IsA;range;limit;2.0
+IsA;starkness;limit;2.0
+IsA;thermal barrier;limit;2.0
+IsA;three-mile limit;limit;2.0
+IsA;upper limit;limit;2.0
+RelatedTo;little;small;5.307353389402293
+RelatedTo;little;tiny;3.5355339059327378
+Synonym;pequeño;little a ;3.4641016151377544
+Synonym;pikku;little;3.4641016151377544
+Synonym;petit;little a ;3.4641016151377544
+Synonym;poco;a little;3.4641016151377544
+Synonym;sedikit;a little;3.4641016151377544
+RelatedTo;baby;little;3.084801452281816
+DistinctFrom;little;big;2.9387071987525397
+RelatedTo;bit;little;2.919589012172775
+Antonym;much;little;2.8411265371327623
+RelatedTo;doll;little;2.7188232748746284
+RelatedTo;few;little;2.6457513110645907
+RelatedTo;little;size;2.4811287753762397
+RelatedTo;children;little;2.3004347415216975
+RelatedTo;chick;little;2.1633307652783937
+RelatedTo;child;little;2.1033306920215846
+Antonym;little;big;2.0
+Antonym;little;lot of;2.0
+Antonym;little;much;2.0
+RelatedTo;ll;will;2.0
+Synonym;ll;ll;2.0
+Synonym;ランゲージ ラボラトリー;ll;2.0
+Synonym;ランゲージラボラトリー;ll;2.0
+DerivedFrom;he’ll;ll;1.0
+DerivedFrom;i’ll;ll;1.0
+DerivedFrom;it’ll;ll;1.0
+DerivedFrom;she’ll;ll;1.0
+DerivedFrom;they’ll;ll;1.0
+DerivedFrom;we’ll;ll;1.0
+DerivedFrom;you’ll;ll;1.0
+FormOf;ll;will;1.0
+HasContext;ll;legal;1.0
+HasContext;ll;military;1.0
+HasContext;ll;sports;1.0
+HasContext;ll;us;1.0
+HasContext;ll;marking future tense;1.0
+RelatedTo;d;ll;1.0
+RelatedTo;ll;lines;1.0
+RelatedTo;ll;lucky loser;1.0
+Synonym;土地の人;locals;2.0
+FormOf;locals;local;1.0
+RelatedTo;locals;local;1.0
+Synonym;gens du cru;locals;1.0
+ExternalURL;locals;locals;0.25
+ExternalURL;locals;locals;0.25
+RelatedTo;native;locals;0.16999999999999993
+AtLocation;insects;a log;2.0
+HasContext;log;airplane;2.0
+HasContext;log;ship;2.0
+IsA;harpoon log;log;2.0
+IsA;log;measuring instrument;2.0
+IsA;log;written record;2.0
+IsA;nurse log;log;2.0
+IsA;patent log;log;2.0
+IsA;saw log;log;2.0
+MannerOf;log;fell;2.0
+MannerOf;log;record;2.0
+PartOf;log line;log;2.0
+PartOf;log;ship;2.0
+RelatedTo;balvan;log;2.0
+RelatedTo;jošić;log;2.0
+RelatedTo;klada;log;2.0
+RelatedTo;trupac;log;2.0
+Synonym;tronc;log;2.0
+Synonym;log;logarithm;2.0
+Synonym;lumber;log;2.0
+IsA;london;a city;5.291502622129181
+AtLocation;a subway station;London;4.0
+AtLocation;a telephone box;London;4.0
+AtLocation;a pub;London;3.4641016151377544
+AtLocation;a rented flat;London;3.4641016151377544
+IsA;London;a city in England;3.4641016151377544
+Synonym;Grande Londres;London;3.4641016151377544
+AtLocation;Westminster Abbey;London;3.16227766016838
+RelatedTo;capital;london;2.895513771336617
+AtLocation;a cafe;London;2.82842712474619
+AtLocation;a gallery;London;2.82842712474619
+AtLocation;a large city shopping mall;london;2.82842712474619
+AtLocation;a telephone booth;London;2.82842712474619
+AtLocation;an underground map;London;2.82842712474619
+DefinedAs;London;capital city of England;2.82842712474619
+IsA;London;a place name;2.82842712474619
+AtLocation;a flat;London;2.0
+AtLocation;a tearoom;London;2.0
+HasProperty;The capital of United Kingdom;London;2.0
+PartOf;Big Ben;London;2.0
+RelatedTo;dress;long;4.759411728354672
+RelatedTo;ago;long;4.219952606368939
+RelatedTo;rifle;long;3.862641583165594
+RelatedTo;hall;long;3.6813041167499323
+RelatedTo;far;long;3.4542727165063276
+RelatedTo;rabbit;long;3.4455768747772844
+RelatedTo;river;long;2.8220559881051264
+RelatedTo;stick;long;2.5067907770693587
+Antonym;long;short;2.2934689882359436
+RelatedTo;squirrel;long;2.2045407685048604
+HasContext;long;finance;2.0
+HasContext;long;phonetics;2.0
+RelatedTo;bugarštica;long;2.0
+RelatedTo;čeznuti;long;2.0
+RelatedTo;daleko;long;2.0
+RelatedTo;dugačak;long;2.0
+RelatedTo;dug;long;2.0
+RelatedTo;dugo;long;2.0
+RelatedTo;ginuti;long;2.0
+RelatedTo;mnogi;long;2.0
+RelatedTo;look;see;5.707889277132134
+RelatedTo;view;look;4.325736931437232
+HasPrerequisite;examine a thing;look;3.4641016151377544
+RelatedTo;look;glance;2.864960732715198
+RelatedTo;look;eyes;2.80713376952364
+RelatedTo;watch;look;2.777048793233565
+RelatedTo;see;look;2.7683930356797246
+RelatedTo;observe;look;2.6713292571302407
+RelatedTo;look;seeing;2.655560204551951
+RelatedTo;look;view;2.064945519862449
+RelatedTo;window;look;2.011964214393487
+Entails;examine;look;2.0
+Entails;look;see;2.0
+Entails;survey;look;2.0
+Entails;watch;look;2.0
+HasSubevent;finding a lost item;look;2.0
+IsA;dekko;look;2.0
+IsA;evil eye;look;2.0
+IsA;glance;look;2.0
+IsA;look;appearance;2.0
+RelatedTo;beauty;looks;2.8014282071829006
+Synonym;ルックス;looks;2.0
+Synonym;人体;looks;2.0
+Synonym;人相;looks;2.0
+Synonym;俤;looks;2.0
+Synonym;器量;looks;2.0
+Synonym;容ぼう;looks;2.0
+Synonym;容色;looks;2.0
+Synonym;容貌;looks;2.0
+Synonym;容顔;looks;2.0
+Synonym;形容;looks;2.0
+Synonym;気色;looks;2.0
+Synonym;目鼻立;looks;2.0
+Synonym;目鼻立ち;looks;2.0
+Synonym;相貌;looks;2.0
+Synonym;眉目;looks;2.0
+Synonym;縹緻;looks;2.0
+Synonym;血相;looks;2.0
+Synonym;見目;looks;2.0
+Synonym;見目形;looks;2.0
+CausesDesire;Love;kiss someone;9.38083151964686
+CausesDesire;love;propose to a woman;7.483314773547882
+IsA;love;a feeling;7.211102550927979
+CausesDesire;Love;forgive someone;6.928203230275509
+MotivatedByGoal;propose to a woman;you love her;6.928203230275509
+AtLocation;a human;love;5.291502622129181
+Causes;love;having sex;4.898979485566356
+RelatedTo;love;emotion;4.848917404947211
+AtLocation;love;a family;4.47213595499958
+CapableOf;love;hurt;4.47213595499958
+MotivatedByGoal;kiss your boyfriend;you love her;4.47213595499958
+AtLocation;love;marriage;4.0
+CausesDesire;Love;feed your family;4.0
+CausesDesire;love;sing;4.0
+MotivatedByGoal;feed your family;i love them;4.0
+UsedFor;kissing someone;love;4.0
+RelatedTo;love;feeling;3.6954025491142373
+RelatedTo;care;love;3.595552808679077
+HasSubevent;love someone;kiss them;3.4641016151377544
+IsA;God;Love;3.4641016151377544
+SimilarTo;humorous;ludicrous;2.0
+SimilarTo;ludicrous;humorous;2.0
+Synonym;absurd;ludicrous;2.0
+Synonym;grotesc;ludicrous;2.0
+Synonym;irrisori;ludicrous;2.0
+Synonym;ridícul;ludicrous;2.0
+Synonym;farcical;ludicrous;2.0
+Synonym;ludicrous;laughable;2.0
+Synonym;ludicrous;preposterous;2.0
+Synonym;ridiculous;ludicrous;2.0
+Synonym;absurdo;ludicrous;2.0
+Synonym;grotesco;ludicrous;2.0
+Synonym;ridículo;ludicrous;2.0
+Synonym;absurdi;ludicrous;2.0
+Synonym;järjetön;ludicrous;2.0
+Synonym;naurettava;ludicrous;2.0
+Synonym;ridicule;ludicrous;2.0
+Synonym;ridículo;ludicrous;2.0
+Synonym;可笑しい;ludicrous;2.0
+Synonym;可笑しげ;ludicrous;2.0
+RelatedTo;izbezumljen;mad;2.0
+RelatedTo;izljutiti;mad;2.0
+RelatedTo;ljutiti;mad;2.0
+RelatedTo;naljutiti;mad;2.0
+RelatedTo;razljutiti;mad;2.0
+Synonym;angry;mad;2.0
+Synonym;mad;brainsick;2.0
+Synonym;mad;delirious;2.0
+Synonym;mad;harebrained;2.0
+Synonym;mad;huffy;2.0
+Synonym;マッド;mad;2.0
+Synonym;正気の沙汰ではない;mad;2.0
+Synonym;気が変;mad;2.0
+Synonym;無暴;mad;2.0
+Synonym;無謀;mad;2.0
+Synonym;物狂;mad;2.0
+Synonym;頭が変;mad;2.0
+RelatedTo;anger;mad;1.0550000000000002
+DerivedFrom;mad;mad lib;1.0
+DerivedFrom;madsome;mad;1.0
+RelatedTo;make;create;5.134978091481988
+RelatedTo;manufacture;make;4.144876355212541
+RelatedTo;offer;make;3.6260170986910687
+RelatedTo;produce;make;3.4356949806407435
+RelatedTo;build;make;3.123459620356888
+RelatedTo;polish;make;2.611512971440119
+RelatedTo;decide;make;2.4314604664686605
+RelatedTo;profit;make;2.3782346393911595
+RelatedTo;reduce;make;2.09666401695646
+RelatedTo;draw;make;2.0909328061896204
+RelatedTo;make;construct;2.014944167960989
+HasContext;make;arithmetic;2.0
+MannerOf;arouse;make;2.0
+MannerOf;assemble;make;2.0
+MannerOf;bear;make;2.0
+MannerOf;beat;make;2.0
+MannerOf;beget;make;2.0
+MannerOf;blast;make;2.0
+MannerOf;bring about;make;2.0
+MannerOf;bring;make;2.0
+Synonym;Manson;Sir Patrick Manson;2.0
+DerivedFrom;manson;son;1.0
+DerivedFrom;mansonite;manson;1.0
+IsA;Manson;a criminal who received punishment;1.0
+EtymologicallyRelatedTo;manson;magnusson;0.25
+ExternalURL;manson;Manson;0.25
+FormOf;marilyns;marilyn;1.0
+HasContext;marilyn;uk;1.0
+RelatedTo;marilyn;hill;1.0
+RelatedTo;marilyn;mountain;1.0
+RelatedTo;marylyn;marilyn;1.0
+RelatedTo;mary;marilyn;1.0
+EtymologicallyRelatedTo;marilyn;munro;0.25
+ExternalURL;marilyn;Marilyn;0.25
+FormOf;martins;martin;2.0
+IsA;bank martin;martin;2.0
+IsA;house martin;martin;2.0
+IsA;martin;swallow;2.0
+IsA;purple martin;martin;2.0
+RelatedTo;martins;martin;2.0
+Synonym;avió;martin;2.0
+Synonym;falcillot;martin;2.0
+Synonym;Martin;Dino Paul Crocetti;2.0
+Synonym;Martin;Mary Martin;2.0
+Synonym;Martin;Steve Martin;2.0
+Synonym;Martin;St. Martin;2.0
+Synonym;avión;martin;2.0
+Synonym;enara;martin;2.0
+Synonym;pääsky;martin;2.0
+Synonym;martinet;martin;2.0
+Synonym;martin;martin;2.0
+Synonym;vencello;martin;2.0
+Synonym;balestruccio;martin;2.0
+Synonym;燕;martin;2.0
+FormOf;marys;mary;2.0
+RelatedTo;marys;mary;2.0
+Synonym;Mary;Blessed Virgin;2.0
+Synonym;mary;marija;2.0
+Synonym;マリア;mary;2.0
+Synonym;マリア;mary;2.0
+CapableOf;Mary;dance alone;1.0
+CapableOf;mary;hand the book to charlie;1.0
+CapableOf;Mary;return home to sleep;1.0
+CapableOf;mary;state facts to bob;1.0
+CapableOf;Mary;train to be a nurse;1.0
+CapableOf;mary;visit me more often;1.0
+CapableOf;Mary;will money to her family;1.0
+DefinedAs;Mary;name of a female;1.0
+DerivedFrom;mary;mary ann;1.0
+DerivedFrom;mary;maryann;1.0
+DerivedFrom;mary;mary magdalene;1.0
+Desires;mary;sex;1.0
+EtymologicallyDerivedFrom;mary;מרים;1.0
+EtymologicallyDerivedFrom;mary;marie;1.0
+RelatedTo;size;medium;3.5440090293338704
+IsA;Film;a medium;2.82842712474619
+RelatedTo;paint;medium;2.2821042920953456
+CapableOf;A medium;read tarot cards;2.0
+HasContext;ban;medium;2.0
+HasContext;medium;biology;2.0
+IsA;air;medium;2.0
+IsA;album;medium;2.0
+IsA;broadcast medium;medium;2.0
+IsA;A CD;a medium;2.0
+IsA;cold medium;medium;2.0
+IsA;contrast medium;medium;2.0
+IsA;ether;medium;2.0
+IsA;film;medium;2.0
+IsA;hot medium;medium;2.0
+IsA;medium;communication;2.0
+IsA;medium;environment;2.0
+IsA;medium;instrumentality;2.0
+IsA;medium;liquid;2.0
+IsA;medium;psychic;2.0
+EtymologicallyDerivedFrom;menace;minacia;2.0
+IsA;menace;danger;2.0
+IsA;menace;threat;2.0
+IsA;yellow peril;menace;2.0
+MannerOf;menace;act;2.0
+MannerOf;menace;express;2.0
+RelatedTo;pretiti;menace;2.0
+RelatedTo;prijetiti;menace;2.0
+Synonym;amenaça;menace;2.0
+Synonym;trussel;menace;2.0
+Synonym;menace;endanger;2.0
+Synonym;threat;menace;2.0
+Synonym;amenaza;menace;2.0
+Synonym;mehatxu;menace;2.0
+Synonym;تهدید;menace;2.0
+Synonym;تهدیدکردن;menace;2.0
+Synonym;uhata;menace;2.0
+Synonym;uhka;menace;2.0
+Synonym;menace;menace;2.0
+Synonym;menace;menace;2.0
+HasContext;Michael;Old Testament;2.0
+IsA;Michael;archangel;2.0
+RelatedTo;michaels;michael;2.0
+Synonym;ميشال;Michael;2.0
+Synonym;michael;mihajlo;2.0
+Synonym;michael;mihovil;2.0
+Synonym;Miguel;Michael;2.0
+Synonym;Mikael;Michael;2.0
+Synonym;Forever;Michael;2.0
+Synonym;Michaël;Michael;2.0
+Synonym;Michel;Michael;2.0
+Synonym;Michael;Michael;2.0
+Synonym;Mikael;Michael;2.0
+Synonym;Mikail;Michael;2.0
+Synonym;Mikhael;Michael;2.0
+Synonym;Arcanjo;Michael;2.0
+Synonym;Maicol;Michael;2.0
+Synonym;Michael;Michael;2.0
+Synonym;Miguel;Michael;2.0
+Synonym;มิคาเอล;Michael;2.0
+RelatedTo;mid;amid;2.82842712474619
+RelatedTo;after school special;mid;2.0
+SimilarTo;mid;middle;2.0
+SimilarTo;middle;mid;2.0
+DerivedFrom;mid air;mid;1.0
+DerivedFrom;midmost;mid;1.0
+DerivedFrom;mid season;mid;1.0
+DerivedFrom;midward;mid;1.0
+DerivedFrom;mid winter;mid;1.0
+ExternalURL;mid;300819893-s;1.0
+FormOf;mids;mid;1.0
+HasContext;mid;linguistics;1.0
+HasContext;mid;computing;1.0
+RelatedTo;midd;mid;1.0
+RelatedTo;middel;mid;1.0
+RelatedTo;mitjan;mid;1.0
+RelatedTo;půl;mid;1.0
+RelatedTo;mittelozeanisch;mid;1.0
+RelatedTo;μέσοσ;mid;1.0
+RelatedTo;hi;mid;1.0
+Synonym;マーケティング 情報 システム;mis;2.0
+Synonym;経営情報 システム;mis;2.0
+EtymologicallyDerivedFrom;mis;mis;1.0
+EtymologicallyDerivedFrom;mis;mis;1.0
+EtymologicallyDerivedFrom;mis;mis;1.0
+HasContext;mis;par extension;1.0
+RelatedTo;un;mis;1.0
+RelatedTo;অ;mis;1.0
+RelatedTo;fejl;mis;1.0
+RelatedTo;mis;mis;1.0
+RelatedTo;van;mis;1.0
+RelatedTo;miss;mis;1.0
+RelatedTo;mal;mis;1.0
+RelatedTo;mis;bad;1.0
+RelatedTo;mis;badly;1.0
+RelatedTo;mis;failure;1.0
+RelatedTo;mis;in error;1.0
+RelatedTo;mis;lack;1.0
+RelatedTo;mis;mal;1.0
+RelatedTo;mis;miso;1.0
+Synonym;Moore;Douglas Moore;2.0
+Synonym;Moore;Dudley Stuart John Moore;2.0
+Synonym;Moore;George Edward Moore;2.0
+Synonym;Moore;Henry Spencer Moore;2.0
+Synonym;Moore;Marianne Craig Moore;2.0
+Synonym;Moore;Thomas Moore;2.0
+EtymologicallyDerivedFrom;摩爾;moore;1.0
+HasContext;moore;localités;1.0
+RelatedTo;moore;english;1.0
+RelatedTo;moore;irish;1.0
+RelatedTo;moore;moor;1.0
+RelatedTo;moore;place name;1.0
+RelatedTo;moore;surname;1.0
+RelatedTo;moore;toponymic;1.0
+RelatedTo;moore;paroisse civile;1.0
+Synonym;moore;moore;1.0
+ExternalURL;moore;Moore;0.25
+ExternalURL;moore;Moore;0.25
+AtLocation;teeth;your mouth;8.717797887081348
+AtLocation;your tongue;your mouth;7.211102550927979
+RelatedTo;lip;mouth;6.605452293370984
+RelatedTo;taste;mouth;5.901864112295369
+AtLocation;a tooth;your mouth;5.291502622129181
+HasA;A mouth;lips;4.898979485566356
+RelatedTo;napkin;mouth;4.8398347079213355
+AtLocation;your tounge;your mouth;4.47213595499958
+RelatedTo;smile;mouth;4.303486958270004
+RelatedTo;mouth;face;4.187600745056768
+AtLocation;saliva;your mouth;4.0
+UsedFor;A mouth;talking;4.0
+RelatedTo;mouth;lips;3.971901307938051
+RelatedTo;mouth;teeth;3.8257025498593062
+HasPrerequisite;eating vegetables;A mouth;3.4641016151377544
+UsedFor;a mouth;eating;3.4641016151377544
+RelatedTo;voice;mouth;3.301514803843836
+RelatedTo;mouth;part;3.15150757574847
+RelatedTo;mouth;eating;3.148968084944654
+RelatedTo;jaw;mouth;3.1336879231984796
+HasProperty;Music;soothing;7.211102550927979
+RelatedTo;music;notes;6.847189204337791
+Causes;playing the violin;music;6.32455532033676
+HasProperty;some music;relaxing;6.0
+RelatedTo;music;melody;5.277878361614636
+RelatedTo;music;art;5.127182462132589
+AtLocation;music;the opera;4.47213595499958
+CapableOf;Music;sound good;4.47213595499958
+Causes;playing the piano;music;4.47213595499958
+CausesDesire;music;dance;4.47213595499958
+RelatedTo;music;song;4.325736931437232
+RelatedTo;music;songs;4.187600745056768
+UsedFor;music;pleasure;4.0
+RelatedTo;music;noise;3.8940980984048146
+RelatedTo;music;instruments;3.7810051573622587
+RelatedTo;music;listening;3.732023579775456
+Causes;playing a harp;music;3.4641016151377544
+ReceivesAction;music;composed;3.4641016151377544
+RelatedTo;music;tune;3.3555923471125038
+RelatedTo;music;radio;3.1553129797216624
+DerivedFrom;mysteriously;mysterious;2.0
+DerivedFrom;mysteriousness;mysterious;2.0
+RelatedTo;mysterious;mystery;2.0
+RelatedTo;mystify;mysterious;2.0
+RelatedTo;enigmatičan;mysterious;2.0
+RelatedTo;misteriozan;mysterious;2.0
+RelatedTo;skrovit;mysterious;2.0
+RelatedTo;tajanstven;mysterious;2.0
+RelatedTo;tajnovit;mysterious;2.0
+SimilarTo;esoteric;mysterious;2.0
+SimilarTo;mysterious;esoteric;2.0
+Synonym;mysterious;inscrutable;2.0
+Synonym;mysterious;tajanstven;2.0
+Synonym;mysterious;zagonetan;2.0
+Synonym;mystic;mysterious;2.0
+Synonym;mystical;mysterious;2.0
+Synonym;occult;mysterious;2.0
+Synonym;orphic;mysterious;2.0
+Synonym;secret;mysterious;2.0
+Synonym;misterioso;mysterious;2.0
+Synonym;名前付き;named;2.0
+Synonym;と言う;named;2.0
+Antonym;named;unnamed;1.0
+Antonym;unnamed;named;1.0
+DerivedFrom;forenamed;named;1.0
+DerivedFrom;undernamed;named;1.0
+DerivedFrom;unnamed;named;1.0
+FormOf;named;name;1.0
+FormOf;named;name;1.0
+IsA;formally named;named;1.0
+IsA;informally named;named;1.0
+RelatedTo;تسمى;named;1.0
+RelatedTo;pojmenovaný;named;1.0
+RelatedTo;slout;named;1.0
+RelatedTo;именитъ;named;1.0
+RelatedTo;genannt;named;1.0
+RelatedTo;heissen;named;1.0
+RelatedTo;namens;named;1.0
+RelatedTo;nennen;named;1.0
+RelatedTo;αγιώνυμοσ;named;1.0
+Synonym;almost;nearly;2.82842712474619
+Synonym;nearly;almost;2.82842712474619
+RelatedTo;almost;nearly;2.218107301281883
+RelatedTo;bezmalo;nearly;2.0
+RelatedTo;blisko;nearly;2.0
+Synonym;closely;nearly;2.0
+Synonym;intimately;nearly;2.0
+Synonym;nearly;virtually;2.0
+Synonym;nearly;skoro;2.0
+Synonym;läheisesti;nearly;2.0
+Synonym;tiukasti;nearly;2.0
+Synonym;étroitement;nearly;2.0
+Synonym;presque;nearly;2.0
+Synonym;moltissimo;nearly;2.0
+Synonym;stretto;nearly;2.0
+Synonym;そうになった;nearly;2.0
+Synonym;八九分;nearly;2.0
+Synonym;前後;nearly;2.0
+Synonym;危うく;nearly;2.0
+Synonym;危なく;nearly;2.0
+RelatedTo;namiriti;needs;2.0
+Synonym;needs;of necessity;2.0
+Synonym;ニーズ;needs;2.0
+CausesDesire;needs;design software;1.0
+FormOf;needs;need;1.0
+FormOf;needs;need;1.0
+FormOf;needs;need;1.0
+FormOf;needs;need;1.0
+RelatedTo;حوائج;needs;1.0
+RelatedTo;bedarf;needs;1.0
+RelatedTo;handicapitalism;needs;1.0
+RelatedTo;kindergarchy;needs;1.0
+RelatedTo;must needs;needs;1.0
+RelatedTo;needer;needs;1.0
+RelatedTo;needs;need;1.0
+RelatedTo;needs;indispensably;1.0
+RelatedTo;needs;must;1.0
+RelatedTo;needs;necessarily;1.0
+RelatedTo;needs;necessity;1.0
+RelatedTo;needs;need;1.0
+NotDesires;a person;be nervous;2.0
+RelatedTo;nervous;nerve;2.0
+RelatedTo;nervozan;nervous;2.0
+RelatedTo;živčan;nervous;2.0
+SimilarTo;nervous;tense;2.0
+SimilarTo;tense;nervous;2.0
+Synonym;nerviós;nervous;2.0
+Synonym;ængstelig;nervous;2.0
+Synonym;nervøs;nervous;2.0
+Synonym;nervous;aflutter;2.0
+Synonym;nervous;queasy;2.0
+Synonym;nervous;skittish;2.0
+Synonym;neural;nervous;2.0
+Synonym;nervioso;nervous;2.0
+Synonym;neural;nervous;2.0
+Synonym;hermo-;nervous;2.0
+Synonym;neuraalinen;nervous;2.0
+Synonym;nerveux;nervous;2.0
+Synonym;nervoso;nervous;2.0
+Synonym;ナーバス;nervous;2.0
+RelatedTo;city;new;3.056795707926848
+RelatedTo;modern;new;2.8078461496314215
+DistinctFrom;new;old;2.6076809620810595
+RelatedTo;baby;new;2.52744930710786
+RelatedTo;fresh;new;2.4657656011875906
+Antonym;new;old;2.0
+Antonym;used;new;2.0
+HasContext;New;linguistics;2.0
+RelatedTo;current;new;2.0
+RelatedTo;fresh;new;2.0
+RelatedTo;modern;new;2.0
+RelatedTo;new;current;2.0
+RelatedTo;new;fresh;2.0
+RelatedTo;new;modern;2.0
+RelatedTo;young;new;2.0
+RelatedTo;nuovo;new;2.0
+RelatedTo;nov;new;2.0
+SimilarTo;fresh;new;2.0
+SimilarTo;inexperienced;new;2.0
+SimilarTo;late;New;2.0
+IsA;a novel;a book;4.0
+Synonym;Romance;novel;3.4641016151377544
+RelatedTo;book;novel;3.2930229273419886
+RelatedTo;story;novel;3.1830802691732423
+IsA;A novel;a story;2.82842712474619
+RelatedTo;novel;book;2.2458851261807666
+AtLocation;a novel;a bookstore;2.0
+IsA;detective novel;novel;2.0
+IsA;dime novel;novel;2.0
+IsA;manga;novel;2.0
+IsA;novelette;novel;2.0
+IsA;novel;book;2.0
+IsA;novel;fiction;2.0
+IsA;romance;novel;2.0
+IsA;roman a clef;novel;2.0
+IsA;roman fleuve;novel;2.0
+RelatedTo;nov;novel;2.0
+RelatedTo;roman;novel;2.0
+Synonym;رِوَايّة;novel;2.0
+Synonym;novel·la;novel;2.0
+Synonym;Ímpar;odd;3.4641016151377544
+DistinctFrom;even;odd;2.4947945807220275
+Antonym;odd;even;2.0
+RelatedTo;čudan;odd;2.0
+RelatedTo;nastran;odd;2.0
+RelatedTo;neobičan;odd;2.0
+RelatedTo;neparan;odd;2.0
+SimilarTo;inexact;odd;2.0
+SimilarTo;odd;inexact;2.0
+SimilarTo;odd;unusual;2.0
+SimilarTo;unusual;odd;2.0
+Synonym;فَرْدِي;odd;2.0
+Synonym;estrany;odd;2.0
+Synonym;rar;odd;2.0
+Synonym;ejendommelig;odd;2.0
+Synonym;odd;funny;2.0
+Synonym;odd;left over;2.0
+Synonym;odd;unmatched;2.0
+Synonym;uneven;odd;2.0
+Synonym;impar;odd;2.0
+ReceivesAction;a door;opened;4.0
+ReceivesAction;emacs;opened;2.0
+ReceivesAction;a window;opened;2.0
+RelatedTo;otvoren;opened;2.0
+SimilarTo;open;opened;2.0
+SimilarTo;opened;open;2.0
+SimilarTo;opened;unsealed;2.0
+SimilarTo;unsealed;opened;2.0
+Synonym;open;opened;2.0
+Synonym;opened;open;2.0
+ExternalURL;opened;301657577-s;1.0
+ExternalURL;opened;302094323-s;1.0
+FormOf;opened;open;1.0
+ReceivesAction;Books;opened;1.0
+ReceivesAction;cabinets;opened;1.0
+ReceivesAction;something closed;opened;1.0
+ReceivesAction;a desk tray;opened;1.0
+ReceivesAction;Windows and doors usually;opened;1.0
+ReceivesAction;Some windows;opened;1.0
+RelatedTo;on latch;opened;1.0
+IsA;opium;controlled substance;2.0
+RelatedTo;opijum;opium;2.0
+Synonym;أَفْيُون;opium;2.0
+Synonym;opi;opium;2.0
+Synonym;opium;opijum;2.0
+Synonym;opio;opium;2.0
+Synonym;opio;opium;2.0
+Synonym;افیون;opium;2.0
+Synonym;تریاک;opium;2.0
+Synonym;oopiumi;opium;2.0
+Synonym;opium;opium;2.0
+Synonym;opio;opium;2.0
+Synonym;oppio;opium;2.0
+Synonym;オピウム;opium;2.0
+Synonym;アヘン;opium;2.0
+Synonym;アヘン剤;opium;2.0
+Synonym;痲薬;opium;2.0
+Synonym;阿片;opium;2.0
+Synonym;阿片;opium;2.0
+Synonym;鴉片;opium;2.0
+Synonym;Arquetipo;original;3.4641016151377544
+RelatedTo;colony;original;2.738612787525831
+RelatedTo;copy;original;2.248555091608832
+RelatedTo;native;original;2.0678491240900527
+Antonym;copy;original;2.0
+IsA;original;model;2.0
+RelatedTo;creative;original;2.0
+RelatedTo;first;original;2.0
+RelatedTo;original;creative;2.0
+RelatedTo;original;first;2.0
+RelatedTo;original;primary;2.0
+RelatedTo;original;unconventional;2.0
+RelatedTo;originally;original;2.0
+RelatedTo;primary;original;2.0
+RelatedTo;unconventional;original;2.0
+RelatedTo;izvorni;original;2.0
+RelatedTo;originalan;original;2.0
+RelatedTo;original;original;2.0
+SimilarTo;daring;original;2.0
+SimilarTo;first;original;2.0
+FormOf;oscars;oscar;2.0
+Synonym;Oscar;Academy Award;2.0
+Synonym;oscar;oskar;2.0
+Synonym;オスカー;oscar;2.0
+DerivedFrom;oscar bait;oscar;1.0
+DerivedFrom;oscar grouch;oscar;1.0
+DerivedFrom;oscarworthy;oscar;1.0
+EtymologicallyDerivedFrom;oskar;oscar;1.0
+EtymologicallyDerivedFrom;oskar;oscar;1.0
+EtymologicallyDerivedFrom;oskar;oscar;1.0
+EtymologicallyDerivedFrom;oscar;os;1.0
+EtymologicallyDerivedFrom;oscar;oscar;1.0
+EtymologicallyDerivedFrom;oskar;oscar;1.0
+EtymologicallyDerivedFrom;oskar;oscar;1.0
+EtymologicallyDerivedFrom;オスカー;oscar;1.0
+EtymologicallyDerivedFrom;oskar;oscar;1.0
+EtymologicallyDerivedFrom;oscar;oscar;1.0
+EtymologicallyDerivedFrom;oskar;oscar;1.0
+ExternalURL;oscar;Oscar (fish);1.0
+ExternalURL;oscar;Oscar (footballer, born 1954);1.0
+RelatedTo;book;pages;6.725473960993382
+PartOf;pages;book;2.82842712474619
+HasA;A book;pages;2.0
+HasA;Books;pages;2.0
+RelatedTo;paper;pages;1.968
+RelatedTo;reading;pages;1.1909999999999998
+AtLocation;a notepad;pages;1.0
+ExternalURL;pages;Pages (word processor);1.0
+ExternalURL;pages;Q756852;1.0
+FormOf;pages;page;1.0
+FormOf;pages;page;1.0
+FormOf;pages;page;1.0
+HasA;All books;pages;1.0
+HasA;An appointment book;pages;1.0
+HasA;a calendar pad;pages;1.0
+HasA;A journal;pages;1.0
+HasA;A magazine;pages;1.0
+HasA;Menus;pages;1.0
+HasA;news papers;pages;1.0
+ReceivesAction;pages;found in a book;1.0
+ExternalURL;pales;Pales;1.0
+ExternalURL;pales;Q654604;1.0
+FormOf;pales;pale;1.0
+FormOf;pales;pale;1.0
+HasContext;pales;astronomy;1.0
+HasContext;pales;roman god;1.0
+RelatedTo;pales;asteroid;1.0
+RelatedTo;pales;deity;1.0
+RelatedTo;pales;flock;1.0
+RelatedTo;pales;livestock;1.0
+RelatedTo;pales;shepherd;1.0
+Synonym;pales;pales;0.5
+Synonym;pales;pales;0.5
+Synonym;pales;pales;0.5
+Synonym;pales;pales;0.5
+Synonym;paleso;pales;0.5
+Synonym;pales;pales;0.5
+Synonym;pales;pales;0.5
+Synonym;palès;pales;0.5
+Synonym;pale;pales;0.5
+Synonym;仔細;particulars;2.0
+Synonym;古事来歴;particulars;2.0
+Synonym;委細;particulars;2.0
+Synonym;子細;particulars;2.0
+Synonym;巨細;particulars;2.0
+Synonym;故事来歴;particulars;2.0
+Synonym;明細;particulars;2.0
+Synonym;細目;particulars;2.0
+Synonym;経緯;particulars;2.0
+Synonym;詳報;particulars;2.0
+Synonym;詳細;particulars;2.0
+FormOf;particulars;particular;1.0
+RelatedTo;كيفية;particulars;1.0
+RelatedTo;aparithmesis;particulars;1.0
+RelatedTo;in detail;particulars;1.0
+RelatedTo;particularly;particulars;1.0
+RelatedTo;particulars;details;1.0
+RelatedTo;particulars;particular;1.0
+RelatedTo;particulars;specifics;1.0
+RelatedTo;specific;particulars;1.0
+RelatedTo;history;past;7.177743377970545
+RelatedTo;ago;past;4.260046948098108
+Synonym;الماضِي;past;3.4641016151377544
+RelatedTo;memory;past;2.7655017627909766
+DistinctFrom;past;future;2.729835159858558
+RelatedTo;past;time;2.3849528297222147
+RelatedTo;past;history;2.3443549219348165
+Antonym;future;past;2.2054478003344355
+RelatedTo;beyond;past;2.1484878403193255
+RelatedTo;recent;past;2.121320343559642
+DistinctFrom;future;past;2.109976303184469
+RelatedTo;past;before;2.065913841378677
+DistinctFrom;present;past;2.0552372125864213
+IsA;auld langsyne;past;2.0
+IsA;bygone;past;2.0
+IsA;history;past;2.0
+IsA;old;past;2.0
+IsA;past;tense;2.0
+IsA;past;time;2.0
+IsA;past;time period;2.0
+RelatedTo;mountain;peaks;2.41909073827337
+FormOf;peaks;peak;2.0
+Synonym;峰峰;peaks;2.0
+FormOf;peaks;peak;1.0
+FormOf;peaks;peak;1.0
+HasA;Both tents and mountains;peaks;1.0
+RelatedTo;peaks;peak;1.0
+RelatedTo;peaks;peak;1.0
+RelatedTo;cresta;peaks;1.0
+ExternalURL;peaks;peaks;0.25
+ExternalURL;peaks;Peaks;0.25
+ExternalURL;peaks;peaks;0.25
+AtLocation;a performance;a theatre;3.4641016151377544
+Synonym;أدَاء;performance;3.4641016151377544
+RelatedTo;stage;performance;3.1830802691732423
+RelatedTo;play;performance;3.1698580409854316
+AtLocation;a performance;a show;2.0
+IsA;act;performance;2.0
+IsA;benefit;performance;2.0
+IsA;concert;performance;2.0
+IsA;dramatic production;performance;2.0
+IsA;encore;performance;2.0
+IsA;extemporization;performance;2.0
+IsA;juggle;performance;2.0
+IsA;linguistic performance;performance;2.0
+IsA;magic trick;performance;2.0
+IsA;mechanism;performance;2.0
+IsA;musical performance;performance;2.0
+IsA;officiation;performance;2.0
+IsA;one-night stand;performance;2.0
+IsA;overachievement;performance;2.0
+IsA;performance;accomplishment;2.0
+FormOf;peters;peter;2.0
+HasProperty;Peter;sick;2.0
+Synonym;Peter;Saint Peter the Apostle;2.0
+Synonym;peter;petar;2.0
+CapableOf;peter;throw a ball;1.0
+DerivedFrom;peter;peterloo;1.0
+EtymologicallyDerivedFrom;peter;petre;1.0
+EtymologicallyDerivedFrom;peter;πετροσ;1.0
+EtymologicallyDerivedFrom;peter;petrus;1.0
+EtymologicallyDerivedFrom;pika;peter;1.0
+EtymologicallyDerivedFrom;piteur;peter;1.0
+EtymologicallyDerivedFrom;питер;peter;1.0
+ExternalURL;peter;Peter (curopalates);1.0
+ExternalURL;peter;Q339658;1.0
+FormOf;petered;peter;1.0
+FormOf;petering;peter;1.0
+FormOf;peters;peter;1.0
+FormOf;peters;peter;1.0
+HasA;Peter;a toothache;1.0
+HasContext;peter;biblical;1.0
+RelatedTo;bed;place;8.361817984146748
+IsA;A college;a place;8.246211251235321
+RelatedTo;bar;place;8.210724693959724
+RelatedTo;farm;place;7.356357794452361
+RelatedTo;home;place;6.9033325285690825
+IsA;A city;a place;6.6332495807108
+RelatedTo;place;location;6.5473658825515475
+RelatedTo;school;place;6.123724356957943
+RelatedTo;put;place;5.57243214404626
+RelatedTo;market;place;5.405552700695831
+IsA;a bar;a place;5.291502622129181
+RelatedTo;garden;place;5.065175219081764
+RelatedTo;camp;place;4.983573015417754
+RelatedTo;bank;place;4.75562824451197
+RelatedTo;court;place;4.543126676640219
+IsA;a bed;a place;4.47213595499958
+RelatedTo;office;place;4.465870575822815
+RelatedTo;room;place;3.9673668849754744
+RelatedTo;stage;place;3.9115214431215897
+RelatedTo;grave;place;3.839270764090493
+IsA;Venus;a planet;9.38083151964686
+RelatedTo;earth;planet;7.979724306014589
+IsA;Mercury;the planet;6.0
+IsA;saturn;a planet;6.0
+AtLocation;a planet;outer space;5.656854249492381
+IsA;Jupiter;a planet;5.656854249492381
+IsA;Uranus;a planet;5.656854249492381
+IsA;A planet;a large object;5.291502622129181
+AtLocation;a planet;orbit;4.898979485566356
+AtLocation;a planet;the universe;4.898979485566356
+IsA;Mars;a planet;4.47213595499958
+UsedFor;a planet;live on;4.47213595499958
+RelatedTo;mercury;planet;4.125045454295019
+IsA;Neptune;a planet;4.0
+Synonym;Planeta;planet;3.4641016151377544
+AtLocation;a sky;a planet;2.82842712474619
+RelatedTo;moon;planet;2.551862065237853
+AtLocation;a planet;a galaxy;2.0
+AtLocation;a planet;outerspace;2.0
+AtLocation;a planet;space;2.0
+IsA;plenty;abundance;2.0
+RelatedTo;plentiful;plenty;2.0
+RelatedTo;dosta;plenty;2.0
+Synonym;amplitud;plenty;2.0
+Synonym;plenitud;plenty;2.0
+Synonym;plenitude;plenty;2.0
+Synonym;plenteousness;plenty;2.0
+Synonym;plentifulness;plenty;2.0
+Synonym;plentitude;plenty;2.0
+Synonym;plenty;batch;2.0
+Synonym;plenty;enough;2.0
+Synonym;plenitud;plenty;2.0
+Synonym;oparotasun;plenty;2.0
+Synonym;ugaritasun;plenty;2.0
+Synonym;فراوانی;plenty;2.0
+Synonym;کمال;plenty;2.0
+Synonym;paljous;plenty;2.0
+Synonym;runsaus;plenty;2.0
+Synonym;abondance;plenty;2.0
+Synonym;multitude;plenty;2.0
+RelatedTo;point;tip;6.383102693831582
+RelatedTo;point;dot;5.75534534150645
+RelatedTo;point;finger;5.532088213324153
+RelatedTo;point;sharp;4.281588490268536
+UsedFor;a finger;point;3.4641016151377544
+RelatedTo;point;pencil;3.2649655434629015
+RelatedTo;point;gesture;2.31862027939031
+RelatedTo;point;pencil tip;2.314303350902816
+RelatedTo;point;action;2.3047776465420693
+RelatedTo;point;period;2.2036333633342906
+RelatedTo;point;direction;2.127909772523262
+CapableOf;A finger;point;2.0
+HasContext;point;United Kingdom;2.0
+IsA;abutment;point;2.0
+IsA;advantage;point;2.0
+IsA;antinode;point;2.0
+IsA;arrival time;point;2.0
+IsA;arrowhead;point;2.0
+IsA;attractor;point;2.0
+IsA;barb;point;2.0
+CapableOf;the police;tail a suspect;3.4641016151377544
+Synonym;Polícia;police;3.4641016151377544
+RelatedTo;chief;police;3.3105890714493693
+AtLocation;police;donut shop;2.82842712474619
+CapableOf;Police;direct traffic;2.0
+IsA;Europol;police;2.0
+IsA;gendarmerie;police;2.0
+IsA;Mutawa een;police;2.0
+IsA;police;force;2.0
+IsA;police;law enforcement agency;2.0
+IsA;posse;police;2.0
+IsA;Royal Canadian Mounted Police;police;2.0
+IsA;Schutzstaffel;police;2.0
+IsA;Scotland Yard;police;2.0
+IsA;secret police;police;2.0
+RelatedTo;garda síochána;police;2.0
+RelatedTo;marica;police;2.0
+RelatedTo;milicija;police;2.0
+RelatedTo;policija;police;2.0
+RelatedTo;policijski;police;2.0
+AtLocation;a school;Prague;2.0
+PartOf;Prague;Czech Republic;2.0
+Synonym;برَاغ;Prague;2.0
+Synonym;عَاصِمَة التشِيك;Prague;2.0
+Synonym;capital de la República Txeca;Prague;2.0
+Synonym;Praga;Prague;2.0
+Synonym;Czech capital;Prague;2.0
+Synonym;Prag;Prague;2.0
+Synonym;prague;prag;2.0
+Synonym;Praha;Prague;2.0
+Synonym;Praha;Prague;2.0
+Synonym;Tšekin pääkaupunki;Prague;2.0
+Synonym;Prague;Prague;2.0
+Synonym;Praga;Prague;2.0
+Synonym;Praga;Prague;2.0
+Synonym;プラハ;prague;2.0
+Synonym;プラーグ;prague;2.0
+Synonym;プラハ;Prague;2.0
+Synonym;ibukota Czech;Prague;2.0
+Synonym;Prag;Prague;2.0
+RelatedTo;exactness;precision;2.0
+RelatedTo;precision;precise;2.0
+RelatedTo;precizno;precision;2.0
+RelatedTo;švapski;precision;2.0
+RelatedTo;tačnost;precision;2.0
+Synonym;precision;preciseness;2.0
+Synonym;精度;precision;2.0
+Synonym;適合率;precision;2.0
+Antonym;imprecision;precision;1.0
+Antonym;precision;imprecision;1.0
+DerivedFrom;arbitrary precision;precision;1.0
+DerivedFrom;multiprecision;precision;1.0
+ExternalURL;precision;Precision;1.0
+FormOf;precisions;precision;1.0
+HasContext;precision;mathematics;1.0
+RelatedTo;precisió;precision;1.0
+RelatedTo;přesnost;precision;1.0
+RelatedTo;präzision;precision;1.0
+RelatedTo;ακρίβεια;precision;1.0
+RelatedTo;ακριβολόγοσ;precision;1.0
+RelatedTo;print;writing;4.582139238390733
+RelatedTo;print;paper;4.4362146025637665
+RelatedTo;print;newspaper;4.054626986542659
+RelatedTo;print;ink;3.7437948661752287
+RelatedTo;print;computer;3.453693674893591
+RelatedTo;print;write;3.4117444218463957
+RelatedTo;print;type;3.3238531856867564
+DistinctFrom;print;cursive;3.0776614498674153
+RelatedTo;print;books;2.857271425678702
+RelatedTo;print;copy;2.040588150509553
+RelatedTo;print;action;2.030763403255042
+AtLocation;print;paper;2.0
+IsA;contact print;print;2.0
+IsA;copperplate;print;2.0
+IsA;engraving;print;2.0
+IsA;gravure;print;2.0
+IsA;linocut;print;2.0
+IsA;lithograph;print;2.0
+IsA;mezzotint;print;2.0
+IsA;monotype;print;2.0
+RelatedTo;dobitak;proceeds;2.0
+RelatedTo;utržak;proceeds;2.0
+Synonym;proceeds;return;2.0
+Synonym;プロシーズ;proceeds;2.0
+Synonym;収益;proceeds;2.0
+Synonym;収益金;proceeds;2.0
+Synonym;売り上;proceeds;2.0
+Synonym;売り上げ;proceeds;2.0
+Synonym;売上;proceeds;2.0
+Synonym;売上げ;proceeds;2.0
+Synonym;売上金;proceeds;2.0
+Synonym;売上高;proceeds;2.0
+Synonym;売り上げ高;proceeds;2.0
+FormOf;procedes;proceeds;1.0
+FormOf;proceeds;proceed;1.0
+RelatedTo;ennill;proceeds;1.0
+RelatedTo;erlös;proceeds;1.0
+RelatedTo;operating cycle;proceeds;1.0
+RelatedTo;proceed;proceeds;1.0
+RelatedTo;proceeds;gross;1.0
+RelatedTo;play;production;2.9691749695833014
+HasContext;production;economics;2.0
+HasContext;production;law;2.0
+IsA;boring;production;2.0
+IsA;breeding;production;2.0
+IsA;brewing;production;2.0
+IsA;canalization;production;2.0
+IsA;capacity;production;2.0
+IsA;cultivation;production;2.0
+IsA;devising;production;2.0
+IsA;foliation;production;2.0
+IsA;generation;production;2.0
+IsA;growing;production;2.0
+IsA;mass production;production;2.0
+IsA;mining;production;2.0
+IsA;output;production;2.0
+IsA;overproduction;production;2.0
+IsA;production;act;2.0
+IsA;production;creation;2.0
+IsA;production;display;2.0
+RelatedTo;doctor;profession;4.323424568556736
+RelatedTo;farmer;profession;2.931211353689802
+IsA;architecture;profession;2.0
+IsA;Being a lawyer;a profession;2.0
+IsA;businessmen;profession;2.0
+IsA;community of scholars;profession;2.0
+IsA;economics profession;profession;2.0
+IsA;education;profession;2.0
+IsA;health profession;profession;2.0
+IsA;journalism;profession;2.0
+IsA;learned profession;profession;2.0
+IsA;legal profession;profession;2.0
+IsA;literature;profession;2.0
+IsA;politics;profession;2.0
+IsA;priesthood;profession;2.0
+IsA;profession;affirmation;2.0
+IsA;profession;avowal;2.0
+IsA;profession;occupational group;2.0
+IsA;profession;occupation;2.0
+IsA;technology;profession;2.0
+RelatedTo;prophecy;prophetic;2.0
+RelatedTo;prophetic;prophecy;2.0
+RelatedTo;prophetic;prophet;2.0
+SimilarTo;apocalyptical;prophetic;2.0
+SimilarTo;divinatory;prophetic;2.0
+SimilarTo;foreboding;prophetic;2.0
+SimilarTo;foreshadowing;prophetic;2.0
+SimilarTo;oracular;prophetic;2.0
+SimilarTo;premonitory;prophetic;2.0
+SimilarTo;prognosticative;prophetic;2.0
+SimilarTo;prophetic;apocalyptical;2.0
+SimilarTo;prophetic;divinatory;2.0
+SimilarTo;prophetic;foreboding;2.0
+SimilarTo;prophetic;foreshadowing;2.0
+SimilarTo;prophetic;oracular;2.0
+SimilarTo;prophetic;premonitory;2.0
+SimilarTo;prophetic;prognosticative;2.0
+SimilarTo;prophetic;second-sighted;2.0
+SimilarTo;second-sighted;prophetic;2.0
+Synonym;prophetic;proročanski;2.0
+RelatedTo;psychopath;psychotic;2.0
+RelatedTo;psihopat;psychopath;2.0
+Synonym;psychopath;sociopath;2.0
+Synonym;サイコパス;psychopath;2.0
+CapableOf;a psychopath;attempt murder;1.0
+DerivedFrom;psychopath;psychopathy;1.0
+DerivedFrom;psychopathic;psychopath;1.0
+DerivedFrom;psychopathy;psychopath;1.0
+FormOf;psychopaths;psychopath;1.0
+RelatedTo;psykopat;psychopath;1.0
+RelatedTo;psychopath;psychopath;1.0
+RelatedTo;antisocial personality disorder;psychopath;1.0
+RelatedTo;détraqué;psychopath;1.0
+RelatedTo;psychopathic;psychopath;1.0
+RelatedTo;psychopathic;psychopath;1.0
+RelatedTo;psychopath;psycho;1.0
+RelatedTo;psychopath;psychological;1.0
+RelatedTo;psychopath;psychology;1.0
+RelatedTo;psychopath;psychopathology;1.0
+RelatedTo;psychopath;psychopathe;1.0
+MannerOf;quell;meet;2.0
+Synonym;appease;quell;2.0
+Synonym;quell;squelch;2.0
+Synonym;stay;quell;2.0
+Synonym;calmar;quell;2.0
+Synonym;تسکین دادن;quell;2.0
+Synonym;خواباندن;quell;2.0
+Synonym;فرونشاندن;quell;2.0
+Synonym;hillitä;quell;2.0
+Synonym;lepyttää;quell;2.0
+Synonym;rauhoittaa;quell;2.0
+Synonym;saada loppumaan;quell;2.0
+Synonym;saada rauhoittumaan;quell;2.0
+Synonym;sammuttaa;quell;2.0
+Synonym;tyydyttää;quell;2.0
+Synonym;tyynnyttää;quell;2.0
+Synonym;voittaa;quell;2.0
+Synonym;rester;quell;2.0
+Synonym;terminer;quell;2.0
+Synonym;acquietare;quell;2.0
+RelatedTo;answer;question;8.24693882601296
+RelatedTo;ask;question;6.136122554186805
+RelatedTo;question;answer;5.2626989273565705
+RelatedTo;why;question;4.997599423723354
+RelatedTo;question;ask;4.695955706775778
+RelatedTo;question;query;4.028399185780873
+Antonym;answer;question;4.005496223940299
+RelatedTo;question;asking;3.7682887362833544
+RelatedTo;how;question;3.45485166107027
+RelatedTo;question;sentence;3.228002478313794
+Antonym;question;answer;3.0906310035330975
+RelatedTo;reply;question;2.9644561052577583
+DistinctFrom;answer;question;2.76477847213841
+RelatedTo;question;mark;2.707766607372209
+RelatedTo;question;inquiry;2.6540535036053816
+DistinctFrom;question;answer;2.253885533916929
+CausesDesire;A question;find information;2.0
+Desires;A question;an answer;2.0
+Entails;challenge;question;2.0
+IsA;cross-question;question;2.0
+RelatedTo;badava;really;2.0
+RelatedTo;baš;really;2.0
+RelatedTo;fakat;really;2.0
+RelatedTo;grdno;really;2.0
+RelatedTo;realno;really;2.0
+RelatedTo;stvarno;really;2.0
+RelatedTo;zaista;really;2.0
+RelatedTo;zapravo;really;2.0
+RelatedTo;zbilja;really;2.0
+Synonym;actually;really;2.0
+Synonym;honestly;really;2.0
+Synonym;really;genuinely;2.0
+Synonym;really;in truth;2.0
+Synonym;really;rattling;2.0
+Synonym;oikeasti;really;2.0
+Synonym;effectivement;really;2.0
+Synonym;réellement;really;2.0
+Synonym;vraiment;really;2.0
+Synonym;davvero;really;2.0
+Synonym;effettivamente;really;2.0
+FormOf;reasons;reason;2.0
+Synonym;事情;reasons;2.0
+Synonym;事故;reasons;2.0
+Synonym;仔細;reasons;2.0
+Synonym;子細;reasons;2.0
+FormOf;reasons;reason;1.0
+FormOf;reasons;reason;1.0
+RelatedTo;reasons;reason;1.0
+RelatedTo;reasons;reason;1.0
+RelatedTo;мотивировать;reasons;1.0
+RelatedTo;обоснованность;reasons;1.0
+RelatedTo;味道;reasons;1.0
+ExternalURL;reasons;reasons;0.25
+ExternalURL;reasons;Reasons;0.25
+ExternalURL;reasons;reasons;0.25
+RelatedTo;why;reasons;0.137
+Causes;remind;remember;2.0
+DerivedFrom;reminder;remind;2.0
+MannerOf;commemorate;remind;2.0
+MannerOf;nag;remind;2.0
+MannerOf;take back;remind;2.0
+RelatedTo;reminder;remind;2.0
+RelatedTo;opomenuti;remind;2.0
+RelatedTo;opominjati;remind;2.0
+RelatedTo;podsećati;remind;2.0
+RelatedTo;podsetiti;remind;2.0
+RelatedTo;podsjećati;remind;2.0
+RelatedTo;podsjetiti;remind;2.0
+RelatedTo;sećati;remind;2.0
+RelatedTo;setiti;remind;2.0
+RelatedTo;sjećati;remind;2.0
+RelatedTo;sjetiti;remind;2.0
+Synonym;ذَكَّرَ;remind;2.0
+Synonym;recordar;remind;2.0
+Synonym;remind;prompt;2.0
+Synonym;recordar;remind;2.0
+DerivedFrom;unresearched;researched;1.0
+FormOf;researched;research;1.0
+FormOf;researched;research;1.0
+RelatedTo;researched;research;1.0
+RelatedTo;pētīts;researched;1.0
+ExternalURL;researched;researched;0.25
+ExternalURL;researched;researched;0.25
+RelatedTo;theory;researched;0.14100000000000001
+Synonym;Richardson;Henry Hobson Richardson;2.0
+Synonym;Richardson;Sir Ralph David Richardson;2.0
+DerivedFrom;richardson;son;1.0
+DerivedFrom;richardson county;richardson;1.0
+DerivedFrom;richardson's owl;richardson;1.0
+DerivedFrom;richardson's theorem;richardson;1.0
+RelatedTo;buckingham;richardson;1.0
+RelatedTo;richard;richardson;1.0
+RelatedTo;richardson;dallas;1.0
+RelatedTo;richardson;texas;1.0
+RelatedTo;richardson;usa;1.0
+Synonym;richardson;ricárdez;1.0
+Synonym;richardson;di riccardo;1.0
+Synonym;richardson;riccardi;1.0
+Synonym;richardson;रिचर्ड्सन;1.0
+Synonym;理查森;richardson;1.0
+ExternalURL;richardson;Richardson;0.25
+IsA;riddle;problem;2.0
+IsA;riddle;sieve;2.0
+MannerOf;riddle;communicate;2.0
+MannerOf;riddle;perplex;2.0
+MannerOf;riddle;pierce;2.0
+MannerOf;riddle;sift;2.0
+MannerOf;riddle;solve;2.0
+RelatedTo;zagonetati;riddle;2.0
+RelatedTo;zagonetka;riddle;2.0
+Synonym;crivellar;riddle;2.0
+Synonym;crivell;riddle;2.0
+Synonym;endevinalla;riddle;2.0
+Synonym;garbellar;riddle;2.0
+Synonym;porgador;riddle;2.0
+Synonym;porgar;riddle;2.0
+Synonym;resoldre;riddle;2.0
+Synonym;brain-teaser;riddle;2.0
+Synonym;conundrum;riddle;2.0
+Synonym;enigma;riddle;2.0
+Synonym;riddle;permeate;2.0
+FormOf;rippers;ripper;2.0
+IsA;ripper;murderer;2.0
+Synonym;esquarterador;ripper;2.0
+Synonym;destripador;ripper;2.0
+Synonym;errai-ateratzaile;ripper;2.0
+Synonym;heste-ateratzaile;ripper;2.0
+Synonym;tripa-ateratzaile;ripper;2.0
+Synonym;viiltäjä;ripper;2.0
+Synonym;éventreur;ripper;2.0
+Synonym;ripeur;ripper;2.0
+Synonym;ripper;ripper;2.0
+Synonym;リッパ;ripper;2.0
+Synonym;リッパー;ripper;2.0
+Synonym;リッパー;ripper;2.0
+Synonym;バラバラ殺人犯;ripper;2.0
+Synonym;estripador;ripper;2.0
+Synonym;ฆาตกรฆ่าหั่นศพ;ripper;2.0
+DerivedFrom;radish ripper;ripper;1.0
+DerivedFrom;ripper;rip;1.0
+DerivedFrom;ripperologist;ripper;1.0
+ExternalURL;robbie;Robbie (short story);1.0
+ExternalURL;robbie;Q372968;1.0
+RelatedTo;rabbie;robbie;1.0
+RelatedTo;robbie;scotland;1.0
+RelatedTo;robby;robbie;1.0
+RelatedTo;rob;robbie;1.0
+RelatedTo;robert;robbie;1.0
+dbpedia/genre;robbie;science fiction;0.5
+IsA;robbie;written work;0.5
+Synonym;robbie;robbie;0.5
+Synonym;robbie;robbie;0.5
+Synonym;robbie;robbie;0.5
+Synonym;robbie;robbie;0.5
+Synonym;robbie;robbie;0.5
+Synonym;robbie;robbie;0.5
+Synonym;робби;robbie;0.5
+Synonym;robbi;robbie;0.5
+Synonym;罗比;robbie;0.5
+ExternalURL;robbie;Robbie;0.25
+DefinedAs;roles;plural of role;1.0
+DefinedAs;roles;plural of the word role;1.0
+FormOf;roles;role;1.0
+FormOf;roles;role;1.0
+RelatedTo;roles;role;1.0
+RelatedTo;wear too many hats;roles;1.0
+RelatedTo;おやま;roles;1.0
+RelatedTo;おんながた;roles;1.0
+ExternalURL;roles;roles;0.25
+ExternalURL;roles;roles;0.25
+RelatedTo;act;roles;0.10199999999999987
+IsA;A saw;a tool;10.583005244258363
+UsedFor;a saw;Cutting things such as wood;6.0
+UsedFor;saw;cutting wood;4.898979485566356
+FormOf;saws;saw;2.82842712474619
+AtLocation;a saw;a toolbox;2.0
+IsA;bucksaw;saw;2.0
+IsA;crown saw;saw;2.0
+IsA;folding saw;saw;2.0
+IsA;hacksaw;saw;2.0
+IsA;saw;hand tool;2.0
+IsA;two-handed saw;saw;2.0
+MannerOf;saw;cut;2.0
+MannerOf;whipsaw;saw;2.0
+PartOf;sawtooth;saw;2.0
+PartOf;tooth;saw;2.0
+RelatedTo;sawyer;saw;2.0
+RelatedTo;ispiliti;saw;2.0
+RelatedTo;otpiliti;saw;2.0
+RelatedTo;pila;saw;2.0
+RelatedTo;piliti;saw;2.0
+RelatedTo;say;speak;4.0669398815325515
+RelatedTo;repeat;say;3.327461494893667
+RelatedTo;say;talk;2.8614681546367073
+RelatedTo;mention;say;2.734958866235469
+IsA;say;opportunity;2.0
+MannerOf;say;convey;2.0
+MannerOf;say;express;2.0
+MannerOf;say;read;2.0
+MannerOf;say;recite;2.0
+MotivatedByGoal;talk;say something;2.0
+RelatedTo;demək;say;2.0
+RelatedTo;söyləmək;say;2.0
+RelatedTo;glasiti;say;2.0
+RelatedTo;govoriti;say;2.0
+RelatedTo;izgovarati;say;2.0
+RelatedTo;izgovoriti;say;2.0
+RelatedTo;izreći;say;2.0
+RelatedTo;izricati;say;2.0
+RelatedTo;kazati;say;2.0
+RelatedTo;kazivati;say;2.0
+IsA;advice and consent;saying;2.0
+IsA;agrapha;saying;2.0
+IsA;ambiguity;saying;2.0
+IsA;anatomical reference;saying;2.0
+IsA;Beatitude;saying;2.0
+IsA;calque;saying;2.0
+IsA;dysphemism;saying;2.0
+IsA;epigram;saying;2.0
+IsA;euphemism;saying;2.0
+IsA;idiom;saying;2.0
+IsA;logion;saying;2.0
+IsA;maxim;saying;2.0
+IsA;motto;saying;2.0
+IsA;proverb;saying;2.0
+IsA;saying;speech;2.0
+IsA;shucks;saying;2.0
+IsA;southernism;saying;2.0
+IsA;sumpsimus;saying;2.0
+IsA;tongue twister;saying;2.0
+RelatedTo;hadith;saying;2.0
+FormOf;scenes;scene;1.0
+FormOf;scenes;scene;1.0
+RelatedTo;scenes;scene;1.0
+RelatedTo;scenes;scene;1.0
+RelatedTo;幕後;scenes;1.0
+RelatedTo;act;scenes;0.46199999999999974
+RelatedTo;play;scenes;0.32899999999999974
+ExternalURL;scenes;scenes;0.25
+ExternalURL;scenes;scenes;0.25
+FormOf;screenwriters;screenwriter;1.0
+RelatedTo;screenwriters;screenwriter;1.0
+ExternalURL;screenwriters;screenwriters;0.25
+ExternalURL;screenwriters;screenwriters;0.25
+RelatedTo;agent;secret;4.734976240700686
+IsA;cabala;secret;2.0
+IsA;confidence;secret;2.0
+IsA;esoterica;secret;2.0
+IsA;open secret;secret;2.0
+IsA;password;secret;2.0
+IsA;secret;information;2.0
+IsA;trade secret;secret;2.0
+RelatedTo;potajan;secret;2.0
+RelatedTo;tajanstvo;secret;2.0
+RelatedTo;tajiti;secret;2.0
+RelatedTo;tajna;secret;2.0
+RelatedTo;tajni;secret;2.0
+RelatedTo;tajnica;secret;2.0
+RelatedTo;zatajiti;secret;2.0
+RelatedTo;zatajivati;secret;2.0
+RelatedTo;zataškati;secret;2.0
+RelatedTo;zataškavati;secret;2.0
+SimilarTo;classified;secret;2.0
+SimilarTo;concealed;secret;2.0
+RelatedTo;taste;sense;8.215838362577491
+RelatedTo;touch;sense;7.964169762128378
+RelatedTo;smell;sense;7.443923696546062
+RelatedTo;feel;sense;4.380867494001616
+RelatedTo;hear;sense;4.077253977863043
+RelatedTo;sound;sense;3.1786789708934124
+IsA;sight;sense;2.82842712474619
+RelatedTo;eye;sense;2.669831455354439
+RelatedTo;hearing;sense;2.3486166140943485
+RelatedTo;sight;sense;2.1762352813976715
+HasPrerequisite;taking an oath;sense;2.0
+IsA;modality;sense;2.0
+IsA;seeing;a sense;2.0
+IsA;sense;appreciation;2.0
+IsA;sense;awareness;2.0
+IsA;sense;faculty;2.0
+IsA;sense;meaning;2.0
+IsA;sense of direction;sense;2.0
+IsA;sense of responsibility;sense;2.0
+IsA;sensitivity;sense;2.0
+HasContext;series;electronics;2.0
+HasContext;series;mathematics;2.0
+HasContext;series;sport;2.0
+IsA;actinide series;series;2.0
+IsA;bimonthly;series;2.0
+IsA;biweekly;series;2.0
+IsA;chain;series;2.0
+IsA;convergence;series;2.0
+IsA;cordon;series;2.0
+IsA;course;series;2.0
+IsA;cycle;series;2.0
+IsA;divergence;series;2.0
+IsA;electromotive series;series;2.0
+IsA;exponential series;series;2.0
+IsA;Fourier series;series;2.0
+IsA;geometric series;series;2.0
+IsA;helium group;series;2.0
+IsA;hierarchy;series;2.0
+IsA;home stand;series;2.0
+IsA;lanthanide series;series;2.0
+RelatedTo;ready;set;3.145790838565082
+IsA;a group;a set;2.82842712474619
+IsA;A set;collection of distinct objects;2.82842712474619
+IsA;A set;a collection of things;2.82842712474619
+MadeOf;A set;elements;2.82842712474619
+CapableOf;A set;include items;2.0
+HasContext;set;mathematics;2.0
+HasContext;set;psychology;2.0
+HasContext;set;astronomy;2.0
+IsA;bracket;set;2.0
+IsA;car pool;set;2.0
+IsA;chess set;set;2.0
+IsA;choir;set;2.0
+IsA;clique;set;2.0
+IsA;cohort;set;2.0
+IsA;conjugation;set;2.0
+IsA;conspiracy;set;2.0
+IsA;core;set;2.0
+IsA;dentition;set;2.0
+IsA;diagonal;set;2.0
+CausesDesire;Your sexuality;flirt;3.4641016151377544
+ReceivesAction;sexuality;related to gender;2.0
+RelatedTo;sexuality;sexual;2.0
+RelatedTo;seksualnost;sexuality;2.0
+Synonym;sexuality;sex;2.0
+Synonym;セクシャリティ;sexuality;2.0
+Synonym;セクシュアリティ;sexuality;2.0
+Synonym;セクシュアリティー;sexuality;2.0
+Synonym;春;sexuality;2.0
+Antonym;sexuality;asexuality;1.0
+DerivedFrom;autosexuality;sexuality;1.0
+DerivedFrom;parasexuality;sexuality;1.0
+DerivedFrom;polysexuality;sexuality;1.0
+DerivedFrom;sexuality;sexual;1.0
+DerivedFrom;sociosexuality;sexuality;1.0
+DerivedFrom;technosexuality;sexuality;1.0
+DerivedFrom;unsexuality;sexuality;1.0
+FormOf;sexualities;sexuality;1.0
+HasContext;69 er;sexuality;1.0
+HasContext;niogtres;sexuality;1.0
+IsA;Shakespeare;a great dramatist;2.0
+Synonym;Shakespeare;William Shakespeare;2.0
+RelatedTo;hamlet;shakespeare;1.056
+DefinedAs;Shakespeare;most famous English writer;1.0
+DerivedFrom;shakespearean;shakespeare;1.0
+DerivedFrom;shakespearean;shakespeare;1.0
+EtymologicallyDerivedFrom;莎士比亞;shakespeare;1.0
+FormOf;shakspeare;shakespeare;1.0
+FormOf;shakspere;shakespeare;1.0
+HasContext;half faced;shakespeare;1.0
+HasContext;lottery;shakespeare;1.0
+HasContext;msnd;shakespeare;1.0
+HasContext;underhangman;shakespeare;1.0
+ReceivesAction;Shakespeare;considered to be a great writer;1.0
+RelatedTo;bardolatrous;shakespeare;1.0
+RelatedTo;hamlet;shakespeare;1.0
+RelatedTo;infinite monkey theorem;shakespeare;1.0
+RelatedTo;macbeth;shakespeare;1.0
+RelatedTo;montague;shakespeare;1.0
+RelatedTo;shakespeare;centuries;1.0
+Synonym;辛普森一家;simpsons;1.5
+AtLocation;the simpsons;television;1.0
+ExternalURL;simpsons;The Simpsons;1.0
+ExternalURL;simpsons;Q886;1.0
+ExternalURL;simpsons;Simpsons (department store);1.0
+ExternalURL;simpsons;The Simpsons (season 1);1.0
+ExternalURL;simpsons;The Simpsons (season 14);1.0
+ExternalURL;simpsons;The Simpsons (season 16);1.0
+ExternalURL;simpsons;The Simpsons (season 22);1.0
+ExternalURL;simpsons;The Simpsons (season 24);1.0
+ExternalURL;simpsons;Q13131;1.0
+ExternalURL;simpsons;Q461483;1.0
+ExternalURL;simpsons;Q461485;1.0
+ExternalURL;simpsons;Q648694;1.0
+ExternalURL;simpsons;Q935959;1.0
+ExternalURL;simpsons;Q977020;1.0
+FormOf;simpsons;simpson;1.0
+IsA;The Simpsons;not real people;1.0
+IsA;"""The Simpsons""";a TV show;1.0
+RelatedTo;simpsons;simpson;1.0
+RelatedTo;slay;kill;2.1972710347155626
+DerivedFrom;slayer;slay;2.0
+Synonym;slay;kill;2.0
+Synonym;slay;murder;2.0
+Synonym;切り伏せる;slay;2.0
+Synonym;切り捨てる;slay;2.0
+Synonym;切捨てる;slay;2.0
+Synonym;切り殺す;slay;2.0
+Synonym;打ち放す;slay;2.0
+Synonym;打ち果す;slay;2.0
+Synonym;打ち果たす;slay;2.0
+Synonym;打ち止める;slay;2.0
+Synonym;打止める;slay;2.0
+Synonym;打ち留める;slay;2.0
+Synonym;打留める;slay;2.0
+Synonym;撃ち止める;slay;2.0
+Synonym;撃止める;slay;2.0
+Synonym;斬り捨てる;slay;2.0
+Synonym;斬り殺す;slay;2.0
+Synonym;討ち果す;slay;2.0
+MotivatedByGoal;sleep;you are sleepy;2.0
+RelatedTo;sleepy;sleep;2.0
+RelatedTo;dremljiv;sleepy;2.0
+RelatedTo;pospan;sleepy;2.0
+RelatedTo;sanjiv;sleepy;2.0
+RelatedTo;snen;sleepy;2.0
+Synonym;sleepy;sleepyheaded;2.0
+Synonym;sleepy;dremljiv;2.0
+Synonym;sleepy;pospan;2.0
+Synonym;sleepy;sanjiv;2.0
+Synonym;とろり;sleepy;2.0
+Synonym;トロリ;sleepy;2.0
+Synonym;眠い;sleepy;2.0
+Synonym;眠たい;sleepy;2.0
+Synonym;睡い;sleepy;2.0
+Synonym;睡たい;sleepy;2.0
+DerivedFrom;nonsleepy;sleepy;1.0
+DerivedFrom;sleepily;sleepy;1.0
+DerivedFrom;sleepiness;sleepy;1.0
+DerivedFrom;sleepy;sleep;1.0
+PartOf;a person;society;5.291502622129181
+AtLocation;a society;any group of people;2.82842712474619
+IsA;a society;a group of people;2.82842712474619
+HasContext;krilo;society;2.0
+IsA;civilization;society;2.0
+IsA;open society;society;2.0
+IsA;A society;a large group of people;2.0
+IsA;society;elite;2.0
+IsA;society;social group;2.0
+IsA;tribal society;society;2.0
+PartOf;class;society;2.0
+PartOf;sector;society;2.0
+RelatedTo;društvo;society;2.0
+RelatedTo;džemat;society;2.0
+RelatedTo;gospoština;society;2.0
+RelatedTo;kružok;society;2.0
+RelatedTo;udruga;society;2.0
+RelatedTo;udruženje;society;2.0
+Synonym;مُجْتَمَع;society;2.0
+Synonym;alta societat;society;2.0
+IsA;Ice;a solid;4.898979485566356
+HasProperty;ice;a solid;4.47213595499958
+IsA;Glass;a solid;2.82842712474619
+IsA;wood;a solid;2.82842712474619
+HasContext;solid;mathematics;2.0
+HasProperty;Wood;solid;2.0
+IsA;block;solid;2.0
+IsA;cast;solid;2.0
+IsA;concave shape;solid;2.0
+IsA;convex shape;solid;2.0
+IsA;crystal;solid;2.0
+IsA;cylinder;solid;2.0
+IsA;dry ice;solid;2.0
+IsA;food;solid;2.0
+IsA;frustum;solid;2.0
+IsA;iridium 192;solid;2.0
+IsA;ovoid;solid;2.0
+IsA;plastic;solid;2.0
+IsA;polyhedron;solid;2.0
+IsA;powder;solid;2.0
+RelatedTo;song;music;7.412152184082569
+RelatedTo;verse;song;5.857303133695575
+RelatedTo;music;song;4.325736931437232
+AtLocation;a song;a CD;4.0
+UsedFor;a song;entertainment;4.0
+RelatedTo;song;musical;3.8277930978567793
+RelatedTo;song;lyrics;3.82099463490856
+RelatedTo;song;tune;3.652396473549935
+RelatedTo;song;melody;3.4698703145794942
+RelatedTo;song;singing;3.3532074197699133
+UsedFor;a song;express feelings and emotions;2.82842712474619
+RelatedTo;song;piece;2.6750700925396327
+RelatedTo;respect;song;2.1762352813976706
+RelatedTo;song;vocal;2.1438283513378584
+AtLocation;song;a jukebox;2.0
+AtLocation;a voice;a song;2.0
+CreatedBy;song;composer;2.0
+CreatedBy;a song;a songwriter;2.0
+DerivedFrom;birdsong;song;2.0
+IsA;aria;song;2.0
+RelatedTo;čađav;sooty;2.0
+SimilarTo;dirty;sooty;2.0
+SimilarTo;sooty;dirty;2.0
+Synonym;sooty;coal-black;2.0
+Antonym;sootless;sooty;1.0
+DerivedFrom;sootiness;sooty;1.0
+DerivedFrom;sooty tern;sooty;1.0
+ExternalURL;sooty;300424950-s;1.0
+FormOf;sootied;sooty;1.0
+FormOf;sootier;sooty;1.0
+FormOf;sootiest;sooty;1.0
+FormOf;sooties;sooty;1.0
+FormOf;sootying;sooty;1.0
+RelatedTo;čadivý;sooty;1.0
+RelatedTo;blakig;sooty;1.0
+RelatedTo;russen;sooty;1.0
+RelatedTo;russig;sooty;1.0
+RelatedTo;fuliginous;sooty;1.0
+RelatedTo;sleep black;sooty;1.0
+RelatedTo;sootily;sooty;1.0
+HasContext;source;engineering;2.0
+IsA;Golconda;source;2.0
+IsA;goldmine;source;2.0
+IsA;muse;source;2.0
+IsA;origin;source;2.0
+IsA;source materials;source;2.0
+IsA;source;document;2.0
+IsA;source;facility;2.0
+IsA;source;inspiration;2.0
+IsA;source;natural process;2.0
+IsA;taproot;source;2.0
+IsA;well;source;2.0
+MannerOf;outsource;source;2.0
+MannerOf;source;document;2.0
+MannerOf;source;obtain;2.0
+RelatedTo;ishodište;source;2.0
+RelatedTo;iskon;source;2.0
+RelatedTo;izvorište;source;2.0
+RelatedTo;izvor;source;2.0
+RelatedTo;matica;source;2.0
+IsA;roe;spawn;2.0
+IsA;spawn;egg;2.0
+MannerOf;spat;spawn;2.0
+MannerOf;spawn;lay;2.0
+RelatedTo;seme;spawn;2.0
+RelatedTo;sjeme;spawn;2.0
+Synonym;fresa;spawn;2.0
+Synonym;fresar;spawn;2.0
+Synonym;spawn;engender;2.0
+Synonym;desovar;spawn;2.0
+Synonym;arbi;spawn;2.0
+Synonym;arraba;spawn;2.0
+Synonym;errun;spawn;2.0
+Synonym;بذر;spawn;2.0
+Synonym;kutea;spawn;2.0
+Synonym;kutu;spawn;2.0
+Synonym;laskea mätimunia;spawn;2.0
+Synonym;mäti;spawn;2.0
+Synonym;frai;spawn;2.0
+Synonym;deporre le uova;spawn;2.0
+AtLocation;a star;space;7.211102550927979
+AtLocation;a star;the night sky;6.0
+RelatedTo;sun;star;5.817903402429435
+AtLocation;a star;the sky;5.656854249492381
+AtLocation;a star;a galaxy;4.0
+AtLocation;a star;outerspace;4.0
+IsA;a star;a sun;3.4641016151377544
+AtLocation;a star;outer space;2.82842712474619
+AtLocation;star;the center of a black hole;2.0
+CapableOf;a star;explode;2.0
+HasContext;alpha centauri;star;2.0
+HasContext;pole star;star;2.0
+HasContext;star;astronomy;2.0
+HasContext;star;dramaturgy;2.0
+IsA;asterism;star;2.0
+IsA;binary star;star;2.0
+IsA;co-star;star;2.0
+IsA;film star;star;2.0
+IsA;fixed star;star;2.0
+IsA;giant star;star;2.0
+FormOf;starters;starter;1.0
+RelatedTo;starters;for starters;1.0
+RelatedTo;starters;starter;1.0
+Synonym;entrée;starters;1.0
+ExternalURL;starters;starters;0.25
+ExternalURL;starters;starters;0.25
+RelatedTo;soup;starters;0.14800000000000013
+RelatedTo;početni;starting;2.0
+SimilarTo;opening;starting;2.0
+SimilarTo;protrusive;starting;2.0
+SimilarTo;starting;opening;2.0
+SimilarTo;starting;protrusive;2.0
+Synonym;starting;start;2.0
+Synonym;inicial;starting;2.0
+Synonym;aloitus-;starting;2.0
+Synonym;pullistunut;starting;2.0
+Synonym;スターティング;starting;2.0
+Synonym;仕初;starting;2.0
+Synonym;仕初め;starting;2.0
+Synonym;先発;starting;2.0
+Synonym;始動;starting;2.0
+Synonym;懸り;starting;2.0
+Synonym;懸かり;starting;2.0
+Synonym;掛り;starting;2.0
+Synonym;掛かり;starting;2.0
+Synonym;為初;starting;2.0
+Synonym;為初め;starting;2.0
+DerivedFrom;steve;stevenote;1.0
+DerivedFrom;stevie;steve;1.0
+Desires;steve;sex;1.0
+FormOf;steve;steven;1.0
+FormOf;steved;steve;1.0
+FormOf;steves;steve;1.0
+FormOf;steves;steve;1.0
+FormOf;steving;steve;1.0
+FormOf;stevo;steve;1.0
+HasA;steve;kids;1.0
+HasProperty;steve;nuts;1.0
+IsA;Steve;a compulsive hoarder;1.0
+IsA;steve;a firefighter steve puts out fires;1.0
+IsA;Steve;a musician steve plays guitar;1.0
+RelatedTo;stephen;steve;1.0
+RelatedTo;steve;atmospheric;1.0
+RelatedTo;steve;light;1.0
+RelatedTo;steve;optical;1.0
+RelatedTo;steve;phenomenon;1.0
+RelatedTo;steve;ribbon;1.0
+AtLocation;a stiff;a funeral;2.0
+FormOf;stiffs;stiff;2.0
+HasProperty;Bones;stiff;2.0
+HasProperty;bristles;stiff;2.0
+IsA;stiff;man;2.0
+RelatedTo;drven;stiff;2.0
+RelatedTo;kočiti;stiff;2.0
+RelatedTo;krut;stiff;2.0
+RelatedTo;krutiti;stiff;2.0
+RelatedTo;rigidan;stiff;2.0
+RelatedTo;štajf;stiff;2.0
+RelatedTo;tvrdokoran;stiff;2.0
+RelatedTo;ukočen;stiff;2.0
+RelatedTo;ukočiti;stiff;2.0
+SimilarTo;immobile;stiff;2.0
+SimilarTo;stiff;immobile;2.0
+SimilarTo;stiff;strong;2.0
+SimilarTo;strong;stiff;2.0
+Synonym;stiff;blind drunk;2.0
+Synonym;stiff;buckram;2.0
+AtLocation;food;a stomach;4.47213595499958
+RelatedTo;belly;stomach;2.219909908081858
+HasContext;pokvariti;stomach;2.0
+IsA;abomasum;stomach;2.0
+IsA;craw;stomach;2.0
+IsA;psalterium;stomach;2.0
+IsA;reticulum;stomach;2.0
+IsA;rumen;stomach;2.0
+IsA;stomach;appetite;2.0
+IsA;stomach;inclination;2.0
+MannerOf;stomach;digest;2.0
+PartOf;gastric artery;stomach;2.0
+PartOf;gastric vein;stomach;2.0
+PartOf;gastroomental vein;stomach;2.0
+PartOf;pit of the stomach;stomach;2.0
+PartOf;My stomach;my body;2.0
+PartOf;the stomach;a human body;2.0
+PartOf;stomach;alimentary canal;2.0
+RelatedTo;mage;stomach;2.0
+RelatedTo;stomak;stomach;2.0
+FormOf;stonecutters;stonecutter;1.0
+RelatedTo;stonecutters;stonecutter;1.0
+ExternalURL;stonecutters;stonecutters;0.25
+ExternalURL;stonecutters;stonecutters;0.25
+RelatedTo;street;road;8.581608240883522
+RelatedTo;road;street;7.601052558692118
+AtLocation;a bicycle;the street;6.6332495807108
+AtLocation;traffic;the street;5.291502622129181
+UsedFor;a street;driving on;5.291502622129181
+AtLocation;pedestrians;the street;4.898979485566356
+RelatedTo;street;avenue;4.837768080427172
+AtLocation;a crosswalk;a street;4.0
+AtLocation;lines;the street;4.0
+IsA;An avenue;street;4.0
+RelatedTo;address;street;3.959292866156784
+AtLocation;an automobile;a street;3.4641016151377544
+AtLocation;a lamp post;a street;3.4641016151377544
+AtLocation;potholes;the street;3.4641016151377544
+AtLocation;a vehicle;the street;3.4641016151377544
+UsedFor;a street;walking;3.4641016151377544
+RelatedTo;main;street;3.4432542746651755
+AtLocation;a ball;the street;2.82842712474619
+AtLocation;dirt;the street;2.82842712474619
+AtLocation;a garbage waste;the street;2.82842712474619
+RelatedTo;steel;strong;2.7799280566230484
+Antonym;strong;weak;2.0
+Antonym;weak;strong;2.0
+HasContext;strong;grammar;2.0
+HasPrerequisite;wrestle;be strong;2.0
+HasProperty;the bond between mother and child;strong;2.0
+HasProperty;Bones;strong;2.0
+RelatedTo;powerful;strong;2.0
+RelatedTo;robust;strong;2.0
+RelatedTo;rugged;strong;2.0
+RelatedTo;strengthen;strong;2.0
+RelatedTo;strength;strong;2.0
+RelatedTo;strong;powerful;2.0
+RelatedTo;strong;robust;2.0
+RelatedTo;strong;rugged;2.0
+RelatedTo;strong;tough;2.0
+RelatedTo;tough;strong;2.0
+RelatedTo;bodar;strong;2.0
+RelatedTo;čvrsnuti;strong;2.0
+RelatedTo;čvrst;strong;2.0
+Synonym;蹉跌;stumbling;2.0
+Synonym;躓き;stumbling;2.0
+Causes;getting drunk;stumbling;1.0
+DerivedFrom;stumbling;stumblingblock;1.0
+DistinctFrom;eloquent;stumbling;1.0
+FormOf;stumblings;stumbling;1.0
+FormOf;stumbling;stumble;1.0
+HasSubevent;drinking;stumbling;1.0
+HasSubevent;walking;stumbling;1.0
+RelatedTo;stumblesome;stumbling;1.0
+RelatedTo;stumbling;stumble;1.0
+RelatedTo;titubant;stumbling;1.0
+RelatedTo;trastabillante;stumbling;1.0
+RelatedTo;tropezón;stumbling;1.0
+RelatedTo;tropezoso;stumbling;1.0
+RelatedTo;ânonnement;stumbling;1.0
+RelatedTo;trébuchant;stumbling;1.0
+RelatedTo;cassabundus;stumbling;1.0
+RelatedTo;offensans;stumbling;1.0
+RelatedTo;klupšana;stumbling;1.0
+IsA;math;a subject;6.32455532033676
+RelatedTo;science;subject;4.869907596659304
+RelatedTo;history;subject;4.15884599378241
+IsA;Geometry;a subject;3.4641016151377544
+IsA;science;a subject;3.4641016151377544
+Synonym;Sujeito;subject;3.4641016151377544
+RelatedTo;literature;subject;2.3108440016582685
+Causes;subject;experience;2.0
+HasContext;subject;grammar;2.0
+HasContext;subject;logic;2.0
+IsA;bone of contention;subject;2.0
+IsA;keynote;subject;2.0
+IsA;A Motion;a subject;2.0
+IsA;precedent;subject;2.0
+IsA;question;subject;2.0
+IsA;subject;constituent;2.0
+IsA;subject;message;2.0
+IsA;subject;person;2.0
+IsA;subject;term;2.0
+IsA;subject;thing;2.0
+Causes;taking finals;success;2.82842712474619
+Antonym;failure;success;2.0
+DerivedFrom;successful;success;2.0
+IsA;barnburner;success;2.0
+IsA;bell ringer;success;2.0
+IsA;big time;success;2.0
+IsA;bite;success;2.0
+IsA;conquest;success;2.0
+IsA;coup;success;2.0
+IsA;flying colors;success;2.0
+IsA;Godspeed;success;2.0
+IsA;hit;success;2.0
+IsA;overturn;success;2.0
+IsA;passing;success;2.0
+IsA;pay dirt;success;2.0
+IsA;score;success;2.0
+IsA;seduction;success;2.0
+IsA;solution;success;2.0
+IsA;success;attainment;2.0
+IsA;success;happening;2.0
+ExternalURL;superheroes;Superheroes (EP);1.0
+ExternalURL;superheroes;Q980228;1.0
+FormOf;superheroes;superhero;1.0
+RelatedTo;superheroes;superhero;1.0
+RelatedTo;superkracht;superheroes;1.0
+dbpedia/genre;superheroes;power metal;0.5
+InstanceOf;superheroes;extended play;0.5
+IsA;superheroes;album;0.5
+Synonym;superheroes;superheroes;0.5
+Synonym;superheroes;superheroes;0.5
+Synonym;superheroes;superheroes;0.5
+Synonym;superheroes;superheroes;0.5
+Synonym;superheroes;superheroes;0.5
+Synonym;superheroes;superheroes;0.5
+ExternalURL;superheroes;superheroes;0.25
+ExternalURL;superheroes;superheroes;0.25
+RelatedTo;bat;superheroes;0.12199999999999989
+DerivedFrom;superman;man;2.82842712474619
+CapableOf;Superman;destroy lead pipes;2.0
+CapableOf;Superman;do amazing feats;2.0
+CapableOf;Superman;fly;2.0
+CapableOf;superman;lift a bus;2.0
+EtymologicallyDerivedFrom;スーパーマン;superman;2.0
+FormOf;supermen;superman;2.0
+RelatedTo;supermen;superman;2.0
+Synonym;superman;acid;2.0
+Synonym;superman;demigod;2.0
+Synonym;superman;super homem;2.0
+Synonym;superman;nadčovek;2.0
+Synonym;superman;natčovek;2.0
+Synonym;superman;超人;2.0
+Synonym;スーパーマン;superman;2.0
+Synonym;超人;superman;2.0
+Synonym;超人;superman;1.5
+Antonym;superman;netherman;1.0
+CapableOf;Superman;best anyone;1.0
+EtymologicallyDerivedFrom;superman;superman;1.0
+SimilarTo;supporting;supportive;2.0
+SimilarTo;supportive;supporting;2.0
+Synonym;encouraging;supporting;2.0
+Synonym;supporting;load-bearing;2.0
+Synonym;supporting;support;2.0
+Synonym;kannustava;supporting;2.0
+Synonym;rohkaiseva;supporting;2.0
+Synonym;テコ 入れ;supporting;2.0
+Synonym;尻押し;supporting;2.0
+Synonym;後押し;supporting;2.0
+Synonym;掩護射撃;supporting;2.0
+Synonym;援護射撃;supporting;2.0
+Synonym;梃入れ;supporting;2.0
+Synonym;翼賛;supporting;2.0
+Synonym;頼もしい;supporting;2.0
+Synonym;menggalakkan adj;supporting;2.0
+DerivedFrom;nonsupporting;supporting;1.0
+DerivedFrom;self supporting;supporting;1.0
+DerivedFrom;supporting actor;supporting;1.0
+DerivedFrom;supporting aircraft;supporting;1.0
+IsA;a surgeon;a doctor;4.47213595499958
+RelatedTo;doctor;surgeon;2.1354156504062622
+CapableOf;the surgeon;have to operate on his patient;2.0
+IsA;amputator;surgeon;2.0
+IsA;cosmetic surgeon;surgeon;2.0
+IsA;neurosurgeon;surgeon;2.0
+Synonym;cirurgià;surgeon;2.0
+Synonym;kirurg;surgeon;2.0
+Synonym;operating surgeon;surgeon;2.0
+Synonym;sawbones;surgeon;2.0
+Synonym;surgeon;hirurg;2.0
+Synonym;surgeon;kirurg;2.0
+Synonym;kirurgialari;surgeon;2.0
+Synonym;zirujau;surgeon;2.0
+Synonym;جراح;surgeon;2.0
+Synonym;haavuri;surgeon;2.0
+Synonym;kirurgi;surgeon;2.0
+Synonym;leikkaava lääkäri;surgeon;2.0
+Synonym;chirurgie;surgeon;2.0
+Synonym;chirurgien;surgeon;2.0
+RelatedTo;surgical;surgery;2.0
+SimilarTo;accurate;surgical;2.0
+SimilarTo;postoperative;surgical;2.0
+SimilarTo;preoperative;surgical;2.0
+SimilarTo;surgical;accurate;2.0
+SimilarTo;surgical;postoperative;2.0
+SimilarTo;surgical;preoperative;2.0
+Synonym;operatori;surgical;2.0
+Synonym;quirúrgic;surgical;2.0
+Synonym;operative;surgical;2.0
+Synonym;operatorio;surgical;2.0
+Synonym;quirúrgico;surgical;2.0
+Synonym;عمل جراحی;surgical;2.0
+Synonym;kirurginen;surgical;2.0
+Synonym;leikkauksellinen;surgical;2.0
+Synonym;leikkaus-;surgical;2.0
+Synonym;operatiivinen;surgical;2.0
+Synonym;täsmä-;surgical;2.0
+Synonym;chirurgical;surgical;2.0
+Synonym;opératoire;surgical;2.0
+RelatedTo;surprise;shock;6.2206109024757374
+RelatedTo;surprise;party;6.206126005810711
+Causes;opening a gift;surprise;6.0
+RelatedTo;surprise;unexpected;5.7469992169827195
+RelatedTo;shock;surprise;5.740383262466018
+RelatedTo;surprise;birthday;5.1869065925655535
+HasPrerequisite;surprise someone;hide;4.0
+HasPrerequisite;surprise someone;hiding;4.0
+HasSubevent;opening a gift;surprise;4.0
+HasSubevent;surprise someone;shock them;3.4641016151377544
+RelatedTo;surprise;birthday party;2.912043955712207
+HasSubevent;surprise someone;scare them;2.82842712474619
+RelatedTo;party;surprise;2.089018908483119
+RelatedTo;surprise;emotion;2.046460358765837
+CapableOf;An event;surprise you;2.0
+Causes;seeing something new;is surprise;2.0
+HasPrerequisite;surprise someone;not tell them of your plans;2.0
+HasPrerequisite;surprise someone;not tell your plans to them;2.0
+HasPrerequisite;surprise someone;be sneaky;2.0
+HasSubevent;surprise someone;they gasp;2.0
+Causes;surprising someone;them to scream;3.4641016151377544
+Causes;surprising someone;joy;2.82842712474619
+Causes;surprising someone;laughter;2.82842712474619
+Causes;surprising someone;a heart attack;2.0
+HasSubevent;surprising someone;hide;2.0
+HasSubevent;surprising someone;jump out;2.0
+HasSubevent;surprising someone;a scream;2.0
+HasSubevent;surprising someone;shouting;2.0
+HasSubevent;surprising someone;yell;2.0
+HasSubevent;surprising someone;"yell ""surprise !""";2.0
+RelatedTo;surprising;unexpected;2.0
+RelatedTo;unexpected;surprising;2.0
+RelatedTo;iznenađujući;surprising;2.0
+SimilarTo;amazing;surprising;2.0
+SimilarTo;startling;surprising;2.0
+SimilarTo;stunning;surprising;2.0
+SimilarTo;surprising;amazing;2.0
+SimilarTo;surprising;startling;2.0
+SimilarTo;surprising;stunning;2.0
+Synonym;sorprenent;surprising;2.0
+RelatedTo;okolina;surroundings;2.0
+RelatedTo;okruženje;surroundings;2.0
+Synonym;surroundings;environment;2.0
+Synonym;surroundings;milieu;2.0
+Synonym;ぐるり;surroundings;2.0
+Synonym;周り;surroundings;2.0
+Synonym;周回;surroundings;2.0
+Synonym;周囲;surroundings;2.0
+Synonym;四囲;surroundings;2.0
+Synonym;回り;surroundings;2.0
+Synonym;外囲;surroundings;2.0
+Synonym;廻り;surroundings;2.0
+FormOf;surroundings;surrounding;1.0
+HasContext;surroundings;physics;1.0
+IsA;surroundings;mesology;1.0
+RelatedTo;محيط;surroundings;1.0
+RelatedTo;وسط;surroundings;1.0
+RelatedTo;торош;surroundings;1.0
+RelatedTo;palibot;surroundings;1.0
+RelatedTo;okolí;surroundings;1.0
+IsA;terry;fabric;2.0
+IsA;terry;toweling;2.0
+Synonym;ris;terry;2.0
+Synonym;terry cloth;terry;2.0
+Synonym;terrycloth;terry;2.0
+Synonym;Terry;Dame Alice Ellen Terry;2.0
+Synonym;frotee;terry;2.0
+Synonym;terry;terry;2.0
+Synonym;spugna;terry;2.0
+Synonym;タオル;terry;2.0
+Synonym;テリークロス;terry;2.0
+Synonym;kain tuala;terry;2.0
+CapableOf;Terry;borrow a pen from Bob;1.0
+CapableOf;Terry;push the door closed;1.0
+DefinedAs;terry;dog of tintin;1.0
+DerivedFrom;terry search;terry;1.0
+DerivedFrom;terry stop;terry;1.0
+DerivedFrom;terrytown;terry;1.0
+Desires;terry;sex;1.0
+ExternalURL;terry;104421611-n;1.0
+RelatedTo;theory;idea;4.989589161444056
+RelatedTo;theory;hypothesis;4.006494727314639
+RelatedTo;theory;scientific;3.434530535604539
+CapableOf;a theory;be disproven;2.82842712474619
+IsA;Relativity;theory;2.82842712474619
+RelatedTo;theory;science;2.5329824318380103
+RelatedTo;theory;evolution;2.525866188063018
+CreatedBy;theory;scientist;2.0
+CreatedBy;theory;thinking;2.0
+IsA;atomism;theory;2.0
+IsA;blastogenesis;theory;2.0
+IsA;economic theory;theory;2.0
+IsA;egoism;theory;2.0
+IsA;field theory;theory;2.0
+IsA;holism;theory;2.0
+IsA;Objectivism;a theory;2.0
+IsA;patchwork;theory;2.0
+IsA;preformation;theory;2.0
+IsA;reductionism;theory;2.0
+IsA;scientific theory;theory;2.0
+IsA;object;thing;2.82842712474619
+FormOf;things;thing;2.0
+HasContext;thing;historical;2.0
+IsA;body of water;thing;2.0
+IsA;change;thing;2.0
+IsA;feast;thing;2.0
+IsA;flagship;thing;2.0
+IsA;freshener;thing;2.0
+IsA;A heaven;thing;2.0
+IsA;horror;thing;2.0
+IsA;House;a thing;2.0
+IsA;inessential;thing;2.0
+IsA;jimdandy;thing;2.0
+IsA;necessity;thing;2.0
+IsA;pacifier;thing;2.0
+IsA;part;thing;2.0
+IsA;pill;thing;2.0
+IsA;reservoir;thing;2.0
+IsA;security blanket;thing;2.0
+IsA;snorter;thing;2.0
+HasPrerequisite;contemplate;think;6.6332495807108
+HasPrerequisite;create an idea;think;4.47213595499958
+HasPrerequisite;answer questions;think;3.4641016151377544
+HasPrerequisite;talk to someone;think;3.4641016151377544
+HasSubevent;analyse something;think;3.4641016151377544
+HasSubevent;answering questions;Think;3.4641016151377544
+HasSubevent;contemplate;think;3.4641016151377544
+HasPrerequisite;cogitate;think;2.82842712474619
+HasPrerequisite;communicate;think;2.82842712474619
+HasPrerequisite;think;think;2.82842712474619
+HasPrerequisite;think;use your brain;2.82842712474619
+HasPrerequisite;think;use your brains;2.82842712474619
+HasPrerequisite;understand;think;2.82842712474619
+HasSubevent;sitting quietly;think;2.82842712474619
+HasSubevent;writing;think;2.82842712474619
+MotivatedByGoal;think;you have to make a decision;2.82842712474619
+UsedFor;a head;think;2.82842712474619
+RelatedTo;consider;think;2.015936506936665
+CapableOf;Humans;think;2.0
+CapableOf;most people;think;2.0
+RelatedTo;ametice;thoroughly;2.0
+RelatedTo;grdno;thoroughly;2.0
+RelatedTo;hametice;thoroughly;2.0
+RelatedTo;kriti kao zmija noge;thoroughly;2.0
+RelatedTo;temeljito;thoroughly;2.0
+Synonym;good;thoroughly;2.0
+Synonym;soundly;thoroughly;2.0
+Synonym;thoroughly;exhaustively;2.0
+Synonym;hyvin;thoroughly;2.0
+Synonym;perusteellisesti;thoroughly;2.0
+Synonym;täysin;thoroughly;2.0
+Synonym;absolument;thoroughly;2.0
+Synonym;bon;thoroughly;2.0
+Synonym;complètement;thoroughly;2.0
+Synonym;entièrement;thoroughly;2.0
+Synonym;exhaustivement;thoroughly;2.0
+Synonym;すっきり;thoroughly;2.0
+Synonym;とことん;thoroughly;2.0
+Synonym;すぱり;thoroughly;2.0
+Synonym;じっくり;thoroughly;2.0
+RelatedTo;timothy;tim;2.0
+CapableOf;Tim;box goods;1.0
+DerivedFrom;timmo;tim;1.0
+DerivedFrom;timmy;tim;1.0
+EtymologicallyDerivedFrom;تیم;tim;1.0
+ExternalURL;tim;Tim (singer);1.0
+ExternalURL;tim;Q626133;1.0
+FormOf;tims;tim;1.0
+HasA;tim;kids;1.0
+HasContext;tim;biblical;1.0
+HasContext;tim;british;1.0
+HasContext;tim;derogatory;1.0
+HasContext;tim;ireland;1.0
+HasContext;tim;slang;1.0
+HasContext;tim;soccer;1.0
+HasContext;tim;uk;1.0
+HasProperty;tim;nuts;1.0
+IsA;Tim;a vegetarian;1.0
+IsA;tim;washing his car;1.0
+RelatedTo;1 timothy;tim;1.0
+RelatedTo;minute;time;9.521134386195797
+RelatedTo;hour;time;9.033936019255394
+RelatedTo;clock;time;8.685850562840695
+RelatedTo;watch;time;7.363694724796783
+RelatedTo;time;clock;6.805585940975252
+RelatedTo;morning;time;6.655524021442638
+RelatedTo;evening;time;6.497384089000741
+RelatedTo;time;minutes;6.059372904847498
+RelatedTo;time;hours;5.941380311005179
+RelatedTo;year;time;5.735154749437891
+RelatedTo;always;time;5.628498911788116
+RelatedTo;century;time;5.167591315109971
+RelatedTo;time;seconds;5.14159508324022
+RelatedTo;month;time;5.00719482345155
+RelatedTo;day;time;4.894486694230561
+RelatedTo;time;measurement;4.369897023958345
+RelatedTo;time;watch;4.170371686073077
+RelatedTo;week;time;4.144876355212541
+RelatedTo;time;clocks;4.0639881889592155
+Desires;a person;time;4.0
+RelatedTo;double;times;3.859015418471401
+IsA;Roman times;times;2.0
+IsA;times;time period;2.0
+IsA;times;times;2.0
+RelatedTo;puta;times;2.0
+RelatedTo;sadašnjica;times;2.0
+Synonym;الزَمَن الحَاضِر;times;2.0
+Synonym;الزَمَن الحَدِيث;times;2.0
+Synonym;الزَمَن المُعَاصِر;times;2.0
+Synonym;اليَوْم;times;2.0
+Synonym;contemporary world;times;2.0
+Synonym;modern times;times;2.0
+Synonym;modern world;times;2.0
+Synonym;present times;times;2.0
+Synonym;times;multiplication;2.0
+Synonym;tiempos;times;2.0
+Synonym;momento honetako;times;2.0
+Synonym;oraingo;times;2.0
+Synonym;une honetako;times;2.0
+Synonym;aikakausi;times;2.0
+CapableOf;Anyone that tries;measure up;1.0
+FormOf;tries;try;1.0
+FormOf;tries;try;1.0
+FormOf;tries;trie;1.0
+FormOf;tries;try;1.0
+FormOf;tries;try;1.0
+RelatedTo;tries;try;1.0
+RelatedTo;tries;try;1.0
+ExternalURL;tries;tries;0.25
+ExternalURL;tries;tries;0.25
+IsA;return;turning;2.0
+IsA;reversal;turning;2.0
+IsA;rotation;turning;2.0
+IsA;turning;change;2.0
+IsA;turning;end product;2.0
+IsA;turning;formation;2.0
+IsA;turning;movement;2.0
+IsA;turning;paring;2.0
+IsA;volution;turning;2.0
+IsA;yaw;turning;2.0
+Synonym;اِلْتِفاف;turning;2.0
+Synonym;دَوَرَان;turning;2.0
+Synonym;turning;turn;2.0
+Synonym;turn;turning;2.0
+Synonym;cilindrado;turning;2.0
+Synonym;giro;turning;2.0
+Synonym;biraketa;turning;2.0
+Synonym;käännös;turning;2.0
+Synonym;kääntyminen;turning;2.0
+Synonym;lastu;turning;2.0
+FormOf;turns;turn;1.0
+FormOf;turns;turn;1.0
+FormOf;turns;turn;1.0
+RelatedTo;فائز;turns;1.0
+RelatedTo;turns;turn;1.0
+RelatedTo;turns;turn;1.0
+RelatedTo;scappellare;turns;1.0
+RelatedTo;sostituirsi;turns;1.0
+RelatedTo;invicem;turns;1.0
+RelatedTo;perinda;turns;1.0
+RelatedTo;вильнуть;turns;1.0
+RelatedTo;вилять;turns;1.0
+RelatedTo;чередоваться;turns;1.0
+RelatedTo;maze;turns;0.3410000000000002
+RelatedTo;next;turns;0.2669999999999999
+ExternalURL;turns;turns;0.25
+ExternalURL;turns;turns;0.25
+RelatedTo;twist;turns;0.22599999999999998
+RelatedTo;course;turns;0.1549999999999998
+RelatedTo;coil;turns;0.14400000000000013
+Synonym;Gêmeos;twin;3.4641016151377544
+FormOf;twins;twin;2.0
+IsA;fraternal twin;twin;2.0
+IsA;identical twin;twin;2.0
+IsA;twin;sibling;2.0
+MannerOf;twin;give birth;2.0
+MannerOf;twin;grow;2.0
+MannerOf;twin;match;2.0
+PartOf;Twin;Snake;2.0
+PartOf;Twin;United States;2.0
+RelatedTo;blizanac;twin;2.0
+Synonym;agermanar;twin;2.0
+Synonym;bessó;twin;2.0
+Synonym;Cascada de Twin;Twin;2.0
+Synonym;Catarates Twin;Twin;2.0
+Synonym;tenir bessonada;twin;2.0
+Synonym;vincular;twin;2.0
+Synonym;tvilling;twin;2.0
+Synonym;duplicate;twin;2.0
+Synonym;parallel;twin;2.0
+IsA;Cereal;typically;2.0
+RelatedTo;typically;typical;2.0
+RelatedTo;školski;typically;2.0
+RelatedTo;tipično;typically;2.0
+Synonym;tavan mukaan;typically;2.0
+Synonym;spécifiquement;typically;2.0
+Synonym;typiquement;typically;2.0
+Synonym;caratteristicamente;typically;2.0
+Synonym;tipicamente;typically;2.0
+Synonym;典型的に;typically;2.0
+Synonym;biasanya;typically;2.0
+Synonym;spt biasa;typically;2.0
+Synonym;tipikal;typically;2.0
+Synonym;tipicamente;typically;2.0
+Synonym;อย่างเป็นแบบฉบับ;typically;2.0
+Antonym;atypically;typically;1.0
+Antonym;typically;atypically;1.0
+DerivedFrom;typically;typical;1.0
+ExternalURL;typically;400129052-r;1.0
+IsA;In Australia, biodiesel;typically;1.0
+Synonym;قَلِيل الحَظّ;unfortunate;3.4641016151377544
+Antonym;fortunate;unfortunate;2.0
+Antonym;unfortunate;fortunate;2.0
+IsA;abandoned person;unfortunate;2.0
+IsA;amputee;unfortunate;2.0
+IsA;choker;unfortunate;2.0
+IsA;desperate;unfortunate;2.0
+IsA;failure;unfortunate;2.0
+IsA;homeless;unfortunate;2.0
+IsA;Job;unfortunate;2.0
+IsA;jonah;unfortunate;2.0
+IsA;languisher;unfortunate;2.0
+IsA;maroon;unfortunate;2.0
+IsA;mourner;unfortunate;2.0
+IsA;nympholept;unfortunate;2.0
+IsA;outcast;unfortunate;2.0
+IsA;poor person;unfortunate;2.0
+IsA;prisoner;unfortunate;2.0
+IsA;schlimazel;unfortunate;2.0
+IsA;sick person;unfortunate;2.0
+FormOf;unfortunates;unfortunate;1.0
+RelatedTo;unfortunates;unfortunate;1.0
+ExternalURL;unfortunates;unfortunates;0.25
+ExternalURL;unfortunates;unfortunates;0.25
+HasProperty;Every snowflake;unique;4.0
+HasProperty;People;unique;2.82842712474619
+HasProperty;Each person;unique;2.0
+HasProperty;every person;unique;2.0
+RelatedTo;one of kind;unique;2.0
+RelatedTo;jedinstven;unique;2.0
+SimilarTo;specific;unique;2.0
+SimilarTo;unique;specific;2.0
+SimilarTo;unique;unusual;2.0
+SimilarTo;unusual;unique;2.0
+Synonym;unique;singular;2.0
+Synonym;unique;unparalleled;2.0
+Synonym;ainutlaatuinen;unique;2.0
+Synonym;unique;unique;2.0
+Synonym;オンリー ワン;unique;2.0
+Synonym;オンリーワン;unique;2.0
+Synonym;ユニーク;unique;2.0
+Synonym;ユニーク;unique;2.0
+Synonym;ユーニーク;unique;2.0
+Synonym;一意;unique;2.0
+RelatedTo;bezuspešno;unsuccessfully;2.0
+RelatedTo;bezuspješno;unsuccessfully;2.0
+RelatedTo;neuspelo;unsuccessfully;2.0
+RelatedTo;neuspešno;unsuccessfully;2.0
+RelatedTo;neuspjelo;unsuccessfully;2.0
+RelatedTo;neuspješno;unsuccessfully;2.0
+Synonym;sin éxito;unsuccessfully;2.0
+Synonym;turhaan;unsuccessfully;2.0
+Synonym;tetapi gagal;unsuccessfully;2.0
+Synonym;em vão;unsuccessfully;2.0
+Antonym;unsuccessfully;successfully;1.0
+DerivedFrom;unsuccessfully;unsuccessful;1.0
+DerivedFrom;unsuccessfully;unsuccessful;1.0
+ExternalURL;unsuccessfully;400169098-r;1.0
+RelatedTo;neúspěšně;unsuccessfully;1.0
+RelatedTo;no avail;unsuccessfully;1.0
+RelatedTo;unsuccessfully;no avail;1.0
+RelatedTo;unsuccessfully;success;1.0
+RelatedTo;unsuccessfully;successful;1.0
+RelatedTo;unsuccessfully;successfully;1.0
+RelatedTo;column;vertical;2.8885982759809297
+HasProperty;Columns;vertical;2.0
+IsA;vertical;orientation;2.0
+RelatedTo;steep;vertical;2.0
+RelatedTo;straight;vertical;2.0
+RelatedTo;vertical;steep;2.0
+RelatedTo;vertical;straight;2.0
+RelatedTo;okomit;vertical;2.0
+RelatedTo;uspravan;vertical;2.0
+RelatedTo;uzduž;vertical;2.0
+RelatedTo;vertikalan;vertical;2.0
+RelatedTo;vertikala;vertical;2.0
+SimilarTo;hierarchical;vertical;2.0
+SimilarTo;plumb;vertical;2.0
+SimilarTo;unsloped;vertical;2.0
+SimilarTo;upended;vertical;2.0
+SimilarTo;vertical;hierarchical;2.0
+SimilarTo;vertical;plumb;2.0
+SimilarTo;vertical;unsloped;2.0
+SimilarTo;vertical;upended;2.0
+IsA;Victorian;person;2.0
+SimilarTo;nonmodern;Victorian;2.0
+SimilarTo;Victorian;nonmodern;2.0
+Synonym;victorià;Victorian;2.0
+Synonym;victorian;straight-laced;2.0
+Synonym;viktoriaani;Victorian;2.0
+Synonym;viktoriaaninen;Victorian;2.0
+Synonym;Viktorian;Victorian;2.0
+Synonym;vittoriano;Victorian;2.0
+Synonym;วิคตอเรียน;Victorian;2.0
+Synonym;ชาววิกตอเรีย;Victorian;2.0
+Synonym;維多利亞;Victorian;2.0
+DerivedFrom;retro victorian;victorian;1.0
+DerivedFrom;victorian;victoria;1.0
+DerivedFrom;victorian;victoriental;1.0
+EtymologicallyDerivedFrom;victorianagh;victorian;1.0
+ExternalURL;victorian;301541854-s;1.0
+ExternalURL;victorian;303039307-a;1.0
+ExternalURL;victorian;110772729-n;1.0
+FormOf;victorians;victorian;1.0
+Synonym;viewers;viewing audience;2.0
+FormOf;viewers;viewer;1.0
+RelatedTo;viewers;viewer;1.0
+RelatedTo;зрительский;viewers;1.0
+ExternalURL;viewers;viewers;0.25
+ExternalURL;viewers;viewers;0.25
+AtLocation;violence;a war;5.656854249492381
+AtLocation;violence;a hockey game;2.0
+CapableOf;violence;anger pacifists;2.0
+CapableOf;Violence;includes death;2.0
+DefinedAs;Violence;last option of a desperate man;2.0
+HasA;wars;violence;2.0
+IsA;domestic violence;violence;2.0
+IsA;rage;violence;2.0
+IsA;riot;violence;2.0
+IsA;road rage;violence;2.0
+IsA;violence;aggression;2.0
+IsA;violence;turbulence;2.0
+RelatedTo;nasilje;violence;2.0
+RelatedTo;nered;violence;2.0
+RelatedTo;sila;violence;2.0
+RelatedTo;zor;violence;2.0
+RelatedTo;zulum;violence;2.0
+RelatedTo;ہنسا;violence;2.0
+Synonym;بَطْش;violence;2.0
+Synonym;شِدَّة;violence;2.0
+HasProperty;Some sports;violent;2.0
+RelatedTo;hostile;violent;2.0
+RelatedTo;unpeaceful;violent;2.0
+RelatedTo;violent;hostile;2.0
+RelatedTo;violent;unpeaceful;2.0
+RelatedTo;nasilan;violent;2.0
+RelatedTo;sivonja;violent;2.0
+RelatedTo;žestok;violent;2.0
+SimilarTo;convulsive;violent;2.0
+SimilarTo;ferocious;violent;2.0
+SimilarTo;intense;violent;2.0
+SimilarTo;knock-down-and-drag-out;violent;2.0
+SimilarTo;lashing;violent;2.0
+SimilarTo;lurid;violent;2.0
+SimilarTo;raging;violent;2.0
+SimilarTo;rampageous;violent;2.0
+SimilarTo;ruffianly;violent;2.0
+SimilarTo;slam-bang;violent;2.0
+SimilarTo;unnatural;violent;2.0
+SimilarTo;violent;convulsive;2.0
+RelatedTo;watch;time;7.363694724796783
+RelatedTo;watch;wrist;6.810286337592569
+RelatedTo;watch;clock;5.725382083319855
+RelatedTo;clock;watch;5.569560126257728
+RelatedTo;time;watch;4.170371686073077
+RelatedTo;observe;watch;4.0850948581397715
+RelatedTo;watch;timepiece;3.985975413872996
+UsedFor;a watch;keeping track of time;3.4641016151377544
+UsedFor;a watch;time;3.4641016151377544
+IsA;a watch;a chronometer;2.82842712474619
+IsA;a watch;a clock;2.82842712474619
+RelatedTo;watch;look;2.777048793233565
+RelatedTo;watch;on wrist;2.1118712081942874
+RelatedTo;watch;device;2.046460358765838
+AtLocation;a watch;a watch store;2.0
+CapableOf;a watch;time an event;2.0
+CapableOf;a watch;time events;2.0
+Entails;watch;look;2.0
+Entails;watch;see;2.0
+HasPrerequisite;see your favorite show;watch;2.0
+Synonym;警固;watchmen;2.0
+ExternalURL;watchmen;Watchmen;1.0
+ExternalURL;watchmen;Q128444;1.0
+FormOf;watchmen;watchman;1.0
+RelatedTo;watchmen;watchman;1.0
+Synonym;واتشمن;watchmen;0.5
+Synonym;пазителите;watchmen;0.5
+Synonym;watchmen;watchmen;0.5
+Synonym;watchmen;watchmen;0.5
+Synonym;watchmen strážci;watchmen;0.5
+Synonym;vogterne;watchmen;0.5
+Synonym;watchmen;watchmen;0.5
+Synonym;watchmen;watchmen;0.5
+Synonym;watchmen;watchmen;0.5
+Synonym;نگهبانان;watchmen;0.5
+Synonym;vartijat;watchmen;0.5
+Synonym;watchmen;watchmen;0.5
+Synonym;watchmen;watchmen;0.5
+Synonym;השומרים;watchmen;0.5
+Synonym;वॉचमेन;watchmen;0.5
+IsA;whistling;music;2.0
+Synonym;xiular;whistling;2.0
+Synonym;whistling;whistle;2.0
+Synonym;silbido;whistling;2.0
+Synonym;viheltely;whistling;2.0
+Synonym;fischiettio;whistling;2.0
+Synonym;ビュイーン;whistling;2.0
+Synonym;シュンシュン;whistling;2.0
+Synonym;口笛;whistling;2.0
+Synonym;唸り声;whistling;2.0
+Synonym;うなり声;whistling;2.0
+Synonym;颯 々;whistling;2.0
+Synonym;颯颯;whistling;2.0
+Synonym;飄 々;whistling;2.0
+Synonym;飄飄;whistling;2.0
+Synonym;การผิวปาก;whistling;2.0
+UsedFor;a lip;whistling;2.0
+DerivedFrom;whistling;whistle;1.0
+DerivedFrom;whistlingly;whistling;1.0
+EtymologicallyDerivedFrom;whistling;whistlinge;1.0
+RelatedTo;cloud;white;7.7063610089328165
+RelatedTo;rice;white;7.607627751145557
+RelatedTo;snow;white;7.524360437937567
+RelatedTo;cotton;white;7.122359159716673
+RelatedTo;milk;white;7.059178422451158
+RelatedTo;paper;white;6.817624219623724
+RelatedTo;salt;white;6.311576665144774
+RelatedTo;sugar;white;5.797240722964676
+RelatedTo;egg;white;4.921381919745713
+RelatedTo;sheep;white;4.709564735726647
+HasProperty;Milk;white;4.47213595499958
+RelatedTo;bone;white;4.08166632639171
+RelatedTo;chicken;white;3.5434446517477873
+RelatedTo;wool;white;3.2680269276736382
+RelatedTo;paste;white;2.9154759474226495
+DefinedAs;white;opposite of black;2.82842712474619
+RelatedTo;bread;white;2.5682678987987213
+Synonym;白;white;2.449489742783178
+RelatedTo;wine;white;2.3849528297222147
+DistinctFrom;black;white;2.015936506936665
+RelatedTo;ripperology;whitechapel;1.0
+RelatedTo;whitechapel;england;1.0
+RelatedTo;whitechapel;london;1.0
+RelatedTo;yiddisher;whitechapel;1.0
+ExternalURL;whitechapel;Whitechapel;0.25
+AtLocation;whores;a motel;2.0
+AtLocation;whores;a seedy hotel;1.0
+FormOf;whores;whore;1.0
+FormOf;whores;whore;1.0
+FormOf;whores;whore;1.0
+RelatedTo;whores;whore;1.0
+RelatedTo;whores;whore;1.0
+RelatedTo;𐌺𐌰𐌻𐌺𐌾𐍉𐌼;whores;1.0
+ExternalURL;whores;whores;0.25
+ExternalURL;whores;whores;0.25
+IsA;widower;man;2.0
+RelatedTo;udovac;widower;2.0
+RelatedTo;udovčev;widower;2.0
+Synonym;vidu;widower;2.0
+Synonym;viudo;widower;2.0
+Synonym;widower;udovac;2.0
+Synonym;widowman;widower;2.0
+Synonym;alargun;widower;2.0
+Synonym;leskimies;widower;2.0
+Synonym;veuf;widower;2.0
+Synonym;viúvo;widower;2.0
+Synonym;אַלְמָן;widower;2.0
+Synonym;vedovo;widower;2.0
+Synonym;ウィドウア;widower;2.0
+Synonym;やもお;widower;2.0
+Synonym;寡;widower;2.0
+Synonym;寡夫;widower;2.0
+Synonym;寡夫;widower;2.0
+Synonym;寡男;widower;2.0
+Synonym;寡男;widower;2.0
+Antonym;loser;winner;2.0
+Antonym;winner;loser;2.0
+CapableOf;a winner;best a loser;2.0
+IsA;contestee;winner;2.0
+IsA;medalist;winner;2.0
+IsA;prize winner;winner;2.0
+IsA;upsetter;winner;2.0
+IsA;walloper;winner;2.0
+IsA;winner;contestant;2.0
+IsA;winner;gambler;2.0
+RelatedTo;winner;win;2.0
+RelatedTo;atleta;winner;2.0
+RelatedTo;dobitnica;winner;2.0
+RelatedTo;dobitnik;winner;2.0
+RelatedTo;osvajač;winner;2.0
+RelatedTo;pobednik;winner;2.0
+RelatedTo;pobjednik;winner;2.0
+Synonym;guanyador;winner;2.0
+Synonym;vencedor;winner;2.0
+Synonym;vinder;winner;2.0
+Synonym;won;North Korean won;2.0
+Synonym;won;South Korean won;2.0
+Synonym;voitettu;won;2.0
+Synonym;won;won;2.0
+Synonym;ウォン;won;2.0
+Synonym;ウオン;won;2.0
+DefinedAs;won;past tense of win;1.0
+DerivedFrom;unwon;won;1.0
+DerivedFrom;wonnest;won;1.0
+EtymologicallyDerivedFrom;won;winnan;1.0
+EtymologicallyDerivedFrom;uôn;won;1.0
+ExternalURL;won;301455267-a;1.0
+FormOf;woned;won;1.0
+FormOf;wonnest;won;1.0
+FormOf;wons;won;1.0
+FormOf;won;win;1.0
+HasContext;won;regional;1.0
+MotivatedByGoal;cash in;you won;1.0
+ReceivesAction;A prize;won;1.0
+RelatedTo;gewonnen;won;1.0
+PartOf;a word;a sentence;7.211102550927979
+IsA;a verb;a word;5.291502622129181
+PartOf;a letter;a word;4.898979485566356
+PartOf;A word;language;4.0
+RelatedTo;word;sentence;3.682933613303395
+CapableOf;a word;mean more than one thing;3.4641016151377544
+CapableOf;a word;mean things;3.4641016151377544
+IsA;earth;a word;3.4641016151377544
+IsA;a word;a piece of a sentence;2.82842712474619
+Synonym;語;word;2.449489742783178
+RelatedTo;word;language;2.229798197146998
+RelatedTo;word;part;2.0049937655763426
+RelatedTo;word;unit;2.0049937655763426
+FormOf;words;word;2.0
+HasContext;nepiva;word;2.0
+IsA;anagram;word;2.0
+IsA;anaphor;word;2.0
+IsA;antonym;word;2.0
+IsA;back-formation;word;2.0
+IsA;charade;word;2.0
+AtLocation;words;books;8.94427190999916
+CapableOf;words;hurt feelings;4.47213595499958
+AtLocation;words;a book;3.4641016151377544
+CapableOf;Words;mean things;3.4641016151377544
+AtLocation;words;a sentence;2.82842712474619
+HasA;Words;meaning;2.82842712474619
+HasA;Some words;multiple meanings;2.82842712474619
+AtLocation;words;the newspaper;2.0
+FormOf;words;word;2.0
+HasA;Most books;words;2.0
+IsA;words;language;2.0
+IsA;words;speech;2.0
+ReceivesAction;Words;written;2.0
+Synonym;paraules;words;2.0
+Synonym;words;actor's line;2.0
+Synonym;words;lyric;2.0
+Synonym;words;quarrel;2.0
+Synonym;solas;words;2.0
+Synonym;kieli;words;2.0
+Synonym;puhe;words;2.0
+HasProperty;the world;round;8.0
+HasProperty;The world;diverse;3.4641016151377544
+RelatedTo;earth;world;3.3704599092705436
+AtLocation;a world;a galaxy;2.82842712474619
+AtLocation;a world;space;2.82842712474619
+DefinedAs;Our world;earth;2.82842712474619
+IsA;The world;a big place;2.82842712474619
+IsA;The world;where we live;2.82842712474619
+Synonym;世界;world;2.449489742783178
+AtLocation;a world;a solar system;2.0
+AtLocation;a world;the universe;2.0
+HasProperty;the world;small;2.0
+IsA;academia;world;2.0
+IsA;Grub Street;world;2.0
+IsA;real world;world;2.0
+IsA;world;class;2.0
+IsA;world;experience;2.0
+IsA;world;group;2.0
+IsA;world;homo;2.0
+IsA;world;part;2.0
+RelatedTo;concern;worry;3.721827508093302
+Causes;having an examination;worry;2.82842712474619
+Causes;worry;worry;2.0
+HasSubevent;wait for someone;worry;2.0
+IsA;worry;anxiety;2.0
+MannerOf;brood;worry;2.0
+MannerOf;eat;worry;2.0
+MannerOf;fear;worry;2.0
+MannerOf;fret;worry;2.0
+MannerOf;fuss;worry;2.0
+MannerOf;misgive;worry;2.0
+MannerOf;nag;worry;2.0
+MannerOf;obsess;worry;2.0
+MannerOf;worry;incise;2.0
+MannerOf;worry;mind;2.0
+MannerOf;worry;perturb;2.0
+MannerOf;worry;rub;2.0
+RelatedTo;bojazan;worry;2.0
+RelatedTo;briga;worry;2.0
+RelatedTo;brinuti;worry;2.0
