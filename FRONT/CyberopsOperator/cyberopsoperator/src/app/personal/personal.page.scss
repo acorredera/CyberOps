@@ -1,0 +1,421 @@
+ion-toolbar{
+    --ion-background-color:rgba(245, 245, 245, 0);   
+    --color:#fff; 
+    --background: url('../../assets/img/bkgMenu.jpg') no-repeat center center / cover;   
+ }
+ion-content{
+    --background: url('../../assets/img/bkgAPP.jpg') no-repeat center center / cover; 
+   
+  }
+
+// TITULO PÁGINA
+
+
+.iconHome{
+    background-image:url('../../assets/icon/iconHome.svg');
+        background-repeat: no-repeat;
+        width:30px;
+        height:30px;           
+        vertical-align: middle;
+        cursor:pointer;
+        margin-right:15px;
+}
+.bkgPersonal{
+    background: url('../../assets/img/bkgPersonal.jpg') left center ;
+    background-repeat: no-repeat;
+    width:30%;
+    background-size: cover;
+    .fondoGris{
+        background:#333333;
+        color:#fff;   
+        margin:15px;
+        margin-left:15px;
+        p{
+            padding-left:0px;
+        }
+    }
+    
+    .iconPersonal{  
+        background-image:url('../../assets/icon/iconPersonalCOLOR.svg');
+        background-repeat: no-repeat;
+        width: 5em;
+        height: 5em;  
+        margin:20px;      
+        vertical-align: middle;        
+      } 
+    
+    
+
+    .iconBack{
+        background-image:url('../../assets/icon/iconBack.svg');
+        background-repeat: no-repeat;
+        width:55px;
+        height:55px;
+        vertical-align: middle;
+        cursor:pointer; 
+        margin-top:70%;
+    }   
+    
+}
+
+// COMUN A TODAS LAS VENTANAS
+.bkgCyber{
+    background:rgba(51,51,51,0.7);
+    border:1px solid #fff;   
+    // display:inline-block;
+    height:auto;  
+    margin-top:30px;  
+}
+
+h2{
+    margin-top:50px;
+}
+h3{
+    color:#fff;
+    padding-left:10px;
+}
+p{
+    color:#fff;
+    margin-top:20px;
+    padding-left:10px;
+    
+}
+.estado{
+    margin-top:0px;
+}
+.cybersistem{
+    margin-top:30px;
+}
+.percent{
+    font-size:2em;
+    color:#fff;
+    margin-top:0px;
+}
+.iconCyber{
+    background-image:url('../../assets/icon/iconCyber.svg');
+    background-repeat: no-repeat;
+    width: 3em;
+    height: 3em;
+    vertical-align: middle;
+    margin-top:10px;   
+    background-size: cover;     
+}
+.iconHeart{
+    background-image:url('../../assets/icon/iconHeart.svg');
+    background-repeat: no-repeat;
+    width: 3em;
+    height: 3em;
+    vertical-align: middle;  
+    margin-right:15px;   
+    margin-top:10px;   
+}
+.iconStatusOrangeBig{
+    background-image:url('../../assets/icon/iconNormal.svg');
+    background-repeat: no-repeat;
+    width: 3em;
+    height: 3em;
+    vertical-align: middle;
+    margin-top:10px;  
+}
+
+// LISTADO DE PERSONAL
+.bkgListado{
+    background:rgba(51,51,51,0.5);
+    border:1px solid #fff;
+    width: 100%;    
+    padding:20px;
+    margin:auto;
+    margin-top:30px;
+
+    .iconPersonalWhite{
+        background-image:url('../../assets/icon/iconPersonal.svg');
+        background-repeat: no-repeat;
+        width:55px;
+        height:55px;
+        vertical-align: middle;
+        cursor:pointer;
+    }
+    
+    .tituloListado{
+        width: 100%;
+    }
+    h3{
+        color:#fff;
+    }
+    h4{
+        color:#fff;
+    }
+    p{
+        color:#fff;
+        // display:inline-block;
+    }
+    span{
+        color:#d8df21;
+    }
+
+    .todosPersonal{
+        width:100%;
+    }
+    .personal{
+        width: 100%;
+        border:1px solid rgba(255,255,255,0.2);       
+        margin-bottom:10px;  
+        cursor:pointer;      
+        p{
+            margin-top:0px;
+            margin-bottom:4px;
+            padding-left:0px;
+        }
+    }
+    
+    .personal:hover{
+        background:rgba(51,51,51,0.5);
+        border:1px solid #fff;
+        cursor:pointer;
+    }
+ 
+        
+    .iconStatusGreen{
+        background-image:url('../../assets/icon/iconHappy.svg');
+        background-repeat: no-repeat;
+        width:45px;
+        height:45px;
+        vertical-align: middle;   
+        display:inline-block;
+        padding-right:10px;
+    }
+
+    .iconStatusOrange{
+        background-image:url('../../assets/icon/iconNormal.svg');
+        background-repeat: no-repeat;
+        width:45px;
+        height:45px;
+        vertical-align: middle;  
+        display:inline-block;
+        padding-right:10px;
+    }
+
+    .iconStatusRed{
+        background-image:url('../../assets/icon/iconSad.svg');
+        background-repeat: no-repeat;
+        width:45px;
+        height:45px;
+        vertical-align: middle;  
+        display:inline-block;
+        padding-right:10px;
+    }
+
+}
+
+.borderRight{
+    // border-right: 1px solid #fff;
+}
+// FOTOS DE LA GENTE -eliminar en el futuro, solo una clase.
+.fotoMaribel{
+    background-image:url('../../assets/img/fotoMaribel.jpg');
+    background-repeat: no-repeat;
+    width:45px;
+    height:45px;
+    vertical-align: middle;  
+    background-size: cover;
+    display:inline-block;
+}
+
+.fotoAlberto{
+    background-image:url('../../assets/img/fotoAlberto.jpg');
+    background-repeat: no-repeat;
+    width:45px;
+    height:45px;
+    vertical-align: middle; 
+    background-size: cover; 
+}
+
+.fotoCarla{
+    background-image:url('../../assets/img/fotoCarla.jpg');
+    background-repeat: no-repeat;
+    width:45px;
+    height:45px;
+    vertical-align: middle; 
+    background-size: cover; 
+}
+.fotoIgnacio{
+    background-image:url('../../assets/img/fotoIgnacio.jpg');
+    background-repeat: no-repeat;
+    width:45px;
+    height:45px;
+    vertical-align: middle; 
+    background-size: cover;
+}
+.fotoNoa{
+    background-image:url('../../assets/img/fotoNoa.jpg');
+    background-repeat: no-repeat;
+    width:45px;
+    height:45px;
+    vertical-align: middle;
+    background-size: cover; 
+}
+.fotoAlicia{
+    background-image:url('../../assets/img/fotoAlicia.jpg');
+    background-repeat: no-repeat;
+    width:45px;
+    height:45px;
+    vertical-align: middle; 
+    background-size: cover;
+}
+.fotoLucia{
+    background-image:url('../../assets/img/fotoLucia.jpg');
+    background-repeat: no-repeat;
+    width:45px;
+    height:45px;
+    vertical-align: middle;
+    background-size: cover; 
+}
+.fotoJavier{
+    background-image:url('../../assets/img/fotoJavier.jpg');
+    background-repeat: no-repeat;
+    width:45px;
+    height:45px;
+    vertical-align: middle; 
+    background-size: cover;
+}
+.fotoMiranda{
+    background-image:url('../../assets/img/fotoMiranda.jpg');
+    background-repeat: no-repeat;
+    width:45px;
+    height:45px;
+    vertical-align: middle; 
+    background-size: cover;
+}
+.fotoPablo{
+    background-image:url('../../assets/img/fotoPablo.jpg');
+    background-repeat: no-repeat;
+    width:45px;
+    height:45px;
+    vertical-align: middle; 
+    background-size: cover;
+}
+.fotoRocio{
+    background-image:url('../../assets/img/fotoRocio.jpg');
+    background-repeat: no-repeat;
+    width:45px;
+    height:45px;
+    vertical-align: middle; 
+    background-size: cover;
+}
+.fotoRuben{
+    background-image:url('../../assets/img/fotoRuben.jpg');
+    background-repeat: no-repeat;
+    width:45px;
+    height:45px;
+    vertical-align: middle; 
+    background-size: cover;
+}
+.fotoCarmen{
+    background-image:url('../../assets/img/fotoCarmen.jpg');
+    background-repeat: no-repeat;
+    width:45px;
+    height:45px;
+    vertical-align: middle; 
+    background-size: cover;
+}
+.fotoMarta{
+    background-image:url('../../assets/img/fotoMarta.jpg');
+    background-repeat: no-repeat;
+    width:45px;
+    height:45px;
+    vertical-align: middle; 
+    background-size: cover;
+}
+.fotoCristina{
+    background-image:url('../../assets/img/fotoCristina.jpg');
+    background-repeat: no-repeat;
+    width:45px;
+    height:45px;
+    vertical-align: middle; 
+    background-size: cover;
+}
+.fotoJavierF{
+    background-image:url('../../assets/img/fotoJavierF.jpg');
+    background-repeat: no-repeat;
+    width:45px;
+    height:45px;
+    vertical-align: middle; 
+    background-size: cover;
+}
+.fotoLaura{
+    background-image:url('../../assets/img/fotoLaura.jpg');
+    background-repeat: no-repeat;
+    width:45px;
+    height:45px;
+    vertical-align: middle; 
+    background-size: cover;
+}
+.fotoJuan{
+    background-image:url('../../assets/img/fotoJuan.jpg');
+    background-repeat: no-repeat;
+    width:45px;
+    height:45px;
+    vertical-align: middle; 
+    background-size: cover;
+}
+
+.lineaBlanca{
+    height:1px;
+    background:#fff;
+    display:block;
+    width:95%;
+    margin-right:50px;
+}
+
+// MEDIA QUERIES
+
+@media (min-width: 567px) and (max-width: 991px){
+    ion-toolbar{
+       --ion-background-color:rgba(245, 245, 245, 0);   
+       --color:#fff; 
+       --background: url('../../assets/img/bkgMenu.jpg') no-repeat center center / cover; 
+     
+    }
+   }
+   @media (min-width: 992px) and (max-width: 1199px){
+       ion-header{
+           display:none;
+         }
+         .bkgPersonal{   
+            background-size: contain;
+            }
+            .fondoGris{       
+                margin:40px;
+                margin-left:80px;
+                
+            }
+            .iconPersonal{   
+               
+                width:120px;
+                height:120px;
+                 
+                
+            } 
+       
+   }
+    
+   @media (min-width: 1200px) {
+    ion-header{
+      display:none;
+    }
+    .bkgPersonal{   
+        background-size: contain;
+        }
+        .fondoGris{       
+            margin:40px;
+            margin-left:80px;
+            
+        }
+        .iconPersonal{   
+           
+            width:120px;
+            height:120px;
+             
+            
+        }
+   }

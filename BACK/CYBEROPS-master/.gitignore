@@ -1,0 +1,20 @@
+# Object file
+*.o
+*.iml
+*.xml
+*.ino
+
+# Ada Library Information
+*.ali
+
+# Ignored folders
+.idea/
+RECONOCIMIENTO_FACIAL/Webcam_photos
+RECONOCIMIENTO_FACIAL/BANCO_IMAGENES
+MAQUINAS/NAB
+AAdata
+
+#Special files
+settings.py
+requirements.txt
+*.png

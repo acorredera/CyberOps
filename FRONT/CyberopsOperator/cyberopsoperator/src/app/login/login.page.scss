@@ -1,0 +1,188 @@
+ion-content{
+    --background: url('../../assets/img/bkgLogin.jpg') no-repeat center center / cover; 
+   
+}
+
+// LOGOS APP
+
+.logoCyberops{
+    background-image: url('../../assets/icon/logoCyberops.svg'); 
+    background-repeat:no-repeat;
+    margin:auto;
+    display: block;
+    background-position: center center;    
+    // height: 70px;
+    // width: 500px;   
+    height: 70px;
+    width: 100%;   
+}
+
+// SOMBRA AVISO LOGIN ERRONEO
+
+.sc-ion-card-md-h ,.sc-ion-card-ios-h{
+    -webkit-margin-left: 10px;
+    -webkit-box-shadow: none!important;
+    box-shadow: none!important;
+    --background:transparent;
+    border-radius:0px;
+}
+
+//LOGIN MENU
+
+.cardLogin{    
+    // border:10px solid rgba(0,0,0,0.5);
+    // background:url('../../assets/img/bkgCardlogin.png') no-repeat center center / cover; 
+    background:url('../../assets/img/bkgCardLogin.png') ;    
+    background-size: cover;
+    background-position: center;
+    
+
+    padding:40px;   
+    width: 100%; 
+    height:auto;    
+    margin:auto;
+    display: block;    
+    text-align:center;
+    line-height:0.8;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    
+    
+       
+        ion-card-content{
+            position:relative;            
+            margin:auto;
+            
+            ion-item{
+                font-size:1em;        
+                border: 1px solid #fff;
+                box-shadow: none !important;                
+                -webkit-box-shadow: none !important; 
+                --background: transparent;  
+                color:#fff;              
+                margin:auto;
+                margin-bottom:15px;           
+                margin-left:5px;
+                margin-right:5px;
+
+                --background-activated: rgba(0,0,0,0.5);
+                --background-focused:  rgba(0,0,0,0.5);
+
+                    .iconUser{
+                        background-image:url('../../assets/icon/iconUser.svg'); 
+                        width:25px;
+                        height:25px;
+                        background-repeat:no-repeat;
+                    }
+                    .iconPass{
+                        background-image:url('../../assets/icon/iconPass.svg');
+                        width:25px;
+                        height:25px;
+                        background-repeat:no-repeat;
+                    }
+                    .iconIP{
+                        background-image:url('../../assets/icon/iconIP.svg');
+                        width:25px;
+                        height:25px;
+                        background-repeat:no-repeat;
+                    }
+            }
+            ion-label{
+                color:#fff;   
+            }
+            ion-button{
+                --background:transparent;
+                --background-focused: transparent;
+                --background-hover: transparent;
+                --box-shadow:none;
+                --background: rgb(94,109,46); /* Old browsers */
+                --background: -moz-linear-gradient(left, rgba(94,109,46,1) 0%, rgba(63,97,36,1) 100%); /* FF3.6-15 */
+                --background: -webkit-linear-gradient(left, rgba(94,109,46,1) 0%,rgba(63,97,36,1) 100%); /* Chrome10-25,Safari5.1-6 */
+                --background: linear-gradient(to right, rgba(94,109,46,1) 0%,rgba(63,97,36,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+                filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5e6d2e', endColorstr='#3f6124',GradientType=1 ); /* IE6-9 */
+                               
+            }
+            .submitBtn {     
+        
+               
+                // /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#5e6d2e+0,3f6124+100 */
+                // --background: rgb(94,109,46); /* Old browsers */
+                // --background: -moz-linear-gradient(left, rgba(94,109,46,1) 0%, rgba(63,97,36,1) 100%); /* FF3.6-15 */
+                // --background: -webkit-linear-gradient(left, rgba(94,109,46,1) 0%,rgba(63,97,36,1) 100%); /* Chrome10-25,Safari5.1-6 */
+                // --background: linear-gradient(to right, rgba(94,109,46,1) 0%,rgba(63,97,36,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+                // filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5e6d2e', endColorstr='#3f6124',GradientType=1 ); /* IE6-9 */
+                text-transform: capitalize;
+                font-size: 18px; 
+                 border:1px solid #fff;
+                margin-top:10px; 
+                --border-radius:0px;
+                height: 45px;
+                width: 100%;                      
+                margin-bottom:30px; 
+            }
+            
+           
+            .submitBtn:hover, .submitBtnSelected{
+                /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#4b9263+0,26703c+100 */
+                --background: rgb(75,146,99); /* Old browsers */
+                --background: -moz-linear-gradient(left, rgba(75,146,99,1) 0%, rgba(38,112,60,1) 100%); /* FF3.6-15 */
+                --background: -webkit-linear-gradient(left, rgba(75,146,99,1) 0%,rgba(38,112,60,1) 100%); /* Chrome10-25,Safari5.1-6 */
+                --background: linear-gradient(to right, rgba(75,146,99,1) 0%,rgba(38,112,60,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+                filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4b9263', endColorstr='#26703c',GradientType=1 ); /* IE6-9 */
+            }
+            .labelError{
+                display:block;
+                color:#aa0f0a;               
+                p{
+                    color:#aa0f0a;  
+                }         
+            }
+        }
+        
+
+    // }
+        
+
+}
+
+.list-md,.list-ios{
+    background:transparent;
+}
+
+
+// MEDIA QUERIES
+@media (min-width: 375px) and (max-width: 425px){
+   .cardLogin{
+       ion-item{
+        margin-left: 15px;
+        margin-right: 15px;
+       }
+   }
+  }
+
+
+@media (min-width: 567px) and (max-width: 991px){
+  .cardLogin{
+      width:70%;
+
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px){
+   .cardLogin{
+      width:60%;
+      
+  }
+}
+  
+@media (min-width: 1200px) {
+    .cardLogin{
+       width:35%;      
+    }
+   
+    .submitBtn {     
+          width: 35%;                      
+        
+    }
+}

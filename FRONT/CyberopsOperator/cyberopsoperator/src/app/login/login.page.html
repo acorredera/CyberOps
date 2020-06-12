@@ -1,0 +1,55 @@
+<ion-content class="bkgLogin">
+  
+  <ion-row>
+    
+    <ion-card class="cardLogin">
+        <ion-card-header>
+            <ion-icon class="logoCyberops"></ion-icon>
+        </ion-card-header>
+
+        <ion-card-content >
+         
+          <ion-item>
+            <ion-label>
+              <div class="iconUser"></div>
+            </ion-label>
+            <ion-input type="email" placeholder="Username" [(ngModel)]="userEmail" >
+            </ion-input>
+          </ion-item>
+
+         
+          <ion-item >
+            <ion-label>
+                <div class="iconPass"></div>
+            </ion-label>
+            <ion-input type="password" placeholder="Password" [(ngModel)]="password">
+            </ion-input>
+          </ion-item>
+
+          <!-- <ion-item >
+            <ion-label>
+                <div class="iconIP"></div>
+            </ion-label>
+            <ion-input type="text" placeholder="IP Address" >
+            </ion-input>
+          </ion-item> -->
+
+          <ion-label *ngIf="errorAuthentication==true">
+              <ion-icon name="information-circle"></ion-icon>
+              <p>Usuario o contraseña incorrectos</p>
+              <p>Por favor, inténtelo de nuevo</p>
+          </ion-label>
+
+          <ion-button class="submitBtn" (click)="goToMedioAmbiente()">
+          <p>Entrar</p>
+          </ion-button>
+          
+        </ion-card-content>
+      <!-- </ion-list> -->
+    </ion-card>
+ 
+  </ion-row>
+
+
+
+</ion-content>
