@@ -23,13 +23,21 @@ def get_status_servers(DAO,DAO_anomalies, room_id, rack_id, server_id,initial_ti
 
     return dict_status, color, anomaly_type, anomaly_value
 
-#PREGUNTAR MARTA PORQUE LO DIJIMOS...
+
 def color_status(status_total):
-    if(status_total <= 50):
+    if(status_total <= 0):
+        color="grey"
+    elif(status_total <= 20 and status_total>0):
+        color = "purple"
+    elif(status_total <= 40 and status_total>20):
+        color = "blue"
+    elif (status_total <= 60 and status_total > 40):
         color = "green"
-    elif(status_total >50 and status_total<=80):
-        color = "yellow"
-    else:#yo aquí pondría algun color alternativo para decir que probablemente no esté operativo o a la carga que debería -> azul??
+    elif (status_total <= 80 and status_total > 60):
+        color = "orange"
+    elif (status_total <= 100 and status_total > 80):
+        color = "red"
+    else:
         color = "red"
     return color
 
@@ -52,6 +60,10 @@ def get_total_status(dict_status, minTmp = 22, maxTmp=73, minEnergy = 0, maxEner
             min = 0
             max = 100
         total += 0.33 * get_percentage(dict_status[metric], min, max)
+        if(total <0):
+            total = 0
+        elif(total >100):
+            total = 100
     return total
 
 
