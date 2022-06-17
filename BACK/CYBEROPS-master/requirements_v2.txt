@@ -6,7 +6,7 @@ DBUtils==1.1
 execnet==1.6.1
 futures==3.3.0
 mock==1.0.1
-numpy==1.12.1
+numpy==1.21.0
 nupic==1.0.5
 nupic.bindings==1.0.6
 ordereddict==1.1
