@@ -44,7 +44,7 @@ numpy==1.16.2
 pandas==0.24.1
 pbr==5.1.2
 Pillow==9.0.1
-protobuf==3.6.1
+protobuf==3.18.3
 psutil==5.5.1
 py4j==0.10.7
 pyasn1==0.4.5
